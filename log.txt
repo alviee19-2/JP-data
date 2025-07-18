@@ -1,0 +1,56 @@
+ for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  date_str = datetime.utcnow().strftime("%Y%m%d")
+Saved: raw_data\HK0000151891_20250718.json
+Saved: raw_data\HK0000055613_20250718.json
+[Error] 抓取 LU0169518387 失敗：Expecting value: line 1 column 1 (char 0)
+Saved: raw_data\LU0441854154_20250718.json
+Saved: raw_data\LU0210526637_20250718.json
+[Error] 抓取 LU1255011170 失敗：Expecting value: line 1 column 1 (char 0)
+Saved: raw_data\LU0927678507_20250718.json
+[Error] 抓取 LU0329204464 失敗：Expecting value: line 1 column 1 (char 0)
+Saved: raw_data\LU0210529656_20250718.json
+Saved: raw_data\LU0972618572_20250718.json
+[Error] 抓取 LU0955580203 失敗：Expecting value: line 1 column 1 (char 0)
+Saved: raw_data\LU0210528500_20250718.json
+Saved: raw_data\LU0210536198_20250718.json
+[Error] 抓取 LU0210536511 失敗：Expecting value: line 1 column 1 (char 0)
+[Error] 抓取 LU0210528922 失敗：Expecting value: line 1 column 1 (char 0)
+[Error] 抓取 LU2582001959 失敗：Expecting value: line 1 column 1 (char 0)
+[Error] 抓取 LU0329201957 失敗：Expecting value: line 1 column 1 (char 0)
+Saved: raw_data\LU0070217475_20250718.json
+[Error] 抓取 LU2402382688 失敗：Expecting value: line 1 column 1 (char 0)
+Saved: raw_data\HK0000055597_20250718.json
+[Error] 抓取 LU0210533179 失敗：Expecting value: line 1 column 1 (char 0)
+Saved: raw_data\LU0210532957_20250718.json
+Saved: raw_data\LU0499112034_20250718.json
+[Error] 抓取 LU0408846375 失敗：Expecting value: line 1 column 1 (char 0)
+Saved: raw_data\LU0406674159_20250718.json
+Saved: raw_data\LU0344579056_20250718.json
+[Error] 抓取 LU0513027705 失敗：Expecting value: line 1 column 1 (char 0)
+[Error] 抓取 LU2521021324 失敗：Expecting value: line 1 column 1 (char 0)
+Saved: raw_data\LU0210527791_20250718.json
+[Error] 抓取 LU0762807625 失敗：Expecting value: line 1 column 1 (char 0)
+[Error] 抓取 LU1303367103 失敗：Expecting value: line 1 column 1 (char 0)
+[Error] 抓取 LU0441851309 失敗：Expecting value: line 1 column 1 (char 0)
+[Error] 抓取 LU0318934451 失敗：Expecting value: line 1 column 1 (char 0)
+Saved: raw_data\LU0210527015_20250718.json
+[Error] 抓取 HK0000055662 失敗：Expecting value: line 1 column 1 (char 0)
+Saved: raw_data\LU0301634860_20250718.json
+Saved: raw_data\LU0210535034_20250718.json
+Saved: raw_data\LU0210528419_20250718.json
+Saved: raw_data\LU0210526801_20250718.json
+Saved: raw_data\LU0119078227_20250718.json
+Saved: raw_data\LU0979766432_20250718.json
+[Error] 抓取 LU2394011477 失敗：Expecting value: line 1 column 1 (char 0)
+Saved: raw_data\LU0432979614_20250718.json
+Saved: raw_data\LU0266512127_20250718.json
+[Error] 抓取 LU2050612402 失敗：Expecting value: line 1 column 1 (char 0)
+Saved: raw_data\HK0000306420_20250718.json
+Saved: raw_data\HK0000055761_20250718.json
+Saved: raw_data\LU0210532015_20250718.json
+[Error] 抓取 LU0210536867 失敗：Expecting value: line 1 column 1 (char 0)
+[Error] 抓取 LU0408876521 失敗：Expecting value: line 1 column 1 (char 0)
+[Error] 抓取 LU0430494889 失敗：Expecting value: line 1 column 1 (char 0)
+[Error] 抓取 LU0562247428 失敗：Expecting value: line 1 column 1 (char 0)
+Saved: raw_data\LU1041599405_20250718.json
+[Error] 抓取 LU0867954264 失敗：Expecting value: line 1 column 1 (char 0)

@@ -1,0 +1,5322 @@
+{
+  "fundData": {
+    "stringValueWrapper": {
+      "referenceCalendar": null,
+      "securityLendingFlag": null,
+      "ukSdrCategorisation": null,
+      "fundIndicatorValue": null,
+      "associatedMasterFundId": null,
+      "associatedMasterFundType": null,
+      "showKeyRiskCard": false,
+      "authorizedParticipants": [],
+      "marketMakers": []
+    },
+    "cmsHost": "https://am.jpmorgan.com",
+    "cachedForRole": "adv",
+    "marketingFundCategoryName": "Asia Pacific - Equity",
+    "fundIdentifier": "38C521DFF9665D16E05362C74BA99E88",
+    "name": "JPMorgan Asia Equity Dividend Fund",
+    "currencyCode": "USD",
+    "fundTypeCode": "HONG_KONG_UNIT_TRUST",
+    "regionOfInvestmentCode": "Asia Pacific",
+    "fundRange": "HKUT",
+    "shareClass": {
+      "secYield": {
+        "effectiveDate": null,
+        "thirtyDayUnsubSecYield": null,
+        "thirtyDaySecYield": null,
+        "sevenDaySecYield": null,
+        "sevenDayUnsubSecYield": null,
+        "dividendYield": null,
+        "taxEquivalentYield": null,
+        "taxEquivalentYieldAt35Percentage": null,
+        "oneDayCurrentYield": null,
+        "sevenDayCurrentYield": null,
+        "yieldAmount": null,
+        "thirtyDayCurrentYield": null,
+        "twlvMthSimpleYield": null
+      },
+      "etfSecYield": null,
+      "dailyYield": {
+        "effectiveDate": null,
+        "thirtyDayUnsubSecYield": null,
+        "thirtyDaySecYield": null,
+        "sevenDaySecYield": null,
+        "sevenDayUnsubSecYield": null,
+        "dividendYield": null,
+        "taxEquivalentYield": null,
+        "taxEquivalentYieldAt35Percentage": null,
+        "oneDayCurrentYield": null,
+        "sevenDayCurrentYield": null,
+        "yieldAmount": null,
+        "thirtyDayCurrentYield": null,
+        "twlvMthSimpleYield": null
+      },
+      "apacYield": null,
+      "apacFundShareclass": {
+        "intendedDividendFrequencyCode": "MONTHLY",
+        "apacFundShareclassYield": [],
+        "intermediaryFundIndicator": "N",
+        "intermediaryFundCategoryCode": null,
+        "apacFundShareclassMarketingText": null
+      },
+      "yieldMonthEnd": {
+        "effectiveDate": null,
+        "dividendYield": null,
+        "sevenDaySecYield": null,
+        "sevenDayUnsubSecYield": null,
+        "thirtyDaySecYield": null,
+        "thirtyDayUnsubSecYield": null,
+        "twlvMthSimpleYield": null,
+        "taxEquivalentYieldAt35Percentage": null
+      },
+      "ytdPercentage": {
+        "ytdDate": "2025-07-23",
+        "ytdPercentage": 0.193636,
+        "salesChargeAdjustedYtdPercentage": null
+      },
+      "ticker": "JPAEDUS HK",
+      "iressTicker": null,
+      "exchangeTicker": null,
+      "listingDate": null,
+      "headerTicker": "HK0000151891",
+      "sedolCode": "BBMT4W1",
+      "hkTACode": "AEDAMU",
+      "twTACode": null,
+      "viivTicker": null,
+      "wknCode": null,
+      "currencyCode": "USD",
+      "distributionFrequency": "monthly",
+      "distributionDate": null,
+      "reutersInstrumentCode": null,
+      "shareclassNumber": "",
+      "tradingInfo": {
+        "nav": "",
+        "underlyingTradingValue": "",
+        "sharesOutstanding": "",
+        "estimatedCash": "",
+        "totalCash": "",
+        "exchange": null
+      },
+      "nav": {
+        "price": 11.11,
+        "date": "2025-07-23",
+        "navEffectiveDate": "2025-07-23",
+        "navMovementEffectiveDate": "2025-07-23",
+        "changePercentage": 1.1839708,
+        "changeAmount": null,
+        "highNavPrice": 10.42,
+        "highNavPriceDate": "2024-10-02",
+        "lowNavPrice": 8.59,
+        "lowNavPriceDate": "2025-04-09",
+        "highMktNavPrice": null,
+        "highMktNavdate": null,
+        "lowMktNavPrice": null,
+        "lowMktNavdate": null,
+        "marketValueNavPrice": null,
+        "intraDayDateTime": null,
+        "currencyCode": "USD",
+        "timeZone": null,
+        "premiumDiscountPercentage": null,
+        "gearingPercentage": null,
+        "medianBidAskSpreadValue": null,
+        "navDecimalPoints": -1,
+        "closingPrice": null
+      },
+      "shareclassLaunchPrice": null,
+      "expenses": {
+        "netExpense": null,
+        "grossExpense": null,
+        "managementFee": 1.5,
+        "investmentManagement": null,
+        "mer": null,
+        "expenseRecoveries": null,
+        "otherIndirectCosts": null,
+        "buySpread": null,
+        "sellSpread": null
+      },
+      "categoryCode": "NONE",
+      "displayName": "(mth) - USD Class",
+      "shortName": "(mth) - USD Class",
+      "name": "JPMorgan Asia Equity Dividend (mth) - USD",
+      "cusip": "HK0000151891",
+      "isin": null,
+      "marketPrice": {
+        "amount": null,
+        "changeAmount": null,
+        "date": "2025-06-30",
+        "changePercentage": null,
+        "dailyHighPrice": null,
+        "dailyLowPrice": null,
+        "premiumDiscountPercentage": null
+      },
+      "fundShareclassPerformanceReturn": [],
+      "fundShareclassPerformanceReturnMonthEnd": null,
+      "marketPriceReturn": {
+        "marketPriceReturnPercentage": null,
+        "marketPriceReturnDate": null
+      },
+      "premiumDiscount": null,
+      "shareClassInceptionDate": "2013-05-31",
+      "netGrossAssetClass": 258297648.73,
+      "grossAssetClassEffectiveDate": "2025-07-23",
+      "cutOffTime": "17:00",
+      "cutOffTimeZone": "HKT",
+      "sharesOutstanding": 23242472.231,
+      "minimumInvestments": {
+        "iraInvestments": null,
+        "iraSubsequentInvestments": null,
+        "regularInvestments": null,
+        "regularSubsequentInvestments": null,
+        "investmentLimitAmount": null
+      },
+      "fees": {
+        "annualOperatingExpenses": null,
+        "feeWaiver": null,
+        "expenseRatio": null,
+        "expenseCapExpiryDate": null,
+        "investmentManagement": null,
+        "serviceFees": null,
+        "otherExpense": null,
+        "totalExpenseRatio": 1.618797,
+        "acquiredFund": null,
+        "expenseLess": null,
+        "publishedOngoingCharge": null,
+        "ongoingCharge": null,
+        "publishedOngoingChargePriips": null,
+        "ongoingChargePriips": null,
+        "distributionFee": null,
+        "subscriptionFees": 5.0,
+        "redemptionFees": 0.0,
+        "perfFeeRate": null,
+        "annualMgmtAdvFees": null,
+        "annualMgmtAdvFeesText": null,
+        "opAdminExpenses": null,
+        "expenseRecoveries": null,
+        "otherIndirectCosts": null,
+        "buySpread": null,
+        "sellSpread": null,
+        "mer": null,
+        "managementFee": 1.5,
+        "custodianFee": null,
+        "stockholderServiceFee": null,
+        "incentiveFee": null,
+        "transactionCosts": null,
+        "establishmentCosts": null
+      },
+      "exchangeVolume": null,
+      "wal": null,
+      "wam": null,
+      "performanceReturns": null,
+      "cumulativePerformanceReturns": [
+        {
+          "performanceFactor": "(mth) - USD Class",
+          "translationKey": null,
+          "performanceFactorTranslationMap": null,
+          "benchmarkIdentifier": null,
+          "oneMonth": 0.062318,
+          "threeMonths": 0.071627,
+          "sixMonths": 0.092618,
+          "ytd": 0.095831,
+          "oneYear": 0.14798,
+          "threeYears": 0.179618,
+          "fiveYears": 0.623756,
+          "inception": 0.751785,
+          "tenYears": null,
+          "fifteenYears": null,
+          "effectiveDate": "2025-05-30",
+          "twoYears": 0.270725,
+          "fourYears": 0.087611,
+          "sixYears": null,
+          "sevenYears": null,
+          "eightYears": null,
+          "nineYears": null,
+          "jan": null,
+          "feb": null,
+          "mar": null,
+          "apr": null,
+          "may": null,
+          "jun": null,
+          "jul": null,
+          "aug": null,
+          "sep": null,
+          "oct": null,
+          "nov": null,
+          "dec": null,
+          "annualizedDistributionRate": null,
+          "monthlyBenchmarkDataNull": false,
+          "yearlyBenchmarkDataNull": false,
+          "quarterlyBenchmarkDataNull": false
+        },
+        {
+          "performanceFactor": "Benchmark",
+          "translationKey": "Benchmark",
+          "performanceFactorTranslationMap": null,
+          "benchmarkIdentifier": null,
+          "oneMonth": 0.051,
+          "threeMonths": null,
+          "sixMonths": 0.067,
+          "ytd": 0.08,
+          "oneYear": 0.139,
+          "threeYears": 0.178,
+          "fiveYears": 0.444,
+          "inception": 0.809,
+          "tenYears": null,
+          "fifteenYears": null,
+          "effectiveDate": "2025-05-30",
+          "twoYears": null,
+          "fourYears": null,
+          "sixYears": null,
+          "sevenYears": null,
+          "eightYears": null,
+          "nineYears": null,
+          "jan": null,
+          "feb": null,
+          "mar": null,
+          "apr": null,
+          "may": null,
+          "jun": null,
+          "jul": null,
+          "aug": null,
+          "sep": null,
+          "oct": null,
+          "nov": null,
+          "dec": null,
+          "annualizedDistributionRate": null,
+          "monthlyBenchmarkDataNull": false,
+          "yearlyBenchmarkDataNull": false,
+          "quarterlyBenchmarkDataNull": false
+        }
+      ],
+      "annualizedPerformanceReturns": [
+        {
+          "performanceFactor": "JPMorgan Asia Equity Dividend (mth) - USD",
+          "translationKey": null,
+          "performanceFactorTranslationMap": {
+            "en": "(mth) - USD Class",
+            "cn": "（每月派息）美元类别",
+            "zh": "（每月派息）美元類別"
+          },
+          "benchmarkIdentifier": null,
+          "oneMonth": null,
+          "threeMonths": null,
+          "sixMonths": null,
+          "ytd": 0.095831,
+          "oneYear": 0.14798,
+          "threeYears": 0.056607,
+          "fiveYears": 0.101803,
+          "inception": 0.047805,
+          "tenYears": null,
+          "fifteenYears": null,
+          "effectiveDate": "2025-05-30",
+          "twoYears": 0.127264,
+          "fourYears": 0.021217,
+          "sixYears": null,
+          "sevenYears": null,
+          "eightYears": null,
+          "nineYears": null,
+          "jan": null,
+          "feb": null,
+          "mar": null,
+          "apr": null,
+          "may": null,
+          "jun": null,
+          "jul": null,
+          "aug": null,
+          "sep": null,
+          "oct": null,
+          "nov": null,
+          "dec": null,
+          "annualizedDistributionRate": null,
+          "monthlyBenchmarkDataNull": false,
+          "yearlyBenchmarkDataNull": false,
+          "quarterlyBenchmarkDataNull": false
+        },
+        {
+          "performanceFactor": "Benchmark",
+          "translationKey": "Benchmark",
+          "performanceFactorTranslationMap": null,
+          "benchmarkIdentifier": null,
+          "oneMonth": null,
+          "threeMonths": null,
+          "sixMonths": null,
+          "ytd": 0.08,
+          "oneYear": null,
+          "threeYears": 0.056,
+          "fiveYears": 0.076,
+          "inception": 0.051,
+          "tenYears": null,
+          "fifteenYears": null,
+          "effectiveDate": "2025-05-30",
+          "twoYears": null,
+          "fourYears": null,
+          "sixYears": null,
+          "sevenYears": null,
+          "eightYears": null,
+          "nineYears": null,
+          "jan": null,
+          "feb": null,
+          "mar": null,
+          "apr": null,
+          "may": null,
+          "jun": null,
+          "jul": null,
+          "aug": null,
+          "sep": null,
+          "oct": null,
+          "nov": null,
+          "dec": null,
+          "annualizedDistributionRate": null,
+          "monthlyBenchmarkDataNull": false,
+          "yearlyBenchmarkDataNull": false,
+          "quarterlyBenchmarkDataNull": false
+        }
+      ],
+      "performanceSummaryReturns": null,
+      "morningstarRating": [
+        {
+          "periodIndicator": null,
+          "rankNumber": 3,
+          "peerGroupCount": null,
+          "groupPercentile": null,
+          "effectiveDate": "2025-06-30"
+        }
+      ],
+      "morningstarRatingEffectiveDate": null,
+      "fundShareClassValuationDate": "2025-07-23",
+      "morningstarRatingCategory": "Asia-Pacific ex-Japan Equity Income",
+      "lipperRating": null,
+      "lipperRatingEffectiveDate": null,
+      "lipperRatingCategory": "Asia-Pacific ex-Japan Equity Income",
+      "dailyDividendFactor": null,
+      "taxAwareFlag": "no",
+      "identifier": "38C521E018795D16E05362C74BA99E88",
+      "htmlCommentaries": null,
+      "saleCharge": null,
+      "calendarYearBenchmarkReturns": [],
+      "statusTypeCode": "O-O",
+      "intraDayNav": null,
+      "morningstarOverallRating": {
+        "morningstarAnalystRatingIndicator": null,
+        "fundShareclassIndustryRatingDate": "2025-06-30",
+        "peerGroupName": null,
+        "value": 3,
+        "morningstarMedalistRatingIndicator": "B",
+        "analystDrivenPercentage": 100,
+        "dataCoveragePercentage": 100
+      },
+      "emeaFundShareclass": null,
+      "renderPerformanceCard": true,
+      "nonFairNav": {
+        "nonFairValueNAVDate": null,
+        "nonFairValueNAVPrice": null,
+        "currencyCode": null
+      },
+      "threePMNav": {
+        "nonFairValueNAVDate": null,
+        "nonFairValueNAVPrice": null,
+        "currencyCode": null
+      },
+      "ukReportingIndicator": null,
+      "hedgedShareclassIndicator": "N",
+      "settlementCycleRedemptionName": null,
+      "valoren": null,
+      "fundShareclassDividend": {
+        "exDate": "2025-06-30",
+        "dividendAmount": 0.032,
+        "payDate": "2025-07-09",
+        "recordDate": "2025-06-27",
+        "annualizedDividendYieldPercentage": 3.6277297873025,
+        "distributionTypeCode": "DVDYLD",
+        "annualizedDividendYieldF2Percentage": null,
+        "currentDividendRationPercentage": null
+      },
+      "exDividendDate": "2025-06-30",
+      "incomeDistributionFrequency": null,
+      "incomeDistributionDate": null,
+      "registeredCountries": [
+        {
+          "effectiveDate": "2012-03-02",
+          "country": "Hong Kong",
+          "countryCode": "HK"
+        },
+        {
+          "effectiveDate": "2012-05-04",
+          "country": "Macau",
+          "countryCode": "MO"
+        }
+      ],
+      "quarterlyRollingPerformanceReturns": null,
+      "monthlyRollingPerformanceReturns": null,
+      "fundTradingLine": null,
+      "lastReactivationDate": null,
+      "redemptionSettlementDate": null,
+      "dealingFrequency": "Daily",
+      "benchmarkRestructuringDate": null,
+      "languageToTranslationTexts": null,
+      "valueAtRiskBreakdown": null,
+      "fundShareclassMonthEndPeriodRisk": {
+        "performanceRiskEffectiveDate": null,
+        "regionCode": null,
+        "riskPeriodIndicator": null,
+        "alphaValue": null,
+        "betaValue": null,
+        "sharpeRatioValue": null,
+        "standardDeviationValue": null,
+        "trackingErrorValue": null,
+        "correlationValue": null,
+        "annualVolatilityPercentage": null,
+        "averageAnnualReturnPercentage": null,
+        "valueAtRiskPercentage": null,
+        "informationRatioValue": null,
+        "activeSharePercentage": null,
+        "proxyOverlap": null,
+        "proxyTrackingError": null,
+        "rsquaredValue": null
+      },
+      "distributingCode": "MTH",
+      "calendarYearExcessReturn": null,
+      "calendarYearYTD": null,
+      "isMotherShareclass": true,
+      "premiumDiscountPercentage": null,
+      "gearingPercentage": null,
+      "sharePrice": null,
+      "intraDayDateTime": null,
+      "brandImageURL": null,
+      "srriValue": null,
+      "fundShareclassRegistrations": [
+        {
+          "country": {
+            "code": "MO",
+            "name": "Macau"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "MO",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2012-05-04"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "HK",
+            "name": "Hong Kong"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "HK",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2012-03-02"
+            }
+          ]
+        }
+      ],
+      "newspaperShortName": null,
+      "specialDistributionPolicyCode": null,
+      "shareclassInvestmentPolicy": null,
+      "verifiedIntraDayValue": null,
+      "cmsId": null,
+      "fundCmsId": null,
+      "proxyOverlap": null,
+      "proxyTrackingError": null,
+      "proxyPerfRiskEffectiveDate": null,
+      "fundShareclassHypoPerformances": null,
+      "fundShareclassEvents": null,
+      "ytmYtwBannerCode": null,
+      "netYieldToMaturity": null,
+      "netYieldToWorst": null,
+      "fundRiskRatingValue": "",
+      "netYieldToMaturityEffectiveDate": null
+    },
+    "riskLevel": 4,
+    "visibleData": {
+      "visibleCharts": [
+        "HISTORICAL_NAV_ADVANCED",
+        "PERFORMANCE"
+      ],
+      "visibleFundFacts": [
+        "ASSET_CLASS",
+        "FUND_INCEPTION_DATE",
+        "SHARECLASS_CURRENCY_CODE",
+        "REGION_OF_INVESTMENT",
+        "DISTRIBUTION_FREQUENCY",
+        "TICKER",
+        "SEDOL",
+        "ISIN",
+        "RISK",
+        "ESG_APPROACH"
+      ],
+      "visibleFundStats": [
+        "MARKET_AUM",
+        "NAV",
+        "TWELVE_MONTH_NAV_LABEL",
+        "TWELVE_MONTH_HIGH_NAV",
+        "TWELVE_MONTH_LOW_NAV",
+        "LATEST_DIVIDEND_VALUE",
+        "ANNUALIZED_YIELD",
+        "YTD"
+      ],
+      "visibleFinancialCalendar": [],
+      "visibleDataPoints": [
+        "SHOW_SHARECLASS_NAME",
+        "SHOW_AEM_DOCUMENT_LINK",
+        "ERD_DISCLOSURE",
+        "SHOW_TOP_10_HOLDINGS_HEADER",
+        "SHOW_PORTFOLIO_HOLDINGS_DISCLOSURE",
+        "HISTORICAL_CHART_RETURN_RATE",
+        "HISTORICAL_CHART_DATA_AVAILABLE_SINCE",
+        "HISTORICAL_CHART_HISTORICAL_LOW_HIGH",
+        "HISTORICAL_CHART_DENOMINATED_CURRENCY",
+        "HISTORICAL_CHART_X_AXIS_LONG_FORMAT",
+        "BREAKDOWN_TABLE_CHILD_CARD_DASH_AS_DEFAULT_VALUE",
+        "MAP_PEER_GROUP_CATEGORY_TO_MSTAR_CATEGORY",
+        "BOOTSTRAP_COLUMN_FULL_WIDTH",
+        "SHOW_FUND_HOLDINGS_SUB_HEADER",
+        "SHOW_MORNINGSTAR_RATING",
+        "HISTORICAL_CHART_DOWNLOAD_BUTTON_WITH_WIDER_TOP_MARGIN",
+        "PORTFOLIO_CHILD_CARD_SHOW_SECONDARY_VALUE",
+        "SHOW_DISTRIBUTION_TAB",
+        "PERFORMANCE_TAB_BENCHMARK_PERFORMANCE",
+        "CHARGES_CARD",
+        "PERFORMANCE_CHART_LEGEND",
+        "HIDE_RISK_PROFILE_CARD",
+        "PERFORMANCE_CHART_PER_ADV_TITLE",
+        "PERFORMANCE_CHART_DROPDOWN_WITH_SHARECLASS_LAUNCH_DATE",
+        "PERFORMANCE_CHART_SHOW_SHARECLASS_NAV",
+        "PERFORMANCE_CHART_SHOW_BENCHMARK_PERFORMANCE",
+        "PERFORMANCE_CHART_WITHOUT_CURRENCY_CODE",
+        "HIDE_DOWNLOAD_BUTTON",
+        "PERFORMANCE_CHART_SHOW_RE_STRUCTURING_LINE",
+        "SHOW_BENCHMARK_RESTRUCTURING_DATE",
+        "HIDE_FEES_CARD",
+        "SHOW_SUMMARY_HEADER_DISCLOSURE",
+        "SHOW_DYNAMIC_CONTENT_DRAWER",
+        "ESG_INTEGRATED_CARD_HARDCODED_CONTENT",
+        "SHOW_AEM_ESG_DISCLOSURE",
+        "SHOW_PORTFOLIO_INSIGHTS_CARD",
+        "SHOW_SUMMARY_HEADER_DISCLOSURE_PER",
+        "CHARGES_CARD_MANAGEMENT_FEE",
+        "CHARGES_CARD_INITIAL_CHARGE",
+        "CHARGES_CARD_REDEMPTION_FEE",
+        "IS_SUPPRESSION_REGULATORY_DOCUMENT",
+        "HIDE_BULLET_POINTS",
+        "IS_SUPPRESSION_NON_529_FUND_LITERATURE",
+        "SHOW_AWARDS_AND_RATINGS",
+        "PERFORMANCE_CARD_SHOULD_WARN_ABOUT_YOUNG_FUND",
+        "OVERRIDE_FACTSHEET_LABEL",
+        "SHOW_BENCHMARK_LONGNAMES"
+      ],
+      "visibleTopHoldings": [],
+      "visibleUnderlyingHoldings": [],
+      "visibleProxyHoldings": [],
+      "visiblePerformanceCardTabs": [
+        "CUMULATIVE_HK",
+        "CALENDAR_YEAR"
+      ],
+      "visibleRegionalDataPoint": [],
+      "visibleCards": [
+        "FUND_DISTRIBUTION_CARD"
+      ],
+      "visiblePortfolioCards": [
+        "FUND_HOLDINGS",
+        "PORTFOLIO_CHARACTERISTICS",
+        "PORTFOLIO_ANALYSIS",
+        "MULTI_PORTFOLIO_ANALYSIS",
+        "PORTFOLIO_ANALYSIS_BY_COUNTRY",
+        "PORTFOLIO_ANALYSIS_BY_SECTOR",
+        "EXPOSURE_CARD",
+        "PORTFOLIO_ANALYSIS_BY_EQUITY_REGIONS",
+        "PORTFOLIO_ANALYSIS_BY_EQUITY_SECTOR",
+        "PORTFOLIO_ANALYSIS_BY_EQUITY_SECTOR_CIFM",
+        "PORTFOLIO_ANALYSIS_BY_FIXED_INCOME_REGIONS",
+        "PORTFOLIO_ANALYSIS_BY_FIXED_INCOME_SECTOR",
+        "PORTFOLIO_ANALYSIS_BY_DENOMINATED_CURRENCY",
+        "PORTFOLIO_ANALYSIS_BY_CURRENCY",
+        "PORTFOLIO_ANALYSIS_BY_CONVERTIBLE_BONDS",
+        "PORTFOLIO_ANALYSIS_NET_LIQUIDITY",
+        "PORTFOLIO_STATISTICAL_ANALYSIS"
+      ],
+      "formattingRules": [
+        "FUND_ADVISORS_WITHOUT_FUND_EXPERIENCE",
+        "AUM_IN_MILLIONS",
+        "CHECK_HK_FUND_TYPE",
+        "PERFORMANCE_DATA_SHOW_IN_ONE_DECIMAL",
+        "HISTORICAL_NAV_CHART_ONE_MONTH_PERIOD",
+        "CURRENCY_FORMATTED_WITH_TRANSLATED_MESSAGE",
+        "FUND_STATS_DISPLAY_ON_INSTEAD_OF_AS_OFF",
+        "FUND_STATS_TWELVE_MONTH_NAV_SHOWS_SINCE_INCEPTION",
+        "FUND_STATS_NAV_GROUPED",
+        "FUND_STATS_YTD_WITH_1_DP",
+        "PERFORMANCE_CHART_SHOW_DATE_IN_MMYYYY",
+        "FUND_STATS_DISPLAY_CUSTOM_NULL_VALUE_FOR_RETAIL_FUNDS_LAST_DISTRIBUTION_DATA",
+        "ESG_INFORMATION_COLUMN_LAYOUT",
+        "AWARD_MORNINGSTAR_ALIGNMENT_APAC",
+        "NAV_DECIMAL_PLACES_UNLIMITED"
+      ]
+    },
+    "shareclassAllList": [
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151800",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (acc) - HKD",
+        "displayName": "JPMorgan Asia Equity Dividend (acc) - HKD",
+        "shortName": "JPMorgan Asia Equity Dividend (acc) - HKD",
+        "currencyCode": "HKD",
+        "distributingCode": "ACC",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": {
+          "en": "JPMorgan Asia Equity Dividend (acc) - HKD",
+          "cn": "摩根亚洲股息（港元）（累计）",
+          "zh": "摩根亞洲股息（港元）（累計）"
+        },
+        "shareclassShortNameTranslationMap": {
+          "en": "(acc) - HKD",
+          "cn": "（累计）港元类别",
+          "zh": "（累計）港元類別"
+        },
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "AU",
+              "name": "Australia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-10"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "TW",
+              "name": "Taiwan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "TW",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "RECOGNISED_FORM_2",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED_PRIVATE",
+                "registrationSchemeCd": "RESTRICTED_FORM_5",
+                "date": "2011-07-18"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BH",
+              "name": "Bahrain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BH",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BE",
+              "name": "Belgium"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LU",
+              "name": "Luxembourg"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JP",
+              "name": "Japan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JP",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JE",
+              "name": "Jersey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "KR",
+              "name": "Korea"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "KR",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000188026",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (acc) - RMB (hedged)",
+        "displayName": "JPMorgan Asia Equity Dividend (acc) - RMB (hedged)",
+        "shortName": "JPMorgan Asia Equity Dividend (acc) - RMB (hedged)",
+        "currencyCode": "CNY",
+        "distributingCode": "ACC",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": {
+          "en": "JPMorgan Asia Equity Dividend (acc) - RMB (hedged)",
+          "cn": "摩根亚洲股息（人民币对冲）（累计）",
+          "zh": "摩根亞洲股息（人民幣對沖）（累計）"
+        },
+        "shareclassShortNameTranslationMap": {
+          "en": "(acc) - RMB (hedged) Class",
+          "cn": "（累计）人民币对冲类别",
+          "zh": "（累計）人民幣對沖類別"
+        },
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "AU",
+              "name": "Australia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-10"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "TW",
+              "name": "Taiwan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "TW",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "RECOGNISED_FORM_2",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED_PRIVATE",
+                "registrationSchemeCd": "RESTRICTED_FORM_5",
+                "date": "2011-07-18"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BH",
+              "name": "Bahrain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BH",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BE",
+              "name": "Belgium"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LU",
+              "name": "Luxembourg"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JP",
+              "name": "Japan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JP",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JE",
+              "name": "Jersey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "KR",
+              "name": "Korea"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "KR",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "QDII",
+                "date": null
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151818",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (acc) - USD",
+        "displayName": "JPMorgan Asia Equity Dividend (acc) - USD",
+        "shortName": "JPMorgan Asia Equity Dividend (acc) - USD",
+        "currencyCode": "USD",
+        "distributingCode": "ACC",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": {
+          "en": "JPMorgan Asia Equity Dividend (acc) - USD",
+          "cn": "摩根亚洲股息（美元）（累计）",
+          "zh": "摩根亞洲股息（美元）（累計）"
+        },
+        "shareclassShortNameTranslationMap": {
+          "en": "(acc) - USD",
+          "cn": "（累计）美元类别",
+          "zh": "（累計）美元類別"
+        },
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "AU",
+              "name": "Australia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-10"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "TW",
+              "name": "Taiwan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "TW",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "RECOGNISED_FORM_2",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED_PRIVATE",
+                "registrationSchemeCd": "RESTRICTED_FORM_5",
+                "date": "2011-07-18"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BH",
+              "name": "Bahrain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BH",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BE",
+              "name": "Belgium"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LU",
+              "name": "Luxembourg"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JP",
+              "name": "Japan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JP",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JE",
+              "name": "Jersey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "KR",
+              "name": "Korea"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "KR",
+                "fundRegistrationStatusCode": "BLUE",
+                "registrationSchemeCd": "NA",
+                "date": "2018-12-31"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "QDII",
+                "date": null
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151826",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - AUD (hedged)",
+        "displayName": "JPMorgan Asia Equity Dividend (mth) - AUD (hedged)",
+        "shortName": "JPMorgan Asia Equity Dividend (mth) - AUD (hedged)",
+        "currencyCode": "AUD",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": {
+          "en": "JPMorgan Asia Equity Dividend (mth) - AUD (hedged)",
+          "cn": "摩根亚洲股息（澳元对冲）（每月派息）",
+          "zh": "摩根亞洲股息（澳元對沖）（每月派息）"
+        },
+        "shareclassShortNameTranslationMap": {
+          "en": "(mth) - AUD (hedged) Class",
+          "cn": "（每月派息）澳元对冲类别",
+          "zh": "（每月派息）澳元對沖類別"
+        },
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "AU",
+              "name": "Australia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "TW",
+              "name": "Taiwan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "TW",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "RECOGNISED_FORM_2",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED_PRIVATE",
+                "registrationSchemeCd": "RESTRICTED_FORM_5",
+                "date": "2011-07-18"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BH",
+              "name": "Bahrain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BH",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BE",
+              "name": "Belgium"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LU",
+              "name": "Luxembourg"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JP",
+              "name": "Japan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JP",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JE",
+              "name": "Jersey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "KR",
+              "name": "Korea"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "KR",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "QDII",
+                "date": null
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151834",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - CAD (hedged)",
+        "displayName": "JPMorgan Asia Equity Dividend (mth) - CAD (hedged)",
+        "shortName": "JPMorgan Asia Equity Dividend (mth) - CAD (hedged)",
+        "currencyCode": "CAD",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": {
+          "en": "JPMorgan Asia Equity Dividend (mth) - CAD (hedged)",
+          "cn": "摩根亚洲股息（加元对冲）（每月派息）",
+          "zh": "摩根亞洲股息（加元對沖）（每月派息）"
+        },
+        "shareclassShortNameTranslationMap": {
+          "en": "(mth) - CAD (hedged) Class",
+          "cn": "（每月派息）加元对冲类别",
+          "zh": "（每月派息）加元對沖類別"
+        },
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "AU",
+              "name": "Australia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "TW",
+              "name": "Taiwan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "TW",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "RECOGNISED_FORM_2",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED_PRIVATE",
+                "registrationSchemeCd": "RESTRICTED_FORM_5",
+                "date": "2011-07-18"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BH",
+              "name": "Bahrain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BH",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BE",
+              "name": "Belgium"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LU",
+              "name": "Luxembourg"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JP",
+              "name": "Japan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JP",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JE",
+              "name": "Jersey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "KR",
+              "name": "Korea"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "KR",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "QDII",
+                "date": null
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151842",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - EUR (hedged)",
+        "displayName": "JPMorgan Asia Equity Dividend (mth) - EUR (hedged)",
+        "shortName": "JPMorgan Asia Equity Dividend (mth) - EUR (hedged)",
+        "currencyCode": "EUR",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": {
+          "en": "JPMorgan Asia Equity Dividend (mth) - EUR (hedged)",
+          "cn": "摩根亚洲股息（欧元对冲）（每月派息）",
+          "zh": "摩根亞洲股息（歐元對沖）（每月派息）"
+        },
+        "shareclassShortNameTranslationMap": {
+          "en": "(mth) - EUR (hedged) Class",
+          "cn": "（每月派息）欧元对冲类别",
+          "zh": "（每月派息）歐元對沖類別"
+        },
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "AU",
+              "name": "Australia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "TW",
+              "name": "Taiwan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "TW",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "RECOGNISED_FORM_2",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED_PRIVATE",
+                "registrationSchemeCd": "RESTRICTED_FORM_5",
+                "date": "2011-07-18"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BH",
+              "name": "Bahrain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BH",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BE",
+              "name": "Belgium"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LU",
+              "name": "Luxembourg"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JP",
+              "name": "Japan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JP",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JE",
+              "name": "Jersey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "KR",
+              "name": "Korea"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "KR",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151859",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - GBP (hedged)",
+        "displayName": "JPMorgan Asia Equity Dividend (mth) - GBP (hedged)",
+        "shortName": "JPMorgan Asia Equity Dividend (mth) - GBP (hedged)",
+        "currencyCode": "GBP",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": {
+          "en": "JPMorgan Asia Equity Dividend (mth) - GBP (hedged)",
+          "cn": "摩根亚洲股息（英镑对冲）（每月派息）",
+          "zh": "摩根亞洲股息（英鎊對沖）（每月派息）"
+        },
+        "shareclassShortNameTranslationMap": {
+          "en": "(mth) - GBP (hedged) Class",
+          "cn": "（每月派息）英镑对冲类别",
+          "zh": "（每月派息）英鎊對沖類別"
+        },
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "AU",
+              "name": "Australia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "TW",
+              "name": "Taiwan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "TW",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "RECOGNISED_FORM_2",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED_PRIVATE",
+                "registrationSchemeCd": "RESTRICTED_FORM_5",
+                "date": "2011-07-18"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BH",
+              "name": "Bahrain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BH",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BE",
+              "name": "Belgium"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LU",
+              "name": "Luxembourg"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JP",
+              "name": "Japan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JP",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JE",
+              "name": "Jersey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "KR",
+              "name": "Korea"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "KR",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151867",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - HKD",
+        "displayName": "JPMorgan Asia Equity Dividend (mth) - HKD",
+        "shortName": "JPMorgan Asia Equity Dividend (mth) - HKD",
+        "currencyCode": "HKD",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": {
+          "en": "JPMorgan Asia Equity Dividend (mth) - HKD",
+          "cn": "摩根亚洲股息（港元）（每月派息）",
+          "zh": "摩根亞洲股息（港元）（每月派息）"
+        },
+        "shareclassShortNameTranslationMap": {
+          "en": "(mth) - HKD Class",
+          "cn": "（每月派息）港元类别",
+          "zh": "（每月派息）港元類別"
+        },
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "AU",
+              "name": "Australia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "TW",
+              "name": "Taiwan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "TW",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "RECOGNISED_FORM_2",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED_PRIVATE",
+                "registrationSchemeCd": "RESTRICTED_FORM_5",
+                "date": "2011-07-18"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BH",
+              "name": "Bahrain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BH",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BE",
+              "name": "Belgium"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LU",
+              "name": "Luxembourg"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JP",
+              "name": "Japan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JP",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JE",
+              "name": "Jersey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "KR",
+              "name": "Korea"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "KR",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "QDII",
+                "date": null
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151875",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - NZD (hedged)",
+        "displayName": "JPMorgan Asia Equity Dividend (mth) - NZD (hedged)",
+        "shortName": "JPMorgan Asia Equity Dividend (mth) - NZD (hedged)",
+        "currencyCode": "NZD",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": true,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": {
+          "en": "JPMorgan Asia Equity Dividend (mth) - NZD (hedged)",
+          "cn": "摩根亚洲股息（纽元对冲）（每月派息）",
+          "zh": "摩根亞洲股息（紐元對沖）（每月派息）"
+        },
+        "shareclassShortNameTranslationMap": {
+          "en": "(mth) - NZD (hedged) Class",
+          "cn": "（每月派息）纽元对冲类别",
+          "zh": "（每月派息）紐元對沖類別"
+        },
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "AU",
+              "name": "Australia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "TW",
+              "name": "Taiwan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "TW",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "RECOGNISED_FORM_2",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED_PRIVATE",
+                "registrationSchemeCd": "RESTRICTED_FORM_5",
+                "date": "2011-07-18"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BH",
+              "name": "Bahrain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BH",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BE",
+              "name": "Belgium"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LU",
+              "name": "Luxembourg"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JP",
+              "name": "Japan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JP",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JE",
+              "name": "Jersey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "KR",
+              "name": "Korea"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "KR",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000188034",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - RMB (hedged)",
+        "displayName": "JPMorgan Asia Equity Dividend (mth) - RMB (hedged)",
+        "shortName": "JPMorgan Asia Equity Dividend (mth) - RMB (hedged)",
+        "currencyCode": "CNY",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": true,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": {
+          "en": "JPMorgan Asia Equity Dividend (mth) - RMB (hedged)",
+          "cn": "摩根亚洲股息（人民币对冲）（每月派息）",
+          "zh": "摩根亞洲股息（人民幣對沖）（每月派息）"
+        },
+        "shareclassShortNameTranslationMap": {
+          "en": "(mth) - RMB (hedged) Class",
+          "cn": "（每月派息）人民币对冲类别",
+          "zh": "（每月派息）人民幣對沖類別"
+        },
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "AU",
+              "name": "Australia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "TW",
+              "name": "Taiwan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "TW",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "RECOGNISED_FORM_2",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED_PRIVATE",
+                "registrationSchemeCd": "RESTRICTED_FORM_5",
+                "date": "2011-07-18"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BH",
+              "name": "Bahrain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BH",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BE",
+              "name": "Belgium"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LU",
+              "name": "Luxembourg"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JP",
+              "name": "Japan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JP",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JE",
+              "name": "Jersey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "KR",
+              "name": "Korea"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "KR",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "QDII",
+                "date": null
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151883",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - SGD (hedged)",
+        "displayName": "JPMorgan Asia Equity Dividend (mth) - SGD (hedged)",
+        "shortName": "JPMorgan Asia Equity Dividend (mth) - SGD (hedged)",
+        "currencyCode": "SGD",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": {
+          "en": "JPMorgan Asia Equity Dividend (mth) - SGD (hedged)",
+          "cn": "摩根亚洲股息（新加坡元对冲）（每月派息）",
+          "zh": "摩根亞洲股息（新加坡元對沖）（每月派息）"
+        },
+        "shareclassShortNameTranslationMap": {
+          "en": "(mth) - SGD (hedged) Class",
+          "cn": "（每月派息）新加坡元对冲类别",
+          "zh": "（每月派息）新加坡元對沖類別"
+        },
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "AU",
+              "name": "Australia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "TW",
+              "name": "Taiwan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "TW",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "RECOGNISED_FORM_2",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED_PRIVATE",
+                "registrationSchemeCd": "RESTRICTED_FORM_5",
+                "date": "2011-07-18"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BH",
+              "name": "Bahrain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BH",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BE",
+              "name": "Belgium"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LU",
+              "name": "Luxembourg"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JP",
+              "name": "Japan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JP",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JE",
+              "name": "Jersey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "KR",
+              "name": "Korea"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "KR",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151891",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - USD",
+        "displayName": "JPMorgan Asia Equity Dividend (mth) - USD",
+        "shortName": "JPMorgan Asia Equity Dividend (mth) - USD",
+        "currencyCode": "USD",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": {
+          "en": "JPMorgan Asia Equity Dividend (mth) - USD",
+          "cn": "摩根亚洲股息（美元）（每月派息）",
+          "zh": "摩根亞洲股息（美元）（每月派息）"
+        },
+        "shareclassShortNameTranslationMap": {
+          "en": "(mth) - USD Class",
+          "cn": "（每月派息）美元类别",
+          "zh": "（每月派息）美元類別"
+        },
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "AU",
+              "name": "Australia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "TW",
+              "name": "Taiwan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "TW",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "RECOGNISED_FORM_2",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "RED_PRIVATE",
+                "registrationSchemeCd": "RESTRICTED_FORM_5",
+                "date": "2011-07-18"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BH",
+              "name": "Bahrain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BH",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BE",
+              "name": "Belgium"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LU",
+              "name": "Luxembourg"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LU",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JP",
+              "name": "Japan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JP",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JE",
+              "name": "Jersey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "KR",
+              "name": "Korea"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "KR",
+                "fundRegistrationStatusCode": "BLUE",
+                "registrationSchemeCd": "NA",
+                "date": "2018-12-31"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "QDII",
+                "date": null
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      }
+    ],
+    "fundIndustryCreditRatings": [],
+    "objective": null,
+    "investmentObjective": "To aim to provide income and long term capital growth by investing primarily (i.e. at least 70% of its total net asset value) in equity securities of companies in the Asia Pacific region (excluding Japan) that the investment manager expects to pay dividends.",
+    "investmentApproach": null,
+    "investmentPolicy": null,
+    "riskProfile": null,
+    "investorProfile": null,
+    "benchmarkUsesAndResemblance": null,
+    "typicalInvestment": null,
+    "strategy": null,
+    "dividendsFrequency": null,
+    "investmentAdvisors": [],
+    "fundManagers": [
+      {
+        "firstName": "Julie",
+        "lastName": "Ho",
+        "fullName": "Julie Ho",
+        "fullNameMap": null,
+        "profileURL": null,
+        "imageURL": null,
+        "industryExperience": 20.5,
+        "jpmcExperience": 20.5,
+        "fundManagingExperience": 11.5,
+        "fundSubAdvisor": null,
+        "identifier": "18B555C02564064DE05362C74BA9E76E"
+      },
+      {
+        "firstName": "ruben",
+        "lastName": "Lienhard",
+        "fullName": "Ruben Lienhard",
+        "fullNameMap": null,
+        "profileURL": null,
+        "imageURL": null,
+        "industryExperience": 16.5,
+        "jpmcExperience": 11.5,
+        "fundManagingExperience": 9.5,
+        "fundSubAdvisor": null,
+        "identifier": "38BEF19A5B4B1FE4E05362C74BA92737"
+      }
+    ],
+    "numberOfHoldings": null,
+    "numberOfInvestments": null,
+    "assetClass": "Equity",
+    "fundInceptionDate": "2013-05-31",
+    "numberOfHoldingsEffectiveDate": null,
+    "numberOfInvestmentsEffectiveDate": null,
+    "fundValuationDate": "2025-06-30",
+    "fundNumber": null,
+    "fundAccountingCode": null,
+    "legalEntityIdentifier": null,
+    "alerts": null,
+    "aum": {
+      "date": "2025-06-30",
+      "netAsset": null,
+      "value": 1076056601.42,
+      "currencyCode": null
+    },
+    "breakdowns": {
+      "deltaGamma": null,
+      "sampleWithdrawalAmount": null,
+      "sampleWithdrawalAmountDp": null,
+      "couponType": null,
+      "issueType": null,
+      "securityType": null,
+      "contractIssuer": null,
+      "m12Details": null
+    },
+    "fundHoldings": {
+      "effectiveDate": "2025-04-30",
+      "headers": [
+        "HOLDING",
+        "SECTOR",
+        "MARKET",
+        "WEIGHT"
+      ],
+      "data": null,
+      "flag": null,
+      "tabularDataMap": {
+        "Taiwan Semiconductor Manufacturing": {
+          "cellList": [
+            {
+              "value": null,
+              "displayValue": "Taiwan Semiconductor Manufacturing",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Information Technology",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Taiwan",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "10.0%",
+              "displayValueMap": {
+                "en": "10.0",
+                "cn": "10.0",
+                "zh": "10.0"
+              },
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            }
+          ]
+        },
+        "Tencent Holdings": {
+          "cellList": [
+            {
+              "value": null,
+              "displayValue": "Tencent Holdings",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Communication Services",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "China",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "6.8%",
+              "displayValueMap": {
+                "en": "6.8",
+                "cn": "6.8",
+                "zh": "6.8"
+              },
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            }
+          ]
+        },
+        "HDFC Bank": {
+          "cellList": [
+            {
+              "value": null,
+              "displayValue": "HDFC Bank",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Financials",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "India",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "4.5%",
+              "displayValueMap": {
+                "en": "4.5",
+                "cn": "4.5",
+                "zh": "4.5"
+              },
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            }
+          ]
+        },
+        "Alibaba Group Holding": {
+          "cellList": [
+            {
+              "value": null,
+              "displayValue": "Alibaba Group Holding",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Consumer Discretionary",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "China",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "3.8%",
+              "displayValueMap": {
+                "en": "3.8",
+                "cn": "3.8",
+                "zh": "3.8"
+              },
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            }
+          ]
+        },
+        "Telstra Group": {
+          "cellList": [
+            {
+              "value": null,
+              "displayValue": "Telstra Group",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Communication Services",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Australia",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "3.3%",
+              "displayValueMap": {
+                "en": "3.3",
+                "cn": "3.3",
+                "zh": "3.3"
+              },
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            }
+          ]
+        },
+        "AIA Group": {
+          "cellList": [
+            {
+              "value": null,
+              "displayValue": "AIA Group",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Financials",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Hong Kong",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "3.0%",
+              "displayValueMap": {
+                "en": "3.0",
+                "cn": "3.0",
+                "zh": "3.0"
+              },
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            }
+          ]
+        },
+        "NetEase": {
+          "cellList": [
+            {
+              "value": null,
+              "displayValue": "NetEase",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Communication Services",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "China",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "2.4%",
+              "displayValueMap": {
+                "en": "2.4",
+                "cn": "2.4",
+                "zh": "2.4"
+              },
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            }
+          ]
+        },
+        "Samsung Electronics": {
+          "cellList": [
+            {
+              "value": null,
+              "displayValue": "Samsung Electronics",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Information Technology",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Korea",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "2.4%",
+              "displayValueMap": {
+                "en": "2.4",
+                "cn": "2.4",
+                "zh": "2.4"
+              },
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            }
+          ]
+        },
+        "Hong Kong Exchanges & Clearing": {
+          "cellList": [
+            {
+              "value": null,
+              "displayValue": "Hong Kong Exchanges & Clearing",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Financials",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Hong Kong",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "2.2%",
+              "displayValueMap": {
+                "en": "2.2",
+                "cn": "2.2",
+                "zh": "2.2"
+              },
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            }
+          ]
+        },
+        "SK hynix": {
+          "cellList": [
+            {
+              "value": null,
+              "displayValue": "SK hynix",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Information Technology",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "Korea",
+              "displayValueMap": null,
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            },
+            {
+              "value": null,
+              "displayValue": "2.2%",
+              "displayValueMap": {
+                "en": "2.2",
+                "cn": "2.2",
+                "zh": "2.2"
+              },
+              "displayStyle": null,
+              "dataType": null,
+              "minmumFraction": 0,
+              "maximumFraction": 0
+            }
+          ]
+        }
+      }
+    },
+    "qualityBreakdown": null,
+    "countryBreakdown": null,
+    "portfolioSectorBreakdown": null,
+    "portfolioDistribution": null,
+    "commodityMaturity": null,
+    "quarterlyContributors": null,
+    "quarterlyDetractors": null,
+    "currencyAllocation": null,
+    "regionalBreakdown": null,
+    "geographicBreakdown": null,
+    "assetAllocation": null,
+    "regionalDistribution": null,
+    "sectorAllocation": null,
+    "yieldToMaturity": null,
+    "commodityAllocations": null,
+    "contributionToDuration": null,
+    "maturity": null,
+    "emeaMaturity": null,
+    "averageLife": null,
+    "industryBreakdown": null,
+    "portfolioBreakdown": null,
+    "portfolioAllocationTotals": null,
+    "portfolioAllocation": null,
+    "portfolioAllocationMMS": null,
+    "strategicAllocation": null,
+    "longPositions": null,
+    "notionalExposure": null,
+    "sectorExposure": null,
+    "emeaRegionalExposure": null,
+    "emeaSectorBreakdown": null,
+    "marketPositions": null,
+    "emeaSectorExposure": null,
+    "shortPositions": null,
+    "fixedIncomeMaturity": null,
+    "portfolioExposure": null,
+    "countryExposure": null,
+    "commodityInvestment": null,
+    "holdings": {
+      "monthlyHoldings": {
+        "effectiveDate": null,
+        "data": null,
+        "visibleFields": null,
+        "visibleFieldDataTypes": null
+      },
+      "fundIndicatorMonthlyHoldingDisplayFlag": null,
+      "pcfEquityHoldings": null,
+      "pcfBondHoldings": null,
+      "pcfFundHoldings": null,
+      "pcfCashHoldings": null,
+      "pcfFutureHoldings": null
+    },
+    "dailyHoldings": null,
+    "dailyHoldingsAll": null,
+    "underlyingHoldings": null,
+    "underlyingFundStatistics": null,
+    "proxyHoldings": null,
+    "proxyHoldingsAll": null,
+    "dailyHoldingsWeekly": null,
+    "creditLongShort": null,
+    "creditLongShortWithChange": null,
+    "portfolioAllocationMMAF": null,
+    "portfolioStats": null,
+    "propertyBreakdown": null,
+    "riskAnalysis": null,
+    "accessPortfolioAllocation": null,
+    "bondQualityBreakdown": null,
+    "bondQualityCbBreakdown": null,
+    "assetExposure": null,
+    "equitySector": null,
+    "bondType": null,
+    "regionalAssetExposure": null,
+    "regionalBreakdownDuration": null,
+    "mergerArbitrageMetrics": null,
+    "mergerArbitrageDealType": null,
+    "keyCharacteristics": null,
+    "etfFairValuation": null,
+    "liquidityDailyPercentage": null,
+    "liquidityWeeklyPercentage": null,
+    "liquidityValDate": null,
+    "marketNav": null,
+    "designedTo": null,
+    "isLiquidatedOrMergedAway": false,
+    "disclosures": {
+      "pdpSummaryERD": [
+        "The Fund invests primarily (at least 70%) in equity securities of companies in the Asia Pacific region (excluding Japan) that the investment manager expects to pay dividends. The Fund will have limited RMB denominated underlying investments.\nThe Fund is therefore exposed to a range of investment related risks which includes risks related to equity, dividend-paying equity  (no guarantee that the companies that the Fund invests in and which have historically paid dividends will continue to pay dividends or to pay dividends at the current rates in the future ), emerging markets,  concentration, smaller companies, currency, liquidity, high volatility of the equity market in the Asian region, , Chinese variable interest entity, hedging, derivatives, class currency, and currency hedged classes. For RMB hedged class, risks associated with the RMB currency and currency hedged classes risks. RMB is currently not freely convertible and RMB convertibility from offshore RMB (CNH) to onshore RMB (CNY) is a managed currency process subject to foreign exchange control policies of and restrictions imposed by the Chinese government. There can be no assurance that RMB will not be subject to devaluation at some point. The Manager may, under extreme market conditions when there is not sufficient RMB for currency conversion and with the approval of the Trustee, pay redemption monies and/or distributions in USD.\nWhere the income generated by the Fund is insufficient to pay a distribution as the Fund declares, the Manager may at its discretion determine such distributions may be paid from capital including realised and unrealised capital gains. Investors should note that the payment of distributions out of capital represents a return or withdrawal of part of the amount they originally invested or from any capital gains attributable to that original investment. Any payments of distributions by the Fund may result in an immediate decrease in the net asset value per unit. Also, a positive distribution yield does not imply a positive return on the total investment.\nInvestors may be subject to substantial losses.\nInvestors should not solely rely on this document to make any investment decision."
+      ],
+      "pdpCardFundDistribution": [
+        "Annualised yield = [(1+distribution per unit/ex-dividend NAV)^distribution frequency]–1, the annualised dividend yield is calculated based on the latest dividend distribution with dividend reinvested, and may be higher or lower than the actual annual dividend yield. Positive distribution yield does not imply positive return. Source: J.P. Morgan Asset Management. <b>For funds offering classes with a distribution feature, such classes aim at monthly, quarterly, semi-annual or annual distribution as the case may be. Dividend rate is not guaranteed. Distributions may be paid from capital. Investment involves risk. Past performance is not indicative of future performance. Please refer to the offering document(s) for details, including the risk factors. </b>This document has not been reviewed by the SFC. Issued by JPMorgan Funds (Asia) Limited."
+      ],
+      "pdpCardCompositionFundDistribution": [
+        "1) “Net distributable income” means the net investment income (i.e. dividend income and interest income net of fees and expenses) attributable to the relevant unit/share class and include also net realized gains (if any) based on unaudited management accounts. However, “net distributable income” does not include net unrealized gains. “Net distributable income” which is not declared and paid as distributions in a period of a financial year is carried forward as “net distributable income” for the next period(s) within the same financial year. “Net distributable income” that has been accrued as at the end of a financial year and is declared and paid as dividends at the next distribution date immediately after that financial year end is treated as “net distributable income” in respect of that financial year. However, “net distributable income” accrued as at the end of a financial year and not declared and paid as distributions at the next distribution date immediately after that financial year-end is included as “capital” for the next financial year.<br/>2)  For funds offering classes with a distribution feature, such classes aim at monthly, quarterly, semi-annual or annual distribution as the case may be. Dividend rate is not guaranteed. Distributions may be paid from capital. Payment of dividends out of capital amounts to a return or withdrawal of part of an investor’s original investment or from any capital gains attributable to that original investment. Any distributions involving payment of dividends out of the funds’/share classes’ capital may result in an immediate reduction of the net asset value per unit/share. Please note that a positive distribution yield does not imply a positive return. Investors should not make any investment decision solely based on information contained in the table above. You should read the relevant offering document (including the key facts statement) of the funds for further details including the risk factors. Investment involves risk. Past performance is not indicative of future performance. This document has not been reviewed by the SFC. <br/>Source: J.P. Morgan Asset Management.  Issued by JPMorgan Funds (Asia) Limited."
+      ]
+    },
+    "helpText": {
+      "pdpSummaryQuotedPrice": [
+        "The single price at which all client orders are executed."
+      ],
+      "pdpDataPointQuotedPrice": [
+        "The single price at which all client orders are executed."
+      ],
+      "pdpSummaryMorningstarAnalyst": [
+        "Morningstar’s forward looking fund rating."
+      ],
+      "pdpSummaryFECrown": [
+        "Quantitative ratings ranging from one to five designed to help investors identify funds which have displayed superior performance in terms of stock picking, consistency and risk control.",
+        "FE Crown Fund Ratings are however purely quantitative and backward looking, and, as such, cannot offer any certainty about the future."
+      ],
+      "pdpSummaryRaynerSpencerMills": [
+        "Uses both a qualitative and quantitative assessment of the funds.  The fund is simply rated or not."
+      ],
+      "pdpSummarySquareMileResearch": [
+        "A Square Mile Fund Rating denotes a fund that is truly “best in class”. Put simply, a Square Mile Fund Rating is only given to a fund that they are prepared to recommend to clients.  Fund managers do not pay for the ratings; they cannot be purchased and are only achieved by the “best-in-class” funds.",
+        "The funds Square Mile recommend are each assigned a rating – A, AA, AAA or R – reflecting Square Mile’s conviction in each fund’s ability to deliver on expectations. These simple ratings are the result of exhaustive and detailed qualitative research, backed up by quantitative analysis. “AAA” represents the very highest level of conviction in a fund and its manager, and is a practical demonstration of their belief in the long-term consistent delivery of the fund’s objectives.",
+        "Square Mile’s team of investment research analysts also works to identify newer or untested funds or managers that have real potential to deliver their stated objectives. In these circumstances, Square Mile are not in a position to award a full fund rating, and therefore these funds are assigned a “Positive Prospects” rating. Over time, if these managers deliver to Square Mile’s expectations and achieve their expected outcome, Square Mile would expect them to progress to A, AA, AAA or R ratings."
+      ],
+      "pdpSummaryAdviserCentre": [
+        "They have three key ratings: Established; Positive Watch; Recommended."
+      ],
+      "pdpSummaryDTRisk": [
+        "DT risk-profile ratings range from 1 to 10, with 1 being the least volatile fund and 10 the most."
+      ],
+      "pdpSummaryDiscountPremium": [
+        "If the share price of an investment company is lower than the net asset value (NAV) per share, the company is said to be trading at a discount. If the share price of an investment company is higher than the net asset value (NAV) per share, the company is said to be trading at a premium. The discount/premium is shown as a percentage of the NAV."
+      ],
+      "pdpDataPointDiscountPremium": [
+        "If the share price of an investment company is lower than the net asset value (NAV) per share, the company is said to be trading at a discount. If the share price of an investment company is higher than the net asset value (NAV) per share, the company is said to be trading at a premium. The discount/premium is shown as a percentage of the NAV."
+      ],
+      "pdpCardResearch": [
+        "This Investment Trust has been reviewed by a third party agency. Contents of the external links have been prepared by third parties and do not necessarily represent the views of J.P. Morgan Asset Management. These third parties may receive a fee by the Board of Directors of this Investment Trust. J.P. Morgan Asset Management does not endorse or attest to completeness and accuracy of these contents. Reliance upon these contents is at the sole discretion of the reader."
+      ],
+      "pdpLegalDocCardDisclosureFr": [
+        "La langue officielle du Prospectus est l'anglais, une traduction en français étant également disponible. Le document traduit pouvant être disponible avec un décalage, nous vous remercions de vous assurer de toujours consulter la dernière version officielle disponible."
+      ],
+      "pdpLegalDocCardDisclosureEn": [
+        "The official language of the Prospectus is English, with a translation in French also available. This could be subject to a translation delay so please ensure to always use the latest available official version."
+      ],
+      "pdpLegalDocCardDisclosureDe": [
+        "Die offizielle Sprache des Prospekts ist Englisch – eine Übersetzung ins Deutsche ist ebenfalls erhältlich. Die Übersetzung ist eventuell etwas zeitverzögert verfügbar. Bitte stellen Sie daher sicher, dass Sie immer die aktuellste verfügbare offizielle Version verwenden."
+      ]
+    },
+    "isFeaturedFund": false,
+    "portfolioHoldings": null,
+    "benchmarks": [],
+    "benchmarkNames": [
+      "MSCI AC Asia Pacific ex Japan Index (Total Return Net)"
+    ],
+    "benchmarkDate": "2013-05-31",
+    "benchmarkTickerCodes": [
+      null
+    ],
+    "benchmarkLongName": "MSCI AC Asia Pacific ex Japan Index (Total Return Net)",
+    "reBenchmarkDate": "2013-05-31",
+    "benchmarkRestructuringDate": null,
+    "isBenchmarkAvailable": true,
+    "benchmarkIdentifier": "1919C93F387D7B54E05362C74BA97875",
+    "isGlobalLiquidity": false,
+    "isFundMoreThanAYearOld": true,
+    "isShareclassMoreThanSixMonthsOld": true,
+    "emeaCurrencyExposure": null,
+    "marketExposure": null,
+    "portfolioCharacteristics": null,
+    "equityLongShortOpenPositions": null,
+    "equityLongShortMarketCap": null,
+    "emeaRegionalBreakdown": null,
+    "regionalBreakdownEquityAndFixedIncome": null,
+    "emeaCurrencyBreakdown": null,
+    "currencyHedgePortfolio": null,
+    "emeaFundHoldings": null,
+    "globalMacro": null,
+    "currentPositioning": {
+      "effectiveDate": null,
+      "headers": null,
+      "data": [],
+      "flag": null,
+      "tabularDataMap": null
+    },
+    "regionalRiskBreakdown": null,
+    "assetClassRiskBreakdown": null,
+    "themeRiskBreakdown": null,
+    "portfolioAnalysis": null,
+    "sectorBreakdown": null,
+    "sectorBreakdownFundIndex": null,
+    "sectorBreakdownMMKT": null,
+    "sectorBreakdownByFixedIncome": null,
+    "sectorBreakdownAggregate": null,
+    "portfolioAnalysisBySector": {
+      "effectiveDate": "2025-05-30",
+      "headers": null,
+      "data": [
+        {
+          "name": "Financials",
+          "value": 30.7,
+          "displayValue": "30.7",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 1,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Information Technology",
+          "value": 21.4,
+          "displayValue": "21.4",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 2,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Communication Services",
+          "value": 15.9,
+          "displayValue": "15.9",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 3,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Consumer Discretionary",
+          "value": 11.4,
+          "displayValue": "11.4",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 4,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Real Estate",
+          "value": 7.0,
+          "displayValue": "7.0",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 5,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Others",
+          "value": 5.6,
+          "displayValue": "5.6",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 6,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Utilities",
+          "value": 4.0,
+          "displayValue": "4.0",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 7,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Consumer Staples",
+          "value": 3.8,
+          "displayValue": "3.8",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 8,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Net Liquidity",
+          "value": 0.2,
+          "displayValue": "0.2",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 9,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        }
+      ],
+      "flag": null,
+      "tabularDataMap": null
+    },
+    "portfolioAnalysisByEquityRegions": null,
+    "portfolioAnalysisByEquitySector": null,
+    "portfolioAnalysisByEquitySectorCIFM": null,
+    "portfolioStatisticalAnalysis": {
+      "effectiveDate": "2025-05-30",
+      "headers": null,
+      "data": [
+        {
+          "name": "pdp-portfolio-statistical-analysis-label-correlation",
+          "value": null,
+          "displayValue": "0.99",
+          "secondaryValue": null,
+          "displaySecondaryValue": "0.96",
+          "tertiaryValue": null,
+          "displayTertiaryValue": "0.96",
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "RAW",
+          "sortNumber": null,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": "pdp-portfolio-statistical-analysis-label-correlation",
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "pdp-portfolio-statistical-analysis-label-alpha",
+          "value": null,
+          "displayValue": "0.60",
+          "secondaryValue": null,
+          "displaySecondaryValue": "3.37",
+          "tertiaryValue": null,
+          "displayTertiaryValue": "0.39",
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "RAW",
+          "sortNumber": null,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": "pdp-portfolio-statistical-analysis-label-alpha",
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "pdp-portfolio-statistical-analysis-label-beta",
+          "value": null,
+          "displayValue": "0.87",
+          "secondaryValue": null,
+          "displaySecondaryValue": "0.85",
+          "tertiaryValue": null,
+          "displayTertiaryValue": "0.85",
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "RAW",
+          "sortNumber": null,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": "pdp-portfolio-statistical-analysis-label-beta",
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "pdp-portfolio-statistical-analysis-label-annual-volatility",
+          "value": null,
+          "displayValue": "16.53",
+          "secondaryValue": null,
+          "displaySecondaryValue": "15.25",
+          "tertiaryValue": null,
+          "displayTertiaryValue": "14.36",
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "RAW",
+          "sortNumber": null,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": "pdp-portfolio-statistical-analysis-label-annual-volatility",
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "pdp-portfolio-statistical-analysis-label-sharpe-ratio",
+          "value": null,
+          "displayValue": "0.05",
+          "secondaryValue": null,
+          "displaySecondaryValue": "0.46",
+          "tertiaryValue": null,
+          "displayTertiaryValue": "0.21",
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "RAW",
+          "sortNumber": null,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": "pdp-portfolio-statistical-analysis-label-sharpe-ratio",
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "pdp-portfolio-statistical-analysis-label-annual-tracking-error",
+          "value": null,
+          "displayValue": "3.53",
+          "secondaryValue": null,
+          "displaySecondaryValue": "5.02",
+          "tertiaryValue": null,
+          "displayTertiaryValue": "4.89",
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "RAW",
+          "sortNumber": null,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": "pdp-portfolio-statistical-analysis-label-annual-tracking-error",
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "pdp-portfolio-statistical-analysis-label-average-annual-return",
+          "value": null,
+          "displayValue": "5.66",
+          "secondaryValue": null,
+          "displaySecondaryValue": "10.18",
+          "tertiaryValue": null,
+          "displayTertiaryValue": "4.78",
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "RAW",
+          "sortNumber": null,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": "pdp-portfolio-statistical-analysis-label-average-annual-return",
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        }
+      ],
+      "flag": null,
+      "tabularDataMap": null
+    },
+    "portfolioAnalysisByCurrency": null,
+    "portfolioAnalysisByCountry": {
+      "effectiveDate": "2025-05-30",
+      "headers": null,
+      "data": [
+        {
+          "name": "China",
+          "value": 26.7,
+          "displayValue": "26.7",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 1,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Australia",
+          "value": 17.1,
+          "displayValue": "17.1",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 2,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Taiwan",
+          "value": 15.1,
+          "displayValue": "15.1",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 3,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Korea",
+          "value": 11.7,
+          "displayValue": "11.7",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 4,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "India",
+          "value": 11.6,
+          "displayValue": "11.6",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 5,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Hong Kong",
+          "value": 8.5,
+          "displayValue": "8.5",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 6,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Singapore",
+          "value": 4.7,
+          "displayValue": "4.7",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 7,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Indonesia",
+          "value": 4.3,
+          "displayValue": "4.3",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 8,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Net Liquidity",
+          "value": 0.2,
+          "displayValue": "0.2",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 9,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        }
+      ],
+      "flag": null,
+      "tabularDataMap": null
+    },
+    "portfolioAnalysisByFixedIncomeRegions": null,
+    "portfolioAnalysisByFixedIncomeSector": null,
+    "portfolioAnalysisByDenominatedCurrency": null,
+    "portfolioAnalysisNetLiquidity": null,
+    "portfolioAnalysisByConvertibleBonds": null,
+    "multiPortfolioAnalysis": null,
+    "companyTypeExposure": null,
+    "riskMeasures": null,
+    "emeaMarketExposure": null,
+    "investmentStrategyBreakdown": null,
+    "strategyBreakdown": null,
+    "domicile": null,
+    "legalStructureCode": "HKUT",
+    "interimResultsAnnouncedPeriod": null,
+    "finalResultsAnnouncedPeriod": null,
+    "annualGeneralMeetingPeriod": null,
+    "fiscalYearEnd": "30 September",
+    "dividendsPayable": null,
+    "salesCharges": null,
+    "fundValuationFrequency": null,
+    "cutOffTime": null,
+    "cutOffTimeZone": null,
+    "trustee": "HSBC Institutional Trust Services (Asia) Limited",
+    "fundAwards": [
+      "AsianInvestor Asset Management Awards <br />2025 - Asia Fund House of the Year – International"
+    ],
+    "bondYTM": null,
+    "bondYTW": null,
+    "fundShareclassPrice": null,
+    "fundCompany": {
+      "domicileCountryCode": "HK",
+      "legalStructureCode": "HKUT",
+      "name": "JPMorgan Funds (Asia) Ltd",
+      "statusCode": "OPEN",
+      "issuerName": "JPMorgan Funds (Asia) Ltd",
+      "fundCompanyRegistration": [],
+      "country": {
+        "code": "HK",
+        "name": "Hong Kong"
+      }
+    },
+    "emeaFundClassificationCode": null,
+    "emeaFundClassificationName": null,
+    "fundRebalancingFrequencyName": null,
+    "replicationMethodTypeName": null,
+    "fundAwardTranslation": null,
+    "valueAtRiskBreakdown": null,
+    "isShareClassMoreThanAnYearOld": true,
+    "shareClassLaunchDate": "2013-05-31",
+    "isShareclassDateSameAsFundLaunchDate": false,
+    "weeklyMaturityBreakdown": null,
+    "valuationTimezoneName": null,
+    "cmsShare": null,
+    "summaryPortfolioStats": null,
+    "numberFormat": null,
+    "minStartDate": "2002-12-31",
+    "compareFundLink": null,
+    "formNMFPLink": null,
+    "kiidUrl": "https://wl.fundsquare.net/serv/down-doc/request?cdClient=jpmorgan&isin=HK0000151891&docTypeCode=KIDD&docLang=EN&docCountry=HK",
+    "factsheetUrl": null,
+    "webDisplay": null,
+    "fundPerformanceRatings": [],
+    "companyBrokerNames": null,
+    "totalAnnualDividend": null,
+    "potentialGearingRange": null,
+    "premiumDiscountPercentage": null,
+    "currentSharePrice": null,
+    "currentSharePriceDate": null,
+    "howToBuyLink": "https://am.jpmorgan.com/gb/en/asset-management/gim/per/how-to-buy",
+    "howToInvestLink": null,
+    "boardOfDirectors": [],
+    "riskSecuritiesString": null,
+    "isDisplayAumInUsd": true,
+    "annualDividendPerShare": null,
+    "globalEquitySectors": null,
+    "imaSectorName": null,
+    "dateOfAgreement": null,
+    "performanceChartHeaderDisclosure": "For the performance chart of Mutual Recognition Fund, Y axis is CHANGE% and X axis is Date.",
+    "authorisedParticipants": [],
+    "fundCarbonEmission": null,
+    "howToBuyETFLink": "https://am.jpmorgan.com/us/en/asset-management/gim/per/products/etfs/education/how-to-buy",
+    "languageToTranslationTexts": null,
+    "fundMarketingTextLanguageTranslationText": [
+      {
+        "typeName": "INVESTMENT_OBJS",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "To aim to provide income and long term capital growth by investing primarily (i.e. at least 70% of its total net asset value) in equity securities of companies in the Asia Pacific region (excluding Japan) that the investment manager expects to pay dividends.",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      }
+    ],
+    "shareclassOptionList": [
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151800",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (acc) - HKD",
+        "displayName": "(acc) - HKD",
+        "shortName": "(acc) - HKD",
+        "currencyCode": "HKD",
+        "distributingCode": "ACC",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": null,
+        "shareclassShortNameTranslationMap": null,
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-10"
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000188026",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (acc) - RMB (hedged)",
+        "displayName": "(acc) - RMB (hedged) Class",
+        "shortName": "(acc) - RMB (hedged) Class",
+        "currencyCode": "CNY",
+        "distributingCode": "ACC",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": null,
+        "shareclassShortNameTranslationMap": null,
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-10"
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151818",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (acc) - USD",
+        "displayName": "(acc) - USD",
+        "shortName": "(acc) - USD",
+        "currencyCode": "USD",
+        "distributingCode": "ACC",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": null,
+        "shareclassShortNameTranslationMap": null,
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-10"
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151826",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - AUD (hedged)",
+        "displayName": "(mth) - AUD (hedged) Class",
+        "shortName": "(mth) - AUD (hedged) Class",
+        "currencyCode": "AUD",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": null,
+        "shareclassShortNameTranslationMap": null,
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151834",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - CAD (hedged)",
+        "displayName": "(mth) - CAD (hedged) Class",
+        "shortName": "(mth) - CAD (hedged) Class",
+        "currencyCode": "CAD",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": null,
+        "shareclassShortNameTranslationMap": null,
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151842",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - EUR (hedged)",
+        "displayName": "(mth) - EUR (hedged) Class",
+        "shortName": "(mth) - EUR (hedged) Class",
+        "currencyCode": "EUR",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": null,
+        "shareclassShortNameTranslationMap": null,
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151859",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - GBP (hedged)",
+        "displayName": "(mth) - GBP (hedged) Class",
+        "shortName": "(mth) - GBP (hedged) Class",
+        "currencyCode": "GBP",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": null,
+        "shareclassShortNameTranslationMap": null,
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151867",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - HKD",
+        "displayName": "(mth) - HKD Class",
+        "shortName": "(mth) - HKD Class",
+        "currencyCode": "HKD",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": null,
+        "shareclassShortNameTranslationMap": null,
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151875",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - NZD (hedged)",
+        "displayName": "(mth) - NZD (hedged) Class",
+        "shortName": "(mth) - NZD (hedged) Class",
+        "currencyCode": "NZD",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": true,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": null,
+        "shareclassShortNameTranslationMap": null,
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000188034",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - RMB (hedged)",
+        "displayName": "(mth) - RMB (hedged) Class",
+        "shortName": "(mth) - RMB (hedged) Class",
+        "currencyCode": "CNY",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": true,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": null,
+        "shareclassShortNameTranslationMap": null,
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151883",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - SGD (hedged)",
+        "displayName": "(mth) - SGD (hedged) Class",
+        "shortName": "(mth) - SGD (hedged) Class",
+        "currencyCode": "SGD",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": null,
+        "shareclassShortNameTranslationMap": null,
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      },
+      {
+        "categoryCode": "NONE",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "HK0000151891",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPMorgan Asia Equity Dividend (mth) - USD",
+        "displayName": "(mth) - USD Class",
+        "shortName": "(mth) - USD Class",
+        "currencyCode": "USD",
+        "distributingCode": "MTH",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": null,
+        "shareclassShortNameTranslationMap": null,
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-03-02"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2012-05-04"
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [],
+        "marketingCategoryName": "Asia Pacific - Equity"
+      }
+    ],
+    "distributor": [],
+    "liquidationDate": null,
+    "fundFocusIndicator": false,
+    "aemDisclosures": {
+      "pdpSummaryAward_1": [
+        "Issued by Refinitiv Lipper, 2022 award reflecting performance as of 31.12.2021. Refinitiv Lipper Fund Awards, © 2022 Refinitiv. All rights reserved. Used by permission and protected by the Copyright Laws of the United States. The printing, copying, redistribution, or retransmission of this content without express written permission is prohibited."
+      ],
+      "pdpSummaryAward_2": [
+        "Issued by AsianInvestor, 2022 award,  reflecting performance as at the previous calendar year end."
+      ],
+      "portfolio_info_annualized_fund_yield": [
+        "Annualised yield = [(1+distribution per unit/ex-dividend NAV)^distribution frequency]–1, the annualised dividend yield is calculated based on the latest dividend distribution with dividend reinvested, and may be higher or lower than the actual annual dividend yield. Positive distribution yield does not imply positive return."
+      ],
+      "pdpSummaryERD": [
+        "The Fund invests primarily (at least 70%) in equity securities of companies in the Asia Pacific region (excluding Japan) that the investment manager expects to pay dividends. The Fund will have limited RMB denominated underlying investments.\nThe Fund is therefore exposed to a range of investment related risks which includes risks related to equity, dividend-paying equity  (no guarantee that the companies that the Fund invests in and which have historically paid dividends will continue to pay dividends or to pay dividends at the current rates in the future ), emerging markets,  concentration, smaller companies, currency, liquidity, high volatility of the equity market in the Asian region, , Chinese variable interest entity, hedging, derivatives, class currency, and currency hedged classes. For RMB hedged class, risks associated with the RMB currency and currency hedged classes risks. RMB is currently not freely convertible and RMB convertibility from offshore RMB (CNH) to onshore RMB (CNY) is a managed currency process subject to foreign exchange control policies of and restrictions imposed by the Chinese government. There can be no assurance that RMB will not be subject to devaluation at some point. The Manager may, under extreme market conditions when there is not sufficient RMB for currency conversion and with the approval of the Trustee, pay redemption monies and/or distributions in USD.\nWhere the income generated by the Fund is insufficient to pay a distribution as the Fund declares, the Manager may at its discretion determine such distributions may be paid from capital including realised and unrealised capital gains. Investors should note that the payment of distributions out of capital represents a return or withdrawal of part of the amount they originally invested or from any capital gains attributable to that original investment. Any payments of distributions by the Fund may result in an immediate decrease in the net asset value per unit. Also, a positive distribution yield does not imply a positive return on the total investment.\nInvestors may be subject to substantial losses.\nInvestors should not solely rely on this document to make any investment decision."
+      ],
+      "pdpCardCompositionFundDistribution": [
+        "1) “Net distributable income” means the net investment income (i.e. dividend income and interest income net of fees and expenses) attributable to the relevant unit/share class and include also net realized gains (if any) based on unaudited management accounts. However, “net distributable income” does not include net unrealized gains. “Net distributable income” which is not declared and paid as distributions in a period of a financial year is carried forward as “net distributable income” for the next period(s) within the same financial year. “Net distributable income” that has been accrued as at the end of a financial year and is declared and paid as dividends at the next distribution date immediately after that financial year end is treated as “net distributable income” in respect of that financial year. However, “net distributable income” accrued as at the end of a financial year and not declared and paid as distributions at the next distribution date immediately after that financial year-end is included as “capital” for the next financial year.<br/>2)  For funds offering classes with a distribution feature, such classes aim at monthly, quarterly, semi-annual or annual distribution as the case may be. Dividend rate is not guaranteed. Distributions may be paid from capital. Payment of dividends out of capital amounts to a return or withdrawal of part of an investor’s original investment or from any capital gains attributable to that original investment. Any distributions involving payment of dividends out of the funds’/share classes’ capital may result in an immediate reduction of the net asset value per unit/share. Please note that a positive distribution yield does not imply a positive return. Investors should not make any investment decision solely based on information contained in the table above. You should read the relevant offering document (including the key facts statement) of the funds for further details including the risk factors. Investment involves risk. Past performance is not indicative of future performance. This document has not been reviewed by the SFC. <br/>Source: J.P. Morgan Asset Management.  Issued by JPMorgan Funds (Asia) Limited."
+      ],
+      "pdpBottomAll": [
+        "<b><u>Sources:</u></b><br/>Unless stated otherwise, all information as at the last valuation date of the previous month. Source: J.P. Morgan Asset Management/RIMES. © 2024 Morningstar, Inc. All rights reserved. The information contained herein: (1) is proprietary to Morningstar and/or its content providers; (2) may not be copied or distributed; and (3) is not warranted to be accurate, complete, or timely. Neither Morningstar nor its content providers are responsible for any damages or losses arising from any use of this information. Past performance is no guarantee of future results. <br>Source of Analyst rating: Morningstar, Inc. Risk ratings (if any) are based on J.P. Morgan Asset Management's assessment of relative risk by asset class and historical volatility of the fund where applicable. The risk ratings are reviewed annually or as appropriate and for reference only. <br/><br/><b><u>Performance:</u></b><br/>Performance calculation is <b>NAV to NAV in denominated currency with income reinvested</b>.  The investment returns are calculated in denominated currency. For funds/classes denominated in foreign currencies, US/HK dollar-based investors are therefore exposed to fluctuations in the currency exchange rate.  The AUD/CAD/EUR/GBP/NZD/RMB/SGD Hedged Classes (where applicable) are not recommended for investors whose base currency of investment is not in the aforesaid currencies.  It should be noted that due to the difference of the fund domiciles the valuation points used by Unit Trust range and SICAV range of funds for fair valuation (where applied) may vary. <br/><br/><b><u>Distribution:</u></b><br/>For funds offering classes with a distribution feature, such classes aim at monthly, quarterly, semi-annual or annual distribution as the case may be. Dividend rate is not guaranteed. Distributions may be paid from capital.   Annualised yield = [(1+distribution per unit/ex-dividend NAV)^distribution frequency]-1. The annualised dividend yield is calculated based on the latest dividend distribution with dividend reinvested, and may be higher or lower than the actual annual dividend yield. Positive distribution yield does not imply positive return.<br/><br/><b><u>Warning:</u></b><br/>Investment involves risk. Past performance is not indicative of future performance.  Investors should not make any investment decision solely based on information as per above.  Please refer to the offering document(s) for details, including the risk factors.     Any overweight in any investment holding exceeding the limit set out in the Investment Restrictions was due to market movements and will be rectified shortly.  This document has not been reviewed by the SFC. Issued by JPMorgan Funds (Asia) Limited.",
+        "",
+        "",
+        "<br/><br/><b><u>NAV:</u></b><br>The net asset value per unit/share (NAV) of each fund is calculated and (if applicable) rounded in accordance with the relevant fund’s offering documents, please refer to the relevant fund’s offering documents for further details. Please note that the relevant fund’s NAV figure may not display trailing zeros after the decimal point.<br/><br/>"
+      ],
+      "pdpCardPerformanceChart": [
+        "Dividends reinvested after deduction of withholding tax."
+      ],
+      "pdpESGApproach": [
+        "Although ESG factors are taken into consideration in the Fund’s investment process, they are only one of many factors considered in the management of the Fund. ESG assessments may not be conclusive and securities of companies may be purchased and retained by the Fund for reasons other than material ESG factors. The Fund is not authorized as an ESG fund by the Securities and Futures Commission, nor is it being marketed as an ESG fund in Hong Kong.  "
+      ],
+      "pdpCardFundDistribution": [
+        "Annualised yield = [(1+distribution per unit/ex-dividend NAV)^distribution frequency]–1, the annualised dividend yield is calculated based on the latest dividend distribution with dividend reinvested, and may be higher or lower than the actual annual dividend yield. Positive distribution yield does not imply positive return. Source: J.P. Morgan Asset Management. <b>For funds offering classes with a distribution feature, such classes aim at monthly, quarterly, semi-annual or annual distribution as the case may be. Dividend rate is not guaranteed. Distributions may be paid from capital. Investment involves risk. Past performance is not indicative of future performance. Please refer to the offering document(s) for details, including the risk factors. </b>This document has not been reviewed by the SFC. Issued by JPMorgan Funds (Asia) Limited."
+      ],
+      "pdpCardPerformance": [
+        "Calendar Year 2015 -Since launch to end of year for fund classes incepted in that year."
+      ],
+      "pdpCardFundFacts": [
+        "The Fund is not authorized as an ESG fund by the Securities and Futures Commission, nor is it being marketed as an ESG fund in Hong Kong.  <br>\nThe approach meets the requirements of the product classification in the fund’s home jurisdiction (where applicable). For more information, please refer to the Offering Document."
+      ],
+      "pdpCardStatisticalAnalysis": [
+        "Since launch -With the exception of the \"Average annual return\" figure, all data are calculated from the month end after inception."
+      ],
+      "pdpDataPointESGApproach": [
+        "<b>ESG Integrated:</b> ESG Integration is the systematic inclusion of financially material ESG factors, alongside other relevant factors, in investment analysis and investment decisions with the goals of managing risk and improving long-term returns. ESG integration does not by itself change this product’s investment objective, exclude specific types of companies or constrain its investable universe.  This product is not designed for investors who are looking for a product that meets specific ESG goals or wish to screen out particular types of companies or investments, other than those required by any applicable law such as companies involved in the manufacture, production or supply of cluster munitions.<br>\n<b>ESG Promote:</b> Promotes ESG characteristics.<br>\n<b>Positive Tilt:</b> An investment style in which the portfolio will be tilted towards companies / issuers with positive ESG characteristics.<br>\n<b>Best-in-Class:</b> An investment style that focuses on companies / issuers that lead their peer groups (e.g. above average) in respect of sustainability performance.<br>\n<b>Thematic:</b> An investment style with a thematic focus on a UN Sustainable Development Goal or other specific ESG theme.<br><br>\n<a class=\"font-teal\" target=\"_blank\" href=\"https://am.jpmorgan.com/hk/en/asset-management/per/insights/investment-ideas/sustainable-investing/capabilities/\">Learn more about Sustainable Investing Solutions</a>"
+      ]
+    },
+    "fundIndustryRiskRating": [
+      {
+        "fundIndustryRatingDate": "2020-01-01",
+        "fundRiskRatingSchemeCode": "RISK_RATING_HK",
+        "fundRiskRatingCode": "RISK_RATING_HK_4",
+        "fundRiskRatingValue": "4"
+      },
+      {
+        "fundIndustryRatingDate": "2022-07-15",
+        "fundRiskRatingSchemeCode": "CREDIT_RISK",
+        "fundRiskRatingCode": "CREDIT_RISK1",
+        "fundRiskRatingValue": "1"
+      }
+    ],
+    "riskRatingValue": null,
+    "semiTransparentIndicator": null,
+    "managementStyleIndicator": null,
+    "etfSecLending": null,
+    "cltrlSecuritiesSecLending": null,
+    "secLendingCollateralRequirement": null,
+    "securityLendingApprovedBorrowers": null,
+    "isCriticalDataMissing": false,
+    "esgData": {
+      "esgIntegrationFlag": true,
+      "esgBestInClassFlag": false,
+      "esgThemeBasedFlag": false,
+      "esgExlusionsFlag": false,
+      "esgPositiveTiltFlag": false,
+      "esgPromoteFlag": false
+    },
+    "esgApproachDisclosure": [
+      "The approach meets the requirements of the product classification in the fund’s home jurisdiction (where applicable). For more information, please refer to the Offering Document. "
+    ],
+    "sdfrClassificationValue": null,
+    "isSMA": false,
+    "totalAsset": {
+      "value": null,
+      "displayValue": null,
+      "date": null
+    },
+    "leverageRatio": {
+      "value": null,
+      "displayValue": null,
+      "date": null
+    },
+    "grossYieldToMaturity": {
+      "value": null,
+      "displayValue": null,
+      "date": null
+    },
+    "grossYieldToWorst": {
+      "value": null,
+      "displayValue": null,
+      "date": null
+    },
+    "isUSCommingledFund": false,
+    "priipsHoldingPeriod": "5",
+    "fundDurationMaturity": null,
+    "isDigitalShareFund": false,
+    "holdingsCountryCode": null,
+    "productGroupCode": null,
+    "managementCompanyName": null
+  },
+  "error": null
+}

@@ -18,3 +18,6 @@
     - "portfolioAnalysisByCountry": 國家比例
     - "portfolioAnalysisBySector": 行業比例
     - "fundHoldings": 持有股票比例(不完整)
+
+### 2025/07/24
+測好兩個API了，準備好要抓下來，然後開一個CSV(fetch_check.csv)來確認

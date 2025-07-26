@@ -1,0 +1,5129 @@
+{
+  "fundData": {
+    "stringValueWrapper": {
+      "referenceCalendar": null,
+      "securityLendingFlag": "Y",
+      "ukSdrCategorisation": null,
+      "fundIndicatorValue": "Article 8",
+      "associatedMasterFundId": null,
+      "associatedMasterFundType": null,
+      "showKeyRiskCard": false,
+      "authorizedParticipants": [],
+      "marketMakers": []
+    },
+    "cmsHost": "https://am.jpmorgan.com",
+    "cachedForRole": "adv",
+    "marketingFundCategoryName": "Global Equity",
+    "fundIdentifier": "78D574C543ED0EAAE04400144FB99A4A",
+    "name": "JPMorgan Investment Funds - Global Select Equity Fund",
+    "currencyCode": "USD",
+    "fundTypeCode": "FT_LUX_FUND",
+    "regionOfInvestmentCode": "Global",
+    "fundRange": "SICAV",
+    "shareClass": {
+      "secYield": {
+        "effectiveDate": "2019-09-26",
+        "thirtyDayUnsubSecYield": null,
+        "thirtyDaySecYield": null,
+        "sevenDaySecYield": null,
+        "sevenDayUnsubSecYield": null,
+        "dividendYield": null,
+        "taxEquivalentYield": null,
+        "taxEquivalentYieldAt35Percentage": null,
+        "oneDayCurrentYield": null,
+        "sevenDayCurrentYield": null,
+        "yieldAmount": null,
+        "thirtyDayCurrentYield": null,
+        "twlvMthSimpleYield": null
+      },
+      "etfSecYield": null,
+      "dailyYield": {
+        "effectiveDate": "2019-09-26",
+        "thirtyDayUnsubSecYield": null,
+        "thirtyDaySecYield": null,
+        "sevenDaySecYield": null,
+        "sevenDayUnsubSecYield": null,
+        "dividendYield": null,
+        "taxEquivalentYield": null,
+        "taxEquivalentYieldAt35Percentage": null,
+        "oneDayCurrentYield": null,
+        "sevenDayCurrentYield": null,
+        "yieldAmount": null,
+        "thirtyDayCurrentYield": null,
+        "twlvMthSimpleYield": null
+      },
+      "apacYield": null,
+      "apacFundShareclass": {
+        "intendedDividendFrequencyCode": null,
+        "apacFundShareclassYield": [],
+        "intermediaryFundIndicator": "N",
+        "intermediaryFundCategoryCode": "RETAIL_EXP_FOR_DISPLAY",
+        "apacFundShareclassMarketingText": null
+      },
+      "yieldMonthEnd": {
+        "effectiveDate": null,
+        "dividendYield": null,
+        "sevenDaySecYield": null,
+        "sevenDayUnsubSecYield": null,
+        "thirtyDaySecYield": null,
+        "thirtyDayUnsubSecYield": null,
+        "twlvMthSimpleYield": null,
+        "taxEquivalentYieldAt35Percentage": null
+      },
+      "ytdPercentage": {
+        "ytdDate": "2025-07-23",
+        "ytdPercentage": 0.082898,
+        "salesChargeAdjustedYtdPercentage": null
+      },
+      "ticker": "JPMGEFA LX",
+      "iressTicker": null,
+      "exchangeTicker": null,
+      "listingDate": null,
+      "headerTicker": "LU0070217475",
+      "sedolCode": "5408353",
+      "hkTACode": "GSEAAU",
+      "twTACode": "GSEAAU",
+      "viivTicker": null,
+      "wknCode": "988404",
+      "currencyCode": "USD",
+      "distributionFrequency": null,
+      "distributionDate": null,
+      "reutersInstrumentCode": "LU0070217475.LUF",
+      "shareclassNumber": "ILSCAX",
+      "tradingInfo": {
+        "nav": "",
+        "underlyingTradingValue": "",
+        "sharesOutstanding": "",
+        "estimatedCash": "",
+        "totalCash": "",
+        "exchange": null
+      },
+      "nav": {
+        "price": 591.1,
+        "date": "2025-07-23",
+        "navEffectiveDate": "2025-07-23",
+        "navMovementEffectiveDate": "2025-07-23",
+        "changePercentage": 1.1084123,
+        "changeAmount": null,
+        "highNavPrice": 569.25,
+        "highNavPriceDate": "2024-12-06",
+        "lowNavPrice": 474.9,
+        "lowNavPriceDate": "2025-04-07",
+        "highMktNavPrice": null,
+        "highMktNavdate": null,
+        "lowMktNavPrice": null,
+        "lowMktNavdate": null,
+        "marketValueNavPrice": null,
+        "intraDayDateTime": null,
+        "currencyCode": "USD",
+        "timeZone": null,
+        "premiumDiscountPercentage": null,
+        "gearingPercentage": null,
+        "medianBidAskSpreadValue": null,
+        "navDecimalPoints": -1,
+        "closingPrice": null
+      },
+      "shareclassLaunchPrice": null,
+      "expenses": {
+        "netExpense": null,
+        "grossExpense": null,
+        "managementFee": null,
+        "investmentManagement": null,
+        "mer": null,
+        "expenseRecoveries": null,
+        "otherIndirectCosts": null,
+        "buySpread": null,
+        "sellSpread": null
+      },
+      "categoryCode": "A",
+      "displayName": "JPM A (acc) - USD",
+      "shortName": "JPM A (acc) - USD",
+      "name": "JPM Global Select Equity A (acc) - USD",
+      "cusip": "LU0070217475",
+      "isin": null,
+      "marketPrice": {
+        "amount": null,
+        "changeAmount": null,
+        "date": "2024-12-31",
+        "changePercentage": null,
+        "dailyHighPrice": null,
+        "dailyLowPrice": null,
+        "premiumDiscountPercentage": null
+      },
+      "fundShareclassPerformanceReturn": [
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "10Y",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 1.752247,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        },
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "1DY",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 0.011084,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        },
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "1MT",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 0.061774,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        },
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "1WK",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 0.019788,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        },
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "1YR",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 0.09045,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        },
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "2YR",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 0.326824,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        },
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "3MT",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 0.152579,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        },
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "3YR",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 0.574084,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        },
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "5YR",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 0.909053,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        },
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "6MT",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 0.052697,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        },
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "7YR",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 1.143997,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        },
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "INC",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 45.838352,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        },
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "MTD",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 0.025539,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        },
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "QTD",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 0.023355,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        },
+        {
+          "fundShareclassReturnType": 1,
+          "returnPeriodIndicator": "WTD",
+          "annualizedNoLoadReturnPercentage": null,
+          "annualizedLoadReturnPercentage": null,
+          "annualizedLoadPercentage": null,
+          "annualizedSharePriceReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2025-07-23",
+          "currencyCode": "USD",
+          "monthEndIndicator": "N",
+          "cumulativeNoLoadPercentage": 0.008755,
+          "cumulativeLoadPercentage": null,
+          "cumulativeSharePriceReturnPercentage": null,
+          "regionCode": "EM",
+          "pricingBasisCode": "NN",
+          "calendarYear": 0,
+          "fundShareclassIdentifier": null
+        }
+      ],
+      "fundShareclassPerformanceReturnMonthEnd": null,
+      "marketPriceReturn": {
+        "marketPriceReturnPercentage": null,
+        "marketPriceReturnDate": null
+      },
+      "premiumDiscount": null,
+      "shareClassInceptionDate": "1981-04-30",
+      "netGrossAssetClass": 772668535.62,
+      "grossAssetClassEffectiveDate": "2025-07-23",
+      "cutOffTime": "14:30",
+      "cutOffTimeZone": "CET",
+      "sharesOutstanding": 1307171.684,
+      "minimumInvestments": {
+        "iraInvestments": null,
+        "iraSubsequentInvestments": null,
+        "regularInvestments": 35000.0,
+        "regularSubsequentInvestments": 5000.0,
+        "investmentLimitAmount": 35000.0
+      },
+      "fees": {
+        "annualOperatingExpenses": null,
+        "feeWaiver": null,
+        "expenseRatio": null,
+        "expenseCapExpiryDate": null,
+        "investmentManagement": null,
+        "serviceFees": null,
+        "otherExpense": null,
+        "totalExpenseRatio": 1.8,
+        "acquiredFund": null,
+        "expenseLess": null,
+        "publishedOngoingCharge": 1.73,
+        "ongoingCharge": 1.73,
+        "publishedOngoingChargePriips": 1.7109,
+        "ongoingChargePriips": 1.7109,
+        "distributionFee": 0.0,
+        "subscriptionFees": 5.0,
+        "redemptionFees": 0.0,
+        "perfFeeRate": 0.0,
+        "annualMgmtAdvFees": 1.5,
+        "annualMgmtAdvFeesText": null,
+        "opAdminExpenses": 0.3,
+        "expenseRecoveries": null,
+        "otherIndirectCosts": null,
+        "buySpread": null,
+        "sellSpread": null,
+        "mer": null,
+        "managementFee": 1.5,
+        "custodianFee": null,
+        "stockholderServiceFee": null,
+        "incentiveFee": null,
+        "transactionCosts": 0.5144,
+        "establishmentCosts": null
+      },
+      "exchangeVolume": null,
+      "wal": null,
+      "wam": null,
+      "performanceReturns": null,
+      "cumulativePerformanceReturns": [
+        {
+          "performanceFactor": "JPM A (acc) - USD",
+          "translationKey": null,
+          "performanceFactorTranslationMap": null,
+          "benchmarkIdentifier": null,
+          "oneMonth": 0.07724,
+          "threeMonths": 0.002913,
+          "sixMonths": -0.019756,
+          "ytd": 0.008976,
+          "oneYear": 0.057385,
+          "threeYears": 0.395681,
+          "fiveYears": 0.96542,
+          "inception": 42.641045,
+          "tenYears": null,
+          "fifteenYears": null,
+          "effectiveDate": "2025-05-30",
+          "twoYears": 0.326149,
+          "fourYears": 0.323822,
+          "sixYears": null,
+          "sevenYears": null,
+          "eightYears": null,
+          "nineYears": null,
+          "jan": null,
+          "feb": null,
+          "mar": null,
+          "apr": null,
+          "may": null,
+          "jun": null,
+          "jul": null,
+          "aug": null,
+          "sep": null,
+          "oct": null,
+          "nov": null,
+          "dec": null,
+          "annualizedDistributionRate": null,
+          "monthlyBenchmarkDataNull": false,
+          "yearlyBenchmarkDataNull": false,
+          "quarterlyBenchmarkDataNull": false
+        },
+        {
+          "performanceFactor": "Benchmark",
+          "translationKey": "Benchmark",
+          "performanceFactorTranslationMap": null,
+          "benchmarkIdentifier": null,
+          "oneMonth": 0.059191,
+          "threeMonths": 0.02103,
+          "sixMonths": 0.022103,
+          "ytd": 0.049452,
+          "oneYear": 0.137166,
+          "threeYears": 0.44997,
+          "fiveYears": 0.940833,
+          "inception": 54.845764,
+          "tenYears": null,
+          "fifteenYears": null,
+          "effectiveDate": "2025-05-30",
+          "twoYears": null,
+          "fourYears": null,
+          "sixYears": null,
+          "sevenYears": null,
+          "eightYears": null,
+          "nineYears": null,
+          "jan": null,
+          "feb": null,
+          "mar": null,
+          "apr": null,
+          "may": null,
+          "jun": null,
+          "jul": null,
+          "aug": null,
+          "sep": null,
+          "oct": null,
+          "nov": null,
+          "dec": null,
+          "annualizedDistributionRate": null,
+          "monthlyBenchmarkDataNull": false,
+          "yearlyBenchmarkDataNull": false,
+          "quarterlyBenchmarkDataNull": false
+        }
+      ],
+      "annualizedPerformanceReturns": [
+        {
+          "performanceFactor": "JPM A (acc) - USD",
+          "translationKey": null,
+          "performanceFactorTranslationMap": {
+            "en": "JPM A (acc) - USD",
+            "cn": "A（累计）－美元类别",
+            "zh": "A（累計）－美元類別"
+          },
+          "benchmarkIdentifier": null,
+          "oneMonth": null,
+          "threeMonths": null,
+          "sixMonths": null,
+          "ytd": 0.008976,
+          "oneYear": 0.057385,
+          "threeYears": 0.117537,
+          "fiveYears": 0.144698,
+          "inception": 0.08937,
+          "tenYears": null,
+          "fifteenYears": null,
+          "effectiveDate": "2025-05-30",
+          "twoYears": 0.151585,
+          "fourYears": 0.072648,
+          "sixYears": null,
+          "sevenYears": null,
+          "eightYears": null,
+          "nineYears": null,
+          "jan": null,
+          "feb": null,
+          "mar": null,
+          "apr": null,
+          "may": null,
+          "jun": null,
+          "jul": null,
+          "aug": null,
+          "sep": null,
+          "oct": null,
+          "nov": null,
+          "dec": null,
+          "annualizedDistributionRate": null,
+          "monthlyBenchmarkDataNull": false,
+          "yearlyBenchmarkDataNull": false,
+          "quarterlyBenchmarkDataNull": false
+        },
+        {
+          "performanceFactor": "Benchmark",
+          "translationKey": "Benchmark",
+          "performanceFactorTranslationMap": null,
+          "benchmarkIdentifier": null,
+          "oneMonth": null,
+          "threeMonths": null,
+          "sixMonths": null,
+          "ytd": 0.049452,
+          "oneYear": null,
+          "threeYears": 0.131843,
+          "fiveYears": 0.14182,
+          "inception": 0.09547,
+          "tenYears": null,
+          "fifteenYears": null,
+          "effectiveDate": "2025-05-30",
+          "twoYears": null,
+          "fourYears": null,
+          "sixYears": null,
+          "sevenYears": null,
+          "eightYears": null,
+          "nineYears": null,
+          "jan": null,
+          "feb": null,
+          "mar": null,
+          "apr": null,
+          "may": null,
+          "jun": null,
+          "jul": null,
+          "aug": null,
+          "sep": null,
+          "oct": null,
+          "nov": null,
+          "dec": null,
+          "annualizedDistributionRate": null,
+          "monthlyBenchmarkDataNull": false,
+          "yearlyBenchmarkDataNull": false,
+          "quarterlyBenchmarkDataNull": false
+        }
+      ],
+      "performanceSummaryReturns": null,
+      "morningstarRating": [
+        {
+          "periodIndicator": null,
+          "rankNumber": 4,
+          "peerGroupCount": null,
+          "groupPercentile": null,
+          "effectiveDate": "2025-06-30"
+        }
+      ],
+      "morningstarRatingEffectiveDate": "2025-06-30",
+      "fundShareClassValuationDate": "2025-07-23",
+      "morningstarRatingCategory": "Global Large-Cap Blend Equity",
+      "lipperRating": [
+        {
+          "periodIndicator": "OVR",
+          "rankNumber": 4,
+          "peerGroupCount": null,
+          "groupPercentile": null,
+          "effectiveDate": "2025-06-30"
+        }
+      ],
+      "lipperRatingEffectiveDate": null,
+      "lipperRatingCategory": "Global Large-Cap Blend Equity",
+      "dailyDividendFactor": null,
+      "taxAwareFlag": "no",
+      "identifier": "78D57519F29A0EB7E04400144FB99A4A",
+      "htmlCommentaries": null,
+      "saleCharge": null,
+      "calendarYearBenchmarkReturns": [],
+      "statusTypeCode": "O-O",
+      "intraDayNav": null,
+      "morningstarOverallRating": {
+        "morningstarAnalystRatingIndicator": null,
+        "fundShareclassIndustryRatingDate": "2025-06-30",
+        "peerGroupName": null,
+        "value": 4,
+        "morningstarMedalistRatingIndicator": "L",
+        "analystDrivenPercentage": 10,
+        "dataCoveragePercentage": 99
+      },
+      "emeaFundShareclass": {
+        "ukReportingIndicator": "N",
+        "settlementCycleRedemption": {
+          "code": "T3",
+          "name": "T+3"
+        },
+        "intendedDividendFrequency": null,
+        "intendedDividendExDate": null,
+        "intendedDividendPayDate": null,
+        "lastReactivationDate": null,
+        "priceDecimalPosition": {
+          "code": "2",
+          "name": "2 decimal places"
+        }
+      },
+      "renderPerformanceCard": true,
+      "nonFairNav": {
+        "nonFairValueNAVDate": null,
+        "nonFairValueNAVPrice": null,
+        "currencyCode": null
+      },
+      "threePMNav": {
+        "nonFairValueNAVDate": null,
+        "nonFairValueNAVPrice": null,
+        "currencyCode": null
+      },
+      "ukReportingIndicator": "N",
+      "hedgedShareclassIndicator": "N",
+      "settlementCycleRedemptionName": "T+3",
+      "valoren": "575980",
+      "fundShareclassDividend": null,
+      "exDividendDate": null,
+      "incomeDistributionFrequency": null,
+      "incomeDistributionDate": null,
+      "registeredCountries": [
+        {
+          "effectiveDate": "2000-02-07",
+          "country": "Austria",
+          "countryCode": "AT"
+        },
+        {
+          "effectiveDate": "2018-01-15",
+          "country": "Belgium",
+          "countryCode": "BE"
+        },
+        {
+          "effectiveDate": "2018-11-16",
+          "country": "Chile",
+          "countryCode": "XC"
+        },
+        {
+          "effectiveDate": "2017-11-03",
+          "country": "Croatia",
+          "countryCode": "HR"
+        },
+        {
+          "effectiveDate": "2019-10-23",
+          "country": "Cyprus",
+          "countryCode": "CY"
+        },
+        {
+          "effectiveDate": "2017-10-27",
+          "country": "Czech Republic",
+          "countryCode": "CZ"
+        },
+        {
+          "effectiveDate": "2006-10-16",
+          "country": "Denmark",
+          "countryCode": "DK"
+        },
+        {
+          "effectiveDate": "2000-12-08",
+          "country": "Finland",
+          "countryCode": "FI"
+        },
+        {
+          "effectiveDate": "1997-04-23",
+          "country": "France",
+          "countryCode": "FR"
+        },
+        {
+          "effectiveDate": "1997-05-21",
+          "country": "Germany",
+          "countryCode": "DE"
+        },
+        {
+          "effectiveDate": "2006-08-11",
+          "country": "Greece",
+          "countryCode": "GR"
+        },
+        {
+          "effectiveDate": "2023-04-14",
+          "country": "Hong Kong",
+          "countryCode": "HK"
+        },
+        {
+          "effectiveDate": "2017-10-27",
+          "country": "Hungary",
+          "countryCode": "HU"
+        },
+        {
+          "effectiveDate": "2024-11-05",
+          "country": "Iceland",
+          "countryCode": "IS"
+        },
+        {
+          "effectiveDate": "2000-02-25",
+          "country": "Ireland",
+          "countryCode": "IE"
+        },
+        {
+          "effectiveDate": "1997-09-30",
+          "country": "Italy",
+          "countryCode": "IT"
+        },
+        {
+          "effectiveDate": null,
+          "country": "Jersey",
+          "countryCode": "JE"
+        },
+        {
+          "effectiveDate": "2023-09-28",
+          "country": "Korea",
+          "countryCode": "KR"
+        },
+        {
+          "effectiveDate": "1996-09-16",
+          "country": "Luxembourg",
+          "countryCode": "LU"
+        },
+        {
+          "effectiveDate": "1998-12-01",
+          "country": "Netherlands",
+          "countryCode": "NL"
+        },
+        {
+          "effectiveDate": "2000-12-14",
+          "country": "Norway",
+          "countryCode": "NO"
+        },
+        {
+          "effectiveDate": "2019-03-13",
+          "country": "Portugal",
+          "countryCode": "PT"
+        },
+        {
+          "effectiveDate": "2020-03-27",
+          "country": "Singapore",
+          "countryCode": "SG"
+        },
+        {
+          "effectiveDate": "1998-07-22",
+          "country": "Spain",
+          "countryCode": "ES"
+        },
+        {
+          "effectiveDate": "1999-12-29",
+          "country": "Sweden",
+          "countryCode": "SE"
+        },
+        {
+          "effectiveDate": "1998-06-05",
+          "country": "Switzerland",
+          "countryCode": "CH"
+        },
+        {
+          "effectiveDate": "2024-02-19",
+          "country": "Taiwan",
+          "countryCode": "TW"
+        },
+        {
+          "effectiveDate": "1997-01-17",
+          "country": "United Kingdom",
+          "countryCode": "GB"
+        }
+      ],
+      "quarterlyRollingPerformanceReturns": {
+        "headers": [
+          "2020/2021",
+          "2021/2022",
+          "2022/2023",
+          "2023/2024",
+          "2024/2025"
+        ],
+        "effectiveDate": "2025-06-30",
+        "rollingPerformanceData": [
+          {
+            "performanceFactor": "JPM A (acc) - USD",
+            "translationKey": null,
+            "values": [
+              0.445272,
+              -0.150818,
+              0.230276,
+              0.247177,
+              0.064905
+            ],
+            "rollingBenchmarkDataNull": false
+          },
+          {
+            "performanceFactor": "Benchmark",
+            "translationKey": "Benchmark",
+            "values": [
+              0.390443,
+              -0.14338,
+              0.185104,
+              0.201922,
+              0.162582
+            ],
+            "rollingBenchmarkDataNull": false
+          },
+          {
+            "performanceFactor": "Excess return (geometric)",
+            "translationKey": "pdp-excess-return-geometric-label",
+            "values": [
+              0.03943276,
+              -0.00868296,
+              0.03811649,
+              0.03765219,
+              -0.0840173
+            ],
+            "rollingBenchmarkDataNull": false
+          }
+        ]
+      },
+      "monthlyRollingPerformanceReturns": {
+        "headers": [
+          "2020/2021",
+          "2021/2022",
+          "2022/2023",
+          "2023/2024",
+          "2024/2025"
+        ],
+        "effectiveDate": "2025-06-30",
+        "rollingPerformanceData": [
+          {
+            "performanceFactor": "JPM A (acc) - USD",
+            "translationKey": null,
+            "values": [
+              0.445272,
+              -0.150818,
+              0.230276,
+              0.247177,
+              0.064905
+            ],
+            "rollingBenchmarkDataNull": false
+          },
+          {
+            "performanceFactor": "Benchmark",
+            "translationKey": "Benchmark",
+            "values": [
+              0.390443,
+              -0.14338,
+              0.185104,
+              0.201922,
+              0.162582
+            ],
+            "rollingBenchmarkDataNull": false
+          },
+          {
+            "performanceFactor": "Excess return (geometric)",
+            "translationKey": "pdp-excess-return-geometric-label",
+            "values": [
+              0.03943276,
+              -0.00868296,
+              0.03811649,
+              0.03765219,
+              -0.0840173
+            ],
+            "rollingBenchmarkDataNull": false
+          }
+        ]
+      },
+      "fundTradingLine": null,
+      "lastReactivationDate": null,
+      "redemptionSettlementDate": null,
+      "dealingFrequency": "Daily",
+      "benchmarkRestructuringDate": null,
+      "languageToTranslationTexts": null,
+      "valueAtRiskBreakdown": null,
+      "fundShareclassMonthEndPeriodRisk": {
+        "performanceRiskEffectiveDate": null,
+        "regionCode": null,
+        "riskPeriodIndicator": null,
+        "alphaValue": null,
+        "betaValue": null,
+        "sharpeRatioValue": null,
+        "standardDeviationValue": null,
+        "trackingErrorValue": null,
+        "correlationValue": null,
+        "annualVolatilityPercentage": null,
+        "averageAnnualReturnPercentage": null,
+        "valueAtRiskPercentage": null,
+        "informationRatioValue": null,
+        "activeSharePercentage": null,
+        "proxyOverlap": null,
+        "proxyTrackingError": null,
+        "rsquaredValue": null
+      },
+      "distributingCode": "ACC",
+      "calendarYearExcessReturn": [
+        {
+          "cumulativeExcessReturnPercentage": -0.062791,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2008-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2008,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": 0.082496,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2009-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2009,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": -0.016029,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2010-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2010,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": -0.075403,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2011-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2011,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": 0.010889,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2012-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2012,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": 9.7e-05,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2013-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2013,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": -0.015575,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2014-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2014,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": -0.022209,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2015-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2015,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": -0.003053,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2016-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2016,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": 0.021005,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2017-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2017,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": -0.025991,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2018-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2018,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": -0.000923,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2019-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2019,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": 0.019137,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2020-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2020,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": 0.005814,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2021-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2021,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": 0.030076,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2022-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2022,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": 0.018357,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2023-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2023,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        },
+        {
+          "cumulativeExcessReturnPercentage": -0.031113,
+          "annualizedExcessReturnPercentage": null,
+          "performanceReturnEffectiveDate": "2024-12-31",
+          "returnPeriodIndicator": "CAL",
+          "monthEndIndicator": "Y",
+          "currencyCode": "USD",
+          "calendarYear": 2024,
+          "fundShareclassIdentifier": "78D57519F29A0EB7E04400144FB99A4A"
+        }
+      ],
+      "calendarYearYTD": null,
+      "isMotherShareclass": true,
+      "premiumDiscountPercentage": null,
+      "gearingPercentage": null,
+      "sharePrice": null,
+      "intraDayDateTime": null,
+      "brandImageURL": null,
+      "srriValue": 6,
+      "fundShareclassRegistrations": [
+        {
+          "country": {
+            "code": "ES",
+            "name": "Spain"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "ES",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "1998-07-22"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "SE",
+            "name": "Sweden"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "SE",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "1999-12-29"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "CH",
+            "name": "Switzerland"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "CH",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "1998-06-05"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "TW",
+            "name": "Taiwan"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "TW",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2024-02-19"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "SG",
+            "name": "Singapore"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "SG",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "RECOGNISED_FORM_2",
+              "date": "2020-03-27"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "AT",
+            "name": "Austria"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "AT",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2000-02-07"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "BE",
+            "name": "Belgium"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "BE",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2018-01-15"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "GB",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "1997-01-17"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "XC",
+            "name": "Chile (Public Offering)"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "XC",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2018-11-16"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "HR",
+            "name": "Croatia"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "HR",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2017-11-03"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "CY",
+            "name": "Cyprus"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "CY",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2019-10-23"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "CZ",
+            "name": "Czech Republic"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "CZ",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2017-10-27"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "DK",
+            "name": "Denmark"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "DK",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2006-10-16"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "FI",
+            "name": "Finland"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "FI",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2000-12-08"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "FR",
+            "name": "France"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "FR",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "1997-04-23"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "LU",
+            "name": "Luxembourg"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "LU",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "1996-09-16"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "DE",
+            "name": "Germany"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "DE",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "1997-05-21"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "GR",
+            "name": "Greece"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "GR",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2006-08-11"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "NL",
+            "name": "Netherlands"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "NL",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "1998-12-01"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "NO",
+            "name": "Norway"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "NO",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2000-12-14"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "PT",
+            "name": "Portugal"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "PT",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2019-03-13"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "HK",
+            "name": "Hong Kong"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "HK",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2023-04-14"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "HU",
+            "name": "Hungary"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "HU",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2017-10-27"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "IS",
+            "name": "Iceland"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "IS",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2024-11-05"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "IE",
+            "name": "Ireland"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "IE",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2000-02-25"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "IT",
+            "name": "Italy"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "IT",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "1997-09-30"
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "JE",
+            "name": "Jersey"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "JE",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": null
+            }
+          ]
+        },
+        {
+          "country": {
+            "code": "KR",
+            "name": "Korea"
+          },
+          "fundShareclassRegistrationStatus": [
+            {
+              "registrationCountryCode": "KR",
+              "fundRegistrationStatusCode": "GREEN",
+              "registrationSchemeCd": "NA",
+              "date": "2023-09-28"
+            }
+          ]
+        }
+      ],
+      "newspaperShortName": null,
+      "specialDistributionPolicyCode": null,
+      "shareclassInvestmentPolicy": null,
+      "verifiedIntraDayValue": null,
+      "cmsId": "232",
+      "fundCmsId": "72",
+      "proxyOverlap": null,
+      "proxyTrackingError": null,
+      "proxyPerfRiskEffectiveDate": null,
+      "fundShareclassHypoPerformances": null,
+      "fundShareclassEvents": null,
+      "ytmYtwBannerCode": null,
+      "netYieldToMaturity": null,
+      "netYieldToWorst": null,
+      "fundRiskRatingValue": "",
+      "netYieldToMaturityEffectiveDate": null
+    },
+    "riskLevel": 3,
+    "visibleData": {
+      "visibleCharts": [
+        "HISTORICAL_NAV_ADVANCED",
+        "PERFORMANCE"
+      ],
+      "visibleFundFacts": [
+        "ASSET_CLASS",
+        "FUND_INCEPTION_DATE",
+        "SHARECLASS_CURRENCY_CODE",
+        "REGION_OF_INVESTMENT",
+        "TICKER",
+        "SEDOL",
+        "ISIN",
+        "RISK",
+        "ESG_APPROACH"
+      ],
+      "visibleFundStats": [
+        "MARKET_AUM",
+        "NAV",
+        "TWELVE_MONTH_NAV_LABEL",
+        "TWELVE_MONTH_HIGH_NAV",
+        "TWELVE_MONTH_LOW_NAV",
+        "LATEST_DIVIDEND_VALUE",
+        "YTD"
+      ],
+      "visibleFinancialCalendar": [],
+      "visibleDataPoints": [
+        "SHOW_SHARECLASS_NAME",
+        "SHOW_AEM_DOCUMENT_LINK",
+        "SHARECLASS_FEES_PUBLISHED_ONGOING_CHARGE",
+        "SHARECLASS_FEES_SUBSCRIPTION_FEES",
+        "SHARECLASS_FEES_REDEMPTION_FEES",
+        "SHARECLASS_FEES_PERF_FEE_RATE",
+        "LEGAL_DOCS",
+        "PRODUCT_DOCS",
+        "ERD_DISCLOSURE",
+        "SHOW_TOP_10_HOLDINGS_HEADER",
+        "SHOW_PORTFOLIO_HOLDINGS_DISCLOSURE",
+        "HISTORICAL_CHART_RETURN_RATE",
+        "HISTORICAL_CHART_DATA_AVAILABLE_SINCE",
+        "HISTORICAL_CHART_HISTORICAL_LOW_HIGH",
+        "HISTORICAL_CHART_DENOMINATED_CURRENCY",
+        "HISTORICAL_CHART_X_AXIS_LONG_FORMAT",
+        "BREAKDOWN_TABLE_CHILD_CARD_DASH_AS_DEFAULT_VALUE",
+        "MAP_PEER_GROUP_CATEGORY_TO_MSTAR_CATEGORY",
+        "BOOTSTRAP_COLUMN_FULL_WIDTH",
+        "SHOW_FUND_HOLDINGS_SUB_HEADER",
+        "SHOW_MORNINGSTAR_RATING",
+        "HISTORICAL_CHART_DOWNLOAD_BUTTON_WITH_WIDER_TOP_MARGIN",
+        "PORTFOLIO_CHILD_CARD_SHOW_SECONDARY_VALUE",
+        "PERFORMANCE_TAB_BENCHMARK_PERFORMANCE",
+        "CHARGES_CARD",
+        "PERFORMANCE_CHART_LEGEND",
+        "HIDE_RISK_PROFILE_CARD",
+        "PERFORMANCE_CHART_PER_ADV_TITLE",
+        "PERFORMANCE_CHART_DROPDOWN_WITH_SHARECLASS_LAUNCH_DATE",
+        "PERFORMANCE_CHART_PERFORMANCE_SINCE_OPTION",
+        "PERFORMANCE_CHART_SHOW_SHARECLASS_NAV",
+        "PERFORMANCE_CHART_SHOW_BENCHMARK_PERFORMANCE",
+        "PERFORMANCE_CHART_WITHOUT_CURRENCY_CODE",
+        "HIDE_DOWNLOAD_BUTTON",
+        "PERFORMANCE_CHART_SHOW_RE_STRUCTURING_LINE",
+        "SHOW_BENCHMARK_RESTRUCTURING_DATE",
+        "HIDE_FEES_CARD",
+        "SHOW_SUMMARY_HEADER_DISCLOSURE",
+        "SHOW_DYNAMIC_CONTENT_DRAWER",
+        "ESG_INTEGRATED_CARD_HARDCODED_CONTENT",
+        "SHOW_AEM_ESG_DISCLOSURE",
+        "SHOW_PORTFOLIO_INSIGHTS_CARD",
+        "SHOW_SUMMARY_HEADER_DISCLOSURE_PER",
+        "CHARGES_CARD_MANAGEMENT_FEE",
+        "CHARGES_CARD_INITIAL_CHARGE",
+        "CHARGES_CARD_REDEMPTION_FEE",
+        "IS_SUPPRESSION_REGULATORY_DOCUMENT",
+        "HIDE_BULLET_POINTS",
+        "IS_SUPPRESSION_NON_529_FUND_LITERATURE",
+        "SHOW_AWARDS_AND_RATINGS",
+        "PERFORMANCE_CARD_SHOULD_WARN_ABOUT_YOUNG_FUND",
+        "OVERRIDE_FACTSHEET_LABEL",
+        "SHOW_BENCHMARK_LONGNAMES"
+      ],
+      "visibleTopHoldings": [],
+      "visibleUnderlyingHoldings": [],
+      "visibleProxyHoldings": [],
+      "visiblePerformanceCardTabs": [
+        "CUMULATIVE_HK",
+        "CALENDAR_YEAR"
+      ],
+      "visibleRegionalDataPoint": [],
+      "visibleCards": [
+        "FUND_DISTRIBUTION_CARD"
+      ],
+      "visiblePortfolioCards": [
+        "EMEA_FUND_HOLDINGS",
+        "PORTFOLIO_CHARACTERISTICS",
+        "PORTFOLIO_ANALYSIS",
+        "MULTI_PORTFOLIO_ANALYSIS",
+        "PORTFOLIO_ANALYSIS_BY_COUNTRY",
+        "PORTFOLIO_ANALYSIS_BY_SECTOR",
+        "EXPOSURE_CARD",
+        "PORTFOLIO_ANALYSIS_BY_EQUITY_REGIONS",
+        "PORTFOLIO_ANALYSIS_BY_EQUITY_SECTOR",
+        "PORTFOLIO_ANALYSIS_BY_EQUITY_SECTOR_CIFM",
+        "PORTFOLIO_ANALYSIS_BY_FIXED_INCOME_REGIONS",
+        "PORTFOLIO_ANALYSIS_BY_FIXED_INCOME_SECTOR",
+        "PORTFOLIO_ANALYSIS_BY_DENOMINATED_CURRENCY",
+        "PORTFOLIO_ANALYSIS_BY_CURRENCY",
+        "PORTFOLIO_ANALYSIS_BY_CONVERTIBLE_BONDS",
+        "PORTFOLIO_ANALYSIS_NET_LIQUIDITY",
+        "PORTFOLIO_STATISTICAL_ANALYSIS"
+      ],
+      "formattingRules": [
+        "FUND_ADVISORS_WITHOUT_FUND_EXPERIENCE",
+        "AUM_IN_MILLIONS",
+        "CHECK_HK_FUND_TYPE",
+        "PERFORMANCE_DATA_SHOW_IN_ONE_DECIMAL",
+        "HISTORICAL_NAV_CHART_ONE_MONTH_PERIOD",
+        "CURRENCY_FORMATTED_WITH_TRANSLATED_MESSAGE",
+        "FUND_STATS_DISPLAY_ON_INSTEAD_OF_AS_OFF",
+        "FUND_STATS_TWELVE_MONTH_NAV_SHOWS_SINCE_INCEPTION",
+        "FUND_STATS_NAV_GROUPED",
+        "FUND_STATS_YTD_WITH_1_DP",
+        "PERFORMANCE_CHART_SHOW_DATE_IN_MMYYYY",
+        "ESG_INFORMATION_COLUMN_LAYOUT",
+        "AWARD_MORNINGSTAR_ALIGNMENT_APAC",
+        "NAV_DECIMAL_PLACES_UNLIMITED"
+      ]
+    },
+    "shareclassAllList": [
+      {
+        "categoryCode": "A",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "LU0070217475",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPM Global Select Equity A (acc) - USD",
+        "displayName": "JPM A (acc) - USD",
+        "shortName": "JPM A (acc) - USD",
+        "currencyCode": "USD",
+        "distributingCode": "ACC",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": {
+          "en": "JPM Global Select Equity A (acc) - USD",
+          "cn": "JPM环球智选（美元）－A股（累计）",
+          "zh": "JPM環球智選（美元）－A股（累計）"
+        },
+        "shareclassShortNameTranslationMap": {
+          "en": "JPM A (acc) - USD",
+          "cn": "A（累计）－美元类别",
+          "zh": "A（累計）－美元類別"
+        },
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "AR",
+              "name": "Argentina"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AR",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MO",
+              "name": "Macau"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MO",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "RO",
+              "name": "Romania"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "RO",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SK",
+              "name": "Slovakia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SK",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SI",
+              "name": "Slovenia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SI",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "ES",
+              "name": "Spain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "ES",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1998-07-22"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SE",
+              "name": "Sweden"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SE",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1999-12-29"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CH",
+              "name": "Switzerland"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CH",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1998-06-05"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "TW",
+              "name": "Taiwan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "TW",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2024-02-19"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "RECOGNISED_FORM_2",
+                "date": "2020-03-27"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "YELLOW",
+                "registrationSchemeCd": "RESTRICTED_FORM_5",
+                "date": "2011-04-13"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "AT",
+              "name": "Austria"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AT",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2000-02-07"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BH",
+              "name": "Bahrain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BH",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BE",
+              "name": "Belgium"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BE",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2018-01-15"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BM",
+              "name": "Bermuda"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BM",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BO",
+              "name": "Bolivia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BO",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BG",
+              "name": "Bulgaria"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BG",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CL",
+              "name": "Chile"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CL",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "AE",
+              "name": "United Arab Emirates"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "GB",
+              "name": "United Kingdom"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "GB",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1997-01-17"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "XC",
+              "name": "Chile (Public Offering)"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "XC",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2018-11-16"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HR",
+              "name": "Croatia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HR",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2017-11-03"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CY",
+              "name": "Cyprus"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CY",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2019-10-23"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CZ",
+              "name": "Czech Republic"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CZ",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2017-10-27"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "DK",
+              "name": "Denmark"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "DK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2006-10-16"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "EE",
+              "name": "Estonia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "EE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "FI",
+              "name": "Finland"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "FI",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2000-12-08"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "FR",
+              "name": "France"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "FR",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1997-04-23"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LU",
+              "name": "Luxembourg"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LU",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1996-09-16"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "DE",
+              "name": "Germany"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "DE",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1997-05-21"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "GR",
+              "name": "Greece"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "GR",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2006-08-11"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "GG",
+              "name": "Guernsey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "GG",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MT",
+              "name": "Malta"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MT",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "MX",
+              "name": "Mexico"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "MX",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "NL",
+              "name": "Netherlands"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "NL",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1998-12-01"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "NO",
+              "name": "Norway"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "NO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2000-12-14"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "PE",
+              "name": "Peru"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "PE",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "PL",
+              "name": "Poland"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "PL",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "PT",
+              "name": "Portugal"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "PT",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2019-03-13"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2023-04-14"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HU",
+              "name": "Hungary"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HU",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2017-10-27"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "IS",
+              "name": "Iceland"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "IS",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2024-11-05"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "IE",
+              "name": "Ireland"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "IE",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2000-02-25"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "IT",
+              "name": "Italy"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "IT",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1997-09-30"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JP",
+              "name": "Japan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JP",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JE",
+              "name": "Jersey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JE",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "KR",
+              "name": "Korea"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "KR",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2023-09-28"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LV",
+              "name": "Latvia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LV",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LI",
+              "name": "Liechtenstein"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LI",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LT",
+              "name": "Lithuania"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LT",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CN",
+              "name": "China"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CN",
+                "fundRegistrationStatusCode": "RED",
+                "registrationSchemeCd": "QDII",
+                "date": null
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [
+          {
+            "indicatorCode": "BOTH",
+            "indicatorValue": "B",
+            "shareclassIndicatorTypeCode": "MIFID_II_EXECUTION_NON_ADVISED"
+          },
+          {
+            "indicatorCode": "BOTH",
+            "indicatorValue": "B",
+            "shareclassIndicatorTypeCode": "MIFID_II_INVESTMENT_ADVICE"
+          },
+          {
+            "indicatorCode": "BOTH",
+            "indicatorValue": "B",
+            "shareclassIndicatorTypeCode": "MIFID_II_PORTFOLIO_MANAGEMENT"
+          },
+          {
+            "indicatorCode": "BOTH",
+            "indicatorValue": "B",
+            "shareclassIndicatorTypeCode": "MIFID_II_EXECUTION_ONLY"
+          },
+          {
+            "indicatorCode": "NEUTRAL",
+            "indicatorValue": "Neutral",
+            "shareclassIndicatorTypeCode": "MIFID_II_RISK_LOW_RISK_DE"
+          },
+          {
+            "indicatorCode": "NRA_MINISITE_YES",
+            "indicatorValue": "Yes",
+            "shareclassIndicatorTypeCode": "NRA_MINISITE"
+          },
+          {
+            "indicatorCode": "Y",
+            "indicatorValue": "Y",
+            "shareclassIndicatorTypeCode": "MIFID_II_PROFESSIONAL"
+          },
+          {
+            "indicatorCode": "Y",
+            "indicatorValue": "Y",
+            "shareclassIndicatorTypeCode": "MIFID_II_ELIGIBILE_COUNTERPARTY"
+          },
+          {
+            "indicatorCode": "Y",
+            "indicatorValue": "Y",
+            "shareclassIndicatorTypeCode": "MIFID_II_INVESTOR_RETAIL"
+          }
+        ],
+        "marketingCategoryName": "Global Equity"
+      }
+    ],
+    "fundIndustryCreditRatings": [],
+    "objective": null,
+    "investmentObjective": "To achieve a return in excess of the global equity markets by investing primarily in companies, globally.",
+    "investmentApproach": "<ul><li>Uses a fundamental, bottom-up stock selection process.</li><li>Investment process built on stock level analysis by a global research team.</li></ul>",
+    "investmentPolicy": "<p><b>Main investment exposure</b></p><br><p>At least 67% of assets invested in equities of companies anywhere in the world.</p><br><p><b>Derivatives</b></p><br><p><i>Used for:</i> efficient portfolio management; hedging. <i>Types:</i> see <u><a href=\"http://www.jpmorganassetmanagement.lu\">Sub-Fund Derivative Usage</a></u> table under <u><a href=\"http://www.jpmorganassetmanagement.lu\">How the Sub-Funds Use Derivatives, Instruments and Techniques</a></u> in the Prospectus. <i>TRS including CFD:</i> none. <i>Global exposure calculation method:</i> commitment.</p><br><p><b>Currencies</b></p><br><p><i>Sub-Fund Base Currency:</i> USD. <i>Currencies of asset denomination: </i>any. <i>Hedging approach:</i> typically managed to the currency weights of the benchmark.</p><br><p><b>Redemption and Dealing</b></p><br><p>Shares of the Sub-Fund may be redeemed on demand, with dealing normally on a daily basis.</p><br><br><p><b>Distribution Policy</b></p><br><p>This Share Class does not pay dividends. Earned income is retained in the NAV.</p><br>",
+    "riskProfile": "Risk Descriptions</a></u> in the Prospectus for a full description of each risk.</p>",
+    "investorProfile": null,
+    "benchmarkUsesAndResemblance": "<span title=\"Benchmark uses and resemblance\"><b>Benchmark uses and resemblance</b></span><br><ul><li>Performance comparison.</li></ul><p>The Sub-Fund is actively managed. The majority of the Sub-Fund’s holdings (excluding derivatives) are likely to be components of the benchmark and it is managed within indicative risk parameters that typically limit the Investment Manager’s discretion to deviate from its securities, weightings and risk characteristics. As a result, the Sub-Fund will bear a resemblance to the composition and risk characteristics of its benchmark; however, the Investment Manager’s discretion may result in performance that differs from the benchmark.</p>",
+    "typicalInvestment": null,
+    "strategy": null,
+    "dividendsFrequency": null,
+    "investmentAdvisors": [],
+    "fundManagers": [
+      {
+        "firstName": "Helge",
+        "lastName": "Skibeli",
+        "fullName": "Helge Skibeli",
+        "fullNameMap": null,
+        "profileURL": null,
+        "imageURL": null,
+        "industryExperience": 37.5,
+        "jpmcExperience": 35.5,
+        "fundManagingExperience": 9.583333,
+        "fundSubAdvisor": null,
+        "identifier": "66BCE90F5E292CD0E0536D8C4CA98AB6"
+      },
+      {
+        "firstName": null,
+        "lastName": null,
+        "fullName": "Christian Pecher",
+        "fullNameMap": null,
+        "profileURL": null,
+        "imageURL": null,
+        "industryExperience": 27.5,
+        "jpmcExperience": 27.5,
+        "fundManagingExperience": 5.8333335,
+        "fundSubAdvisor": null,
+        "identifier": "464F98B1D4CD39EDE05400144FBAC12A"
+      }
+    ],
+    "numberOfHoldings": null,
+    "numberOfInvestments": null,
+    "assetClass": "Equity",
+    "fundInceptionDate": "1981-04-30",
+    "numberOfHoldingsEffectiveDate": null,
+    "numberOfInvestmentsEffectiveDate": null,
+    "fundValuationDate": "2025-06-30",
+    "fundNumber": null,
+    "fundAccountingCode": "11247",
+    "legalEntityIdentifier": "54930002C5CUN0IU6C04",
+    "alerts": null,
+    "aum": {
+      "date": "2025-06-30",
+      "netAsset": null,
+      "value": 10633728171.4,
+      "currencyCode": null
+    },
+    "breakdowns": {
+      "deltaGamma": null,
+      "sampleWithdrawalAmount": null,
+      "sampleWithdrawalAmountDp": null,
+      "couponType": null,
+      "issueType": null,
+      "securityType": null,
+      "contractIssuer": null,
+      "m12Details": null
+    },
+    "fundHoldings": null,
+    "qualityBreakdown": null,
+    "countryBreakdown": null,
+    "portfolioSectorBreakdown": null,
+    "portfolioDistribution": null,
+    "commodityMaturity": null,
+    "quarterlyContributors": null,
+    "quarterlyDetractors": null,
+    "currencyAllocation": null,
+    "regionalBreakdown": null,
+    "geographicBreakdown": null,
+    "assetAllocation": null,
+    "regionalDistribution": null,
+    "sectorAllocation": null,
+    "yieldToMaturity": null,
+    "commodityAllocations": null,
+    "contributionToDuration": null,
+    "maturity": null,
+    "emeaMaturity": null,
+    "averageLife": null,
+    "industryBreakdown": null,
+    "portfolioBreakdown": null,
+    "portfolioAllocationTotals": null,
+    "portfolioAllocation": null,
+    "portfolioAllocationMMS": null,
+    "strategicAllocation": null,
+    "longPositions": null,
+    "notionalExposure": null,
+    "sectorExposure": null,
+    "emeaRegionalExposure": null,
+    "emeaSectorBreakdown": null,
+    "marketPositions": null,
+    "emeaSectorExposure": null,
+    "shortPositions": null,
+    "fixedIncomeMaturity": null,
+    "portfolioExposure": null,
+    "countryExposure": null,
+    "commodityInvestment": null,
+    "holdings": {
+      "monthlyHoldings": {
+        "effectiveDate": null,
+        "data": null,
+        "visibleFields": null,
+        "visibleFieldDataTypes": null
+      },
+      "fundIndicatorMonthlyHoldingDisplayFlag": null,
+      "pcfEquityHoldings": null,
+      "pcfBondHoldings": null,
+      "pcfFundHoldings": null,
+      "pcfCashHoldings": null,
+      "pcfFutureHoldings": null
+    },
+    "dailyHoldings": null,
+    "dailyHoldingsAll": null,
+    "underlyingHoldings": null,
+    "underlyingFundStatistics": null,
+    "proxyHoldings": null,
+    "proxyHoldingsAll": null,
+    "dailyHoldingsWeekly": null,
+    "creditLongShort": null,
+    "creditLongShortWithChange": null,
+    "portfolioAllocationMMAF": null,
+    "portfolioStats": null,
+    "propertyBreakdown": null,
+    "riskAnalysis": null,
+    "accessPortfolioAllocation": null,
+    "bondQualityBreakdown": null,
+    "bondQualityCbBreakdown": null,
+    "assetExposure": null,
+    "equitySector": null,
+    "bondType": null,
+    "regionalAssetExposure": null,
+    "regionalBreakdownDuration": null,
+    "mergerArbitrageMetrics": null,
+    "mergerArbitrageDealType": null,
+    "keyCharacteristics": null,
+    "etfFairValuation": null,
+    "liquidityDailyPercentage": null,
+    "liquidityWeeklyPercentage": null,
+    "liquidityValDate": null,
+    "marketNav": null,
+    "designedTo": null,
+    "isLiquidatedOrMergedAway": false,
+    "disclosures": {
+      "pdpSummaryERD": [
+        "The Fund invests primarily in companies, globally.\nThe Fund is therefore exposed to risks related to equity, emerging markets, currency, derivative and hedging.\nInvestors may be subject to substantial losses.\nInvestors should not solely rely on this document to make any investment decision."
+      ],
+      "pdpCardFundDistribution": [
+        "The AUD/CAD/EUR/GBP/NZD/RMB/SGD Hedged Classes are not recommended for investors whose base currency of investment is not in the aforesaid currencies. Source: J.P. Morgan Asset Management. <b>For funds offering classes with a distribution feature, such classes aim at monthly, quarterly, semi-annual or annual distribution as the case may be. Dividend rate is not guaranteed. Distributions may be paid from capital. Investment involves risk. Past performance is not indicative of future performance. Please refer to the offering document(s) for details, including the risk factors. </b>This document has not been reviewed by the SFC. Issued by JPMorgan Funds (Asia) Limited."
+      ],
+      "pdpCardCompositionFundDistribution": [
+        "1) “Net distributable income” means the net investment income (i.e. dividend income and interest income net of fees and expenses) attributable to the relevant unit/share class and include also net realized gains (if any) based on unaudited management accounts. However, “net distributable income” does not include net unrealized gains. “Net distributable income” which is not declared and paid as distributions in a period of a financial year is carried forward as “net distributable income” for the next period(s) within the same financial year. “Net distributable income” that has been accrued as at the end of a financial year and is declared and paid as dividends at the next distribution date immediately after that financial year end is treated as “net distributable income” in respect of that financial year. However, “net distributable income” accrued as at the end of a financial year and not declared and paid as distributions at the next distribution date immediately after that financial year-end is included as “capital” for the next financial year.<br/>2)  For funds offering classes with a distribution feature, such classes aim at monthly, quarterly, semi-annual or annual distribution as the case may be. Dividend rate is not guaranteed. Distributions may be paid from capital. Payment of dividends out of capital amounts to a return or withdrawal of part of an investor’s original investment or from any capital gains attributable to that original investment. Any distributions involving payment of dividends out of the funds’/share classes’ capital may result in an immediate reduction of the net asset value per unit/share. Please note that a positive distribution yield does not imply a positive return. Investors should not make any investment decision solely based on information contained in the table above. You should read the relevant offering document (including the key facts statement) of the funds for further details including the risk factors. Investment involves risk. Past performance is not indicative of future performance. This document has not been reviewed by the SFC. <br/>Source: J.P. Morgan Asset Management.  Issued by JPMorgan Funds (Asia) Limited."
+      ],
+      "pdpCardFundDistributionFrequency": [
+        ""
+      ]
+    },
+    "helpText": {
+      "pdpSummaryQuotedPrice": [
+        "The single price at which all client orders are executed."
+      ],
+      "pdpDataPointQuotedPrice": [
+        "The single price at which all client orders are executed."
+      ],
+      "pdpSummaryMorningstarAnalyst": [
+        "Morningstar’s forward looking fund rating."
+      ],
+      "pdpSummaryFECrown": [
+        "Quantitative ratings ranging from one to five designed to help investors identify funds which have displayed superior performance in terms of stock picking, consistency and risk control.",
+        "FE Crown Fund Ratings are however purely quantitative and backward looking, and, as such, cannot offer any certainty about the future."
+      ],
+      "pdpSummaryRaynerSpencerMills": [
+        "Uses both a qualitative and quantitative assessment of the funds.  The fund is simply rated or not."
+      ],
+      "pdpSummarySquareMileResearch": [
+        "A Square Mile Fund Rating denotes a fund that is truly “best in class”. Put simply, a Square Mile Fund Rating is only given to a fund that they are prepared to recommend to clients.  Fund managers do not pay for the ratings; they cannot be purchased and are only achieved by the “best-in-class” funds.",
+        "The funds Square Mile recommend are each assigned a rating – A, AA, AAA or R – reflecting Square Mile’s conviction in each fund’s ability to deliver on expectations. These simple ratings are the result of exhaustive and detailed qualitative research, backed up by quantitative analysis. “AAA” represents the very highest level of conviction in a fund and its manager, and is a practical demonstration of their belief in the long-term consistent delivery of the fund’s objectives.",
+        "Square Mile’s team of investment research analysts also works to identify newer or untested funds or managers that have real potential to deliver their stated objectives. In these circumstances, Square Mile are not in a position to award a full fund rating, and therefore these funds are assigned a “Positive Prospects” rating. Over time, if these managers deliver to Square Mile’s expectations and achieve their expected outcome, Square Mile would expect them to progress to A, AA, AAA or R ratings."
+      ],
+      "pdpSummaryAdviserCentre": [
+        "They have three key ratings: Established; Positive Watch; Recommended."
+      ],
+      "pdpSummaryDTRisk": [
+        "DT risk-profile ratings range from 1 to 10, with 1 being the least volatile fund and 10 the most."
+      ],
+      "pdpSummaryDiscountPremium": [
+        "If the share price of an investment company is lower than the net asset value (NAV) per share, the company is said to be trading at a discount. If the share price of an investment company is higher than the net asset value (NAV) per share, the company is said to be trading at a premium. The discount/premium is shown as a percentage of the NAV."
+      ],
+      "pdpDataPointDiscountPremium": [
+        "If the share price of an investment company is lower than the net asset value (NAV) per share, the company is said to be trading at a discount. If the share price of an investment company is higher than the net asset value (NAV) per share, the company is said to be trading at a premium. The discount/premium is shown as a percentage of the NAV."
+      ],
+      "pdpCardResearch": [
+        "This Investment Trust has been reviewed by a third party agency. Contents of the external links have been prepared by third parties and do not necessarily represent the views of J.P. Morgan Asset Management. These third parties may receive a fee by the Board of Directors of this Investment Trust. J.P. Morgan Asset Management does not endorse or attest to completeness and accuracy of these contents. Reliance upon these contents is at the sole discretion of the reader."
+      ],
+      "pdpLegalDocCardDisclosureFr": [
+        "La langue officielle du Prospectus est l'anglais, une traduction en français étant également disponible. Le document traduit pouvant être disponible avec un décalage, nous vous remercions de vous assurer de toujours consulter la dernière version officielle disponible."
+      ],
+      "pdpLegalDocCardDisclosureEn": [
+        "The official language of the Prospectus is English, with a translation in French also available. This could be subject to a translation delay so please ensure to always use the latest available official version."
+      ],
+      "pdpLegalDocCardDisclosureDe": [
+        "Die offizielle Sprache des Prospekts ist Englisch – eine Übersetzung ins Deutsche ist ebenfalls erhältlich. Die Übersetzung ist eventuell etwas zeitverzögert verfügbar. Bitte stellen Sie daher sicher, dass Sie immer die aktuellste verfügbare offizielle Version verwenden."
+      ]
+    },
+    "isFeaturedFund": true,
+    "portfolioHoldings": null,
+    "benchmarks": [],
+    "benchmarkNames": [
+      "MSCI World Index (Total Return Net)"
+    ],
+    "benchmarkDate": "1981-04-30",
+    "benchmarkTickerCodes": [
+      "NDDUWI"
+    ],
+    "benchmarkLongName": "MSCI World Index (Total Return Net)",
+    "reBenchmarkDate": "1981-04-30",
+    "benchmarkRestructuringDate": null,
+    "isBenchmarkAvailable": true,
+    "benchmarkIdentifier": "F701ACCAC6ACD4DBE053455974A9AAFF",
+    "isGlobalLiquidity": false,
+    "isFundMoreThanAYearOld": true,
+    "isShareclassMoreThanSixMonthsOld": true,
+    "emeaCurrencyExposure": null,
+    "marketExposure": null,
+    "portfolioCharacteristics": null,
+    "equityLongShortOpenPositions": null,
+    "equityLongShortMarketCap": null,
+    "emeaRegionalBreakdown": null,
+    "regionalBreakdownEquityAndFixedIncome": null,
+    "emeaCurrencyBreakdown": null,
+    "currencyHedgePortfolio": null,
+    "emeaFundHoldings": {
+      "effectiveDate": "2025-05-31",
+      "data": [
+        {
+          "marketValue": null,
+          "marketValueBase": null,
+          "netAssetValuePercent": null,
+          "securityDescription": "Microsoft",
+          "securityId": null,
+          "securityTicker": null,
+          "securityType": null,
+          "assetType": null,
+          "securityIsin": null,
+          "securityCusip": null,
+          "securitySedol": null,
+          "securityPrice": null,
+          "shares": null,
+          "marketValuePercent": 7.2,
+          "wamMaturityDate": null,
+          "finalLegalMaturityDate": null,
+          "securityYield": null,
+          "liquidationFaceValue": null,
+          "navDate": null,
+          "liquidationRateType": null,
+          "issuer": null,
+          "snpRating": null,
+          "moodysRating": null,
+          "fitchRating": null,
+          "country": null,
+          "sponsor": null,
+          "unrealizedGainLossBaseCcy": null,
+          "notionalReceiveValue": null,
+          "receiveCurrency": null,
+          "method": null,
+          "currencyCode": null,
+          "sector": "Technology - Software",
+          "industry": null,
+          "couponRate": null,
+          "effectiveDate": null,
+          "contractSize": null,
+          "strikePrice": null,
+          "sortNumber": 1,
+          "internalCreditRating": null,
+          "displayValueMap": null,
+          "tradingCcy": null,
+          "estimatedCashComponent": null,
+          "marketValueofBasket": null,
+          "cashinLieuFlag": null,
+          "fundHoldingElnData": null
+        },
+        {
+          "marketValue": null,
+          "marketValueBase": null,
+          "netAssetValuePercent": null,
+          "securityDescription": "Amazon.Com",
+          "securityId": null,
+          "securityTicker": null,
+          "securityType": null,
+          "assetType": null,
+          "securityIsin": null,
+          "securityCusip": null,
+          "securitySedol": null,
+          "securityPrice": null,
+          "shares": null,
+          "marketValuePercent": 5.7,
+          "wamMaturityDate": null,
+          "finalLegalMaturityDate": null,
+          "securityYield": null,
+          "liquidationFaceValue": null,
+          "navDate": null,
+          "liquidationRateType": null,
+          "issuer": null,
+          "snpRating": null,
+          "moodysRating": null,
+          "fitchRating": null,
+          "country": null,
+          "sponsor": null,
+          "unrealizedGainLossBaseCcy": null,
+          "notionalReceiveValue": null,
+          "receiveCurrency": null,
+          "method": null,
+          "currencyCode": null,
+          "sector": "Media",
+          "industry": null,
+          "couponRate": null,
+          "effectiveDate": null,
+          "contractSize": null,
+          "strikePrice": null,
+          "sortNumber": 2,
+          "internalCreditRating": null,
+          "displayValueMap": null,
+          "tradingCcy": null,
+          "estimatedCashComponent": null,
+          "marketValueofBasket": null,
+          "cashinLieuFlag": null,
+          "fundHoldingElnData": null
+        },
+        {
+          "marketValue": null,
+          "marketValueBase": null,
+          "netAssetValuePercent": null,
+          "securityDescription": "Nvidia",
+          "securityId": null,
+          "securityTicker": null,
+          "securityType": null,
+          "assetType": null,
+          "securityIsin": null,
+          "securityCusip": null,
+          "securitySedol": null,
+          "securityPrice": null,
+          "shares": null,
+          "marketValuePercent": 5.2,
+          "wamMaturityDate": null,
+          "finalLegalMaturityDate": null,
+          "securityYield": null,
+          "liquidationFaceValue": null,
+          "navDate": null,
+          "liquidationRateType": null,
+          "issuer": null,
+          "snpRating": null,
+          "moodysRating": null,
+          "fitchRating": null,
+          "country": null,
+          "sponsor": null,
+          "unrealizedGainLossBaseCcy": null,
+          "notionalReceiveValue": null,
+          "receiveCurrency": null,
+          "method": null,
+          "currencyCode": null,
+          "sector": "Technology - Semi & Hardware",
+          "industry": null,
+          "couponRate": null,
+          "effectiveDate": null,
+          "contractSize": null,
+          "strikePrice": null,
+          "sortNumber": 3,
+          "internalCreditRating": null,
+          "displayValueMap": null,
+          "tradingCcy": null,
+          "estimatedCashComponent": null,
+          "marketValueofBasket": null,
+          "cashinLieuFlag": null,
+          "fundHoldingElnData": null
+        },
+        {
+          "marketValue": null,
+          "marketValueBase": null,
+          "netAssetValuePercent": null,
+          "securityDescription": "Meta Platforms",
+          "securityId": null,
+          "securityTicker": null,
+          "securityType": null,
+          "assetType": null,
+          "securityIsin": null,
+          "securityCusip": null,
+          "securitySedol": null,
+          "securityPrice": null,
+          "shares": null,
+          "marketValuePercent": 5.0,
+          "wamMaturityDate": null,
+          "finalLegalMaturityDate": null,
+          "securityYield": null,
+          "liquidationFaceValue": null,
+          "navDate": null,
+          "liquidationRateType": null,
+          "issuer": null,
+          "snpRating": null,
+          "moodysRating": null,
+          "fitchRating": null,
+          "country": null,
+          "sponsor": null,
+          "unrealizedGainLossBaseCcy": null,
+          "notionalReceiveValue": null,
+          "receiveCurrency": null,
+          "method": null,
+          "currencyCode": null,
+          "sector": "Media",
+          "industry": null,
+          "couponRate": null,
+          "effectiveDate": null,
+          "contractSize": null,
+          "strikePrice": null,
+          "sortNumber": 4,
+          "internalCreditRating": null,
+          "displayValueMap": null,
+          "tradingCcy": null,
+          "estimatedCashComponent": null,
+          "marketValueofBasket": null,
+          "cashinLieuFlag": null,
+          "fundHoldingElnData": null
+        },
+        {
+          "marketValue": null,
+          "marketValueBase": null,
+          "netAssetValuePercent": null,
+          "securityDescription": "TSMC",
+          "securityId": null,
+          "securityTicker": null,
+          "securityType": null,
+          "assetType": null,
+          "securityIsin": null,
+          "securityCusip": null,
+          "securitySedol": null,
+          "securityPrice": null,
+          "shares": null,
+          "marketValuePercent": 2.8,
+          "wamMaturityDate": null,
+          "finalLegalMaturityDate": null,
+          "securityYield": null,
+          "liquidationFaceValue": null,
+          "navDate": null,
+          "liquidationRateType": null,
+          "issuer": null,
+          "snpRating": null,
+          "moodysRating": null,
+          "fitchRating": null,
+          "country": null,
+          "sponsor": null,
+          "unrealizedGainLossBaseCcy": null,
+          "notionalReceiveValue": null,
+          "receiveCurrency": null,
+          "method": null,
+          "currencyCode": null,
+          "sector": "Technology - Semi & Hardware",
+          "industry": null,
+          "couponRate": null,
+          "effectiveDate": null,
+          "contractSize": null,
+          "strikePrice": null,
+          "sortNumber": 5,
+          "internalCreditRating": null,
+          "displayValueMap": null,
+          "tradingCcy": null,
+          "estimatedCashComponent": null,
+          "marketValueofBasket": null,
+          "cashinLieuFlag": null,
+          "fundHoldingElnData": null
+        },
+        {
+          "marketValue": null,
+          "marketValueBase": null,
+          "netAssetValuePercent": null,
+          "securityDescription": "Apple",
+          "securityId": null,
+          "securityTicker": null,
+          "securityType": null,
+          "assetType": null,
+          "securityIsin": null,
+          "securityCusip": null,
+          "securitySedol": null,
+          "securityPrice": null,
+          "shares": null,
+          "marketValuePercent": 2.5,
+          "wamMaturityDate": null,
+          "finalLegalMaturityDate": null,
+          "securityYield": null,
+          "liquidationFaceValue": null,
+          "navDate": null,
+          "liquidationRateType": null,
+          "issuer": null,
+          "snpRating": null,
+          "moodysRating": null,
+          "fitchRating": null,
+          "country": null,
+          "sponsor": null,
+          "unrealizedGainLossBaseCcy": null,
+          "notionalReceiveValue": null,
+          "receiveCurrency": null,
+          "method": null,
+          "currencyCode": null,
+          "sector": "Technology - Semi & Hardware",
+          "industry": null,
+          "couponRate": null,
+          "effectiveDate": null,
+          "contractSize": null,
+          "strikePrice": null,
+          "sortNumber": 6,
+          "internalCreditRating": null,
+          "displayValueMap": null,
+          "tradingCcy": null,
+          "estimatedCashComponent": null,
+          "marketValueofBasket": null,
+          "cashinLieuFlag": null,
+          "fundHoldingElnData": null
+        },
+        {
+          "marketValue": null,
+          "marketValueBase": null,
+          "netAssetValuePercent": null,
+          "securityDescription": "Johnson & Johnson",
+          "securityId": null,
+          "securityTicker": null,
+          "securityType": null,
+          "assetType": null,
+          "securityIsin": null,
+          "securityCusip": null,
+          "securitySedol": null,
+          "securityPrice": null,
+          "shares": null,
+          "marketValuePercent": 2.4,
+          "wamMaturityDate": null,
+          "finalLegalMaturityDate": null,
+          "securityYield": null,
+          "liquidationFaceValue": null,
+          "navDate": null,
+          "liquidationRateType": null,
+          "issuer": null,
+          "snpRating": null,
+          "moodysRating": null,
+          "fitchRating": null,
+          "country": null,
+          "sponsor": null,
+          "unrealizedGainLossBaseCcy": null,
+          "notionalReceiveValue": null,
+          "receiveCurrency": null,
+          "method": null,
+          "currencyCode": null,
+          "sector": "Pharm/Medtech",
+          "industry": null,
+          "couponRate": null,
+          "effectiveDate": null,
+          "contractSize": null,
+          "strikePrice": null,
+          "sortNumber": 7,
+          "internalCreditRating": null,
+          "displayValueMap": null,
+          "tradingCcy": null,
+          "estimatedCashComponent": null,
+          "marketValueofBasket": null,
+          "cashinLieuFlag": null,
+          "fundHoldingElnData": null
+        },
+        {
+          "marketValue": null,
+          "marketValueBase": null,
+          "netAssetValuePercent": null,
+          "securityDescription": "The Southern Company",
+          "securityId": null,
+          "securityTicker": null,
+          "securityType": null,
+          "assetType": null,
+          "securityIsin": null,
+          "securityCusip": null,
+          "securitySedol": null,
+          "securityPrice": null,
+          "shares": null,
+          "marketValuePercent": 2.1,
+          "wamMaturityDate": null,
+          "finalLegalMaturityDate": null,
+          "securityYield": null,
+          "liquidationFaceValue": null,
+          "navDate": null,
+          "liquidationRateType": null,
+          "issuer": null,
+          "snpRating": null,
+          "moodysRating": null,
+          "fitchRating": null,
+          "country": null,
+          "sponsor": null,
+          "unrealizedGainLossBaseCcy": null,
+          "notionalReceiveValue": null,
+          "receiveCurrency": null,
+          "method": null,
+          "currencyCode": null,
+          "sector": "Utilities",
+          "industry": null,
+          "couponRate": null,
+          "effectiveDate": null,
+          "contractSize": null,
+          "strikePrice": null,
+          "sortNumber": 8,
+          "internalCreditRating": null,
+          "displayValueMap": null,
+          "tradingCcy": null,
+          "estimatedCashComponent": null,
+          "marketValueofBasket": null,
+          "cashinLieuFlag": null,
+          "fundHoldingElnData": null
+        },
+        {
+          "marketValue": null,
+          "marketValueBase": null,
+          "netAssetValuePercent": null,
+          "securityDescription": "Walt Disney",
+          "securityId": null,
+          "securityTicker": null,
+          "securityType": null,
+          "assetType": null,
+          "securityIsin": null,
+          "securityCusip": null,
+          "securitySedol": null,
+          "securityPrice": null,
+          "shares": null,
+          "marketValuePercent": 1.9,
+          "wamMaturityDate": null,
+          "finalLegalMaturityDate": null,
+          "securityYield": null,
+          "liquidationFaceValue": null,
+          "navDate": null,
+          "liquidationRateType": null,
+          "issuer": null,
+          "snpRating": null,
+          "moodysRating": null,
+          "fitchRating": null,
+          "country": null,
+          "sponsor": null,
+          "unrealizedGainLossBaseCcy": null,
+          "notionalReceiveValue": null,
+          "receiveCurrency": null,
+          "method": null,
+          "currencyCode": null,
+          "sector": "Media",
+          "industry": null,
+          "couponRate": null,
+          "effectiveDate": null,
+          "contractSize": null,
+          "strikePrice": null,
+          "sortNumber": 9,
+          "internalCreditRating": null,
+          "displayValueMap": null,
+          "tradingCcy": null,
+          "estimatedCashComponent": null,
+          "marketValueofBasket": null,
+          "cashinLieuFlag": null,
+          "fundHoldingElnData": null
+        },
+        {
+          "marketValue": null,
+          "marketValueBase": null,
+          "netAssetValuePercent": null,
+          "securityDescription": "Exxon Mobil",
+          "securityId": null,
+          "securityTicker": null,
+          "securityType": null,
+          "assetType": null,
+          "securityIsin": null,
+          "securityCusip": null,
+          "securitySedol": null,
+          "securityPrice": null,
+          "shares": null,
+          "marketValuePercent": 1.8,
+          "wamMaturityDate": null,
+          "finalLegalMaturityDate": null,
+          "securityYield": null,
+          "liquidationFaceValue": null,
+          "navDate": null,
+          "liquidationRateType": null,
+          "issuer": null,
+          "snpRating": null,
+          "moodysRating": null,
+          "fitchRating": null,
+          "country": null,
+          "sponsor": null,
+          "unrealizedGainLossBaseCcy": null,
+          "notionalReceiveValue": null,
+          "receiveCurrency": null,
+          "method": null,
+          "currencyCode": null,
+          "sector": "Energy",
+          "industry": null,
+          "couponRate": null,
+          "effectiveDate": null,
+          "contractSize": null,
+          "strikePrice": null,
+          "sortNumber": 10,
+          "internalCreditRating": null,
+          "displayValueMap": null,
+          "tradingCcy": null,
+          "estimatedCashComponent": null,
+          "marketValueofBasket": null,
+          "cashinLieuFlag": null,
+          "fundHoldingElnData": null
+        }
+      ],
+      "visibleFields": [
+        "NAME",
+        "SECTOR",
+        "HOLD_PERC"
+      ],
+      "visibleFieldDataTypes": null
+    },
+    "globalMacro": null,
+    "currentPositioning": {
+      "effectiveDate": null,
+      "headers": null,
+      "data": [],
+      "flag": null,
+      "tabularDataMap": null
+    },
+    "regionalRiskBreakdown": null,
+    "assetClassRiskBreakdown": null,
+    "themeRiskBreakdown": null,
+    "portfolioAnalysis": null,
+    "sectorBreakdown": null,
+    "sectorBreakdownFundIndex": null,
+    "sectorBreakdownMMKT": null,
+    "sectorBreakdownByFixedIncome": null,
+    "sectorBreakdownAggregate": null,
+    "portfolioAnalysisBySector": {
+      "effectiveDate": "2025-05-31",
+      "headers": null,
+      "data": [
+        {
+          "name": "Technology - Semi & Hardware",
+          "value": 15.6,
+          "displayValue": "15.6",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 1,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Media",
+          "value": 14.0,
+          "displayValue": "14.0",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 2,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Industrial Cyclicals",
+          "value": 9.9,
+          "displayValue": "9.9",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 3,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Technology - Software",
+          "value": 9.3,
+          "displayValue": "9.3",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 4,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Retail",
+          "value": 8.2,
+          "displayValue": "8.2",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 5,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Banks",
+          "value": 7.9,
+          "displayValue": "7.9",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 6,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Pharm/Medtech",
+          "value": 7.5,
+          "displayValue": "7.5",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 7,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Financial Services",
+          "value": 6.6,
+          "displayValue": "6.6",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 8,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Automobiles & Auto Parts",
+          "value": 4.0,
+          "displayValue": "4.0",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 9,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Utilities",
+          "value": 3.9,
+          "displayValue": "3.9",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 10,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Energy",
+          "value": 3.2,
+          "displayValue": "3.2",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 11,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Insurance",
+          "value": 3.1,
+          "displayValue": "3.1",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 12,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Consumer Staples",
+          "value": 2.2,
+          "displayValue": "2.2",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 13,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Consumer Cyclical & Services",
+          "value": 1.6,
+          "displayValue": "1.6",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 14,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Basic Industries",
+          "value": 0.7,
+          "displayValue": "0.7",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 15,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Health Services & Systems",
+          "value": 0.7,
+          "displayValue": "0.7",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 16,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Property",
+          "value": 0.3,
+          "displayValue": "0.3",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 17,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Telecommunications",
+          "value": 0.0,
+          "displayValue": "0.0",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 18,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Transportation",
+          "value": 0.0,
+          "displayValue": "0.0",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 19,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Cash",
+          "value": 1.3,
+          "displayValue": "1.3",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 20,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        }
+      ],
+      "flag": null,
+      "tabularDataMap": null
+    },
+    "portfolioAnalysisByEquityRegions": null,
+    "portfolioAnalysisByEquitySector": null,
+    "portfolioAnalysisByEquitySectorCIFM": null,
+    "portfolioStatisticalAnalysis": {
+      "effectiveDate": "2025-05-30",
+      "headers": null,
+      "data": [
+        {
+          "name": "pdp-portfolio-statistical-analysis-label-correlation",
+          "value": null,
+          "displayValue": "0.96",
+          "secondaryValue": null,
+          "displaySecondaryValue": "0.96",
+          "tertiaryValue": null,
+          "displayTertiaryValue": "-",
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "RAW",
+          "sortNumber": null,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": "pdp-portfolio-statistical-analysis-label-correlation",
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "pdp-portfolio-statistical-analysis-label-alpha",
+          "value": null,
+          "displayValue": "-0.59",
+          "secondaryValue": null,
+          "displaySecondaryValue": "0.57",
+          "tertiaryValue": null,
+          "displayTertiaryValue": "-",
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "RAW",
+          "sortNumber": null,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": "pdp-portfolio-statistical-analysis-label-alpha",
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "pdp-portfolio-statistical-analysis-label-beta",
+          "value": null,
+          "displayValue": "0.95",
+          "secondaryValue": null,
+          "displaySecondaryValue": "0.98",
+          "tertiaryValue": null,
+          "displayTertiaryValue": "-",
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "RAW",
+          "sortNumber": null,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": "pdp-portfolio-statistical-analysis-label-beta",
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "pdp-portfolio-statistical-analysis-label-annual-volatility",
+          "value": null,
+          "displayValue": "15.90",
+          "secondaryValue": null,
+          "displaySecondaryValue": "16.18",
+          "tertiaryValue": null,
+          "displayTertiaryValue": "-",
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "RAW",
+          "sortNumber": null,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": "pdp-portfolio-statistical-analysis-label-annual-volatility",
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "pdp-portfolio-statistical-analysis-label-sharpe-ratio",
+          "value": null,
+          "displayValue": "0.42",
+          "secondaryValue": null,
+          "displaySecondaryValue": "0.70",
+          "tertiaryValue": null,
+          "displayTertiaryValue": "-",
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "RAW",
+          "sortNumber": null,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": "pdp-portfolio-statistical-analysis-label-sharpe-ratio",
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "pdp-portfolio-statistical-analysis-label-annual-tracking-error",
+          "value": null,
+          "displayValue": "4.55",
+          "secondaryValue": null,
+          "displaySecondaryValue": "4.50",
+          "tertiaryValue": null,
+          "displayTertiaryValue": "-",
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "RAW",
+          "sortNumber": null,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": "pdp-portfolio-statistical-analysis-label-annual-tracking-error",
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "pdp-portfolio-statistical-analysis-label-average-annual-return",
+          "value": null,
+          "displayValue": "11.75",
+          "secondaryValue": null,
+          "displaySecondaryValue": "14.47",
+          "tertiaryValue": null,
+          "displayTertiaryValue": "8.94",
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "RAW",
+          "sortNumber": null,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": "pdp-portfolio-statistical-analysis-label-average-annual-return",
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        }
+      ],
+      "flag": null,
+      "tabularDataMap": null
+    },
+    "portfolioAnalysisByCurrency": null,
+    "portfolioAnalysisByCountry": {
+      "effectiveDate": "2025-05-31",
+      "headers": null,
+      "data": [
+        {
+          "name": "United States",
+          "value": 70.3,
+          "displayValue": "70.3",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 1,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Europe & Middle East Ex Uk",
+          "value": 15.6,
+          "displayValue": "15.6",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 2,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Emerging Markets",
+          "value": 5.2,
+          "displayValue": "5.2",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 3,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Japan",
+          "value": 5.0,
+          "displayValue": "5.0",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 4,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Pacific Ex Japan",
+          "value": 2.3,
+          "displayValue": "2.3",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 5,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "United Kingdom",
+          "value": 0.3,
+          "displayValue": "0.3",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 6,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Canada",
+          "value": 0.0,
+          "displayValue": "0.0",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 7,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        },
+        {
+          "name": "Cash",
+          "value": 1.3,
+          "displayValue": "1.3",
+          "secondaryValue": null,
+          "displaySecondaryValue": null,
+          "tertiaryValue": null,
+          "displayTertiaryValue": null,
+          "quarternaryValue": null,
+          "displayQuarternaryValue": null,
+          "dataType": "PERCENTAGE",
+          "sortNumber": 8,
+          "group": null,
+          "asOfDate": null,
+          "disclosureId": null,
+          "style": null,
+          "translationKey": null,
+          "instrumentNmValueMap": null,
+          "primaryValueMap": null,
+          "secondaryValueMap": null
+        }
+      ],
+      "flag": null,
+      "tabularDataMap": null
+    },
+    "portfolioAnalysisByFixedIncomeRegions": null,
+    "portfolioAnalysisByFixedIncomeSector": null,
+    "portfolioAnalysisByDenominatedCurrency": null,
+    "portfolioAnalysisNetLiquidity": null,
+    "portfolioAnalysisByConvertibleBonds": null,
+    "multiPortfolioAnalysis": null,
+    "companyTypeExposure": null,
+    "riskMeasures": null,
+    "emeaMarketExposure": null,
+    "investmentStrategyBreakdown": null,
+    "strategyBreakdown": null,
+    "domicile": "Luxembourg",
+    "legalStructureCode": "SICAV",
+    "interimResultsAnnouncedPeriod": null,
+    "finalResultsAnnouncedPeriod": null,
+    "annualGeneralMeetingPeriod": null,
+    "fiscalYearEnd": "31 December",
+    "dividendsPayable": null,
+    "salesCharges": null,
+    "fundValuationFrequency": "Daily",
+    "cutOffTime": null,
+    "cutOffTimeZone": null,
+    "trustee": null,
+    "fundAwards": [
+      "AsianInvestor Asset Management Awards <br />2025 - Asia Fund House of the Year – International"
+    ],
+    "bondYTM": null,
+    "bondYTW": null,
+    "fundShareclassPrice": null,
+    "fundCompany": {
+      "domicileCountryCode": "LU",
+      "legalStructureCode": "SICAV",
+      "name": "JPMorgan Investment Funds",
+      "statusCode": "OPEN",
+      "issuerName": "JPMorgan Asset Management (Europe) S.à.r.l",
+      "fundCompanyRegistration": [
+        {
+          "registrationCountryCode": "AE",
+          "country": {
+            "code": "AE",
+            "name": "United Arab Emirates"
+          }
+        },
+        {
+          "registrationCountryCode": "AN",
+          "country": {
+            "code": "AN",
+            "name": "Curacao and Sint Maarten"
+          }
+        },
+        {
+          "registrationCountryCode": "AQ",
+          "country": {
+            "code": "AQ",
+            "name": "Singapore Form 5"
+          }
+        },
+        {
+          "registrationCountryCode": "AT",
+          "country": {
+            "code": "AT",
+            "name": "Austria"
+          }
+        },
+        {
+          "registrationCountryCode": "BE",
+          "country": {
+            "code": "BE",
+            "name": "Belgium"
+          }
+        },
+        {
+          "registrationCountryCode": "BH",
+          "country": {
+            "code": "BH",
+            "name": "Bahrain"
+          }
+        },
+        {
+          "registrationCountryCode": "CH",
+          "country": {
+            "code": "CH",
+            "name": "Switzerland"
+          }
+        },
+        {
+          "registrationCountryCode": "CL",
+          "country": {
+            "code": "CL",
+            "name": "Chile"
+          }
+        },
+        {
+          "registrationCountryCode": "CY",
+          "country": {
+            "code": "CY",
+            "name": "Cyprus"
+          }
+        },
+        {
+          "registrationCountryCode": "CZ",
+          "country": {
+            "code": "CZ",
+            "name": "Czech Republic"
+          }
+        },
+        {
+          "registrationCountryCode": "DE",
+          "country": {
+            "code": "DE",
+            "name": "Germany"
+          }
+        },
+        {
+          "registrationCountryCode": "DK",
+          "country": {
+            "code": "DK",
+            "name": "Denmark"
+          }
+        },
+        {
+          "registrationCountryCode": "EE",
+          "country": {
+            "code": "EE",
+            "name": "Estonia"
+          }
+        },
+        {
+          "registrationCountryCode": "ES",
+          "country": {
+            "code": "ES",
+            "name": "Spain"
+          }
+        },
+        {
+          "registrationCountryCode": "FI",
+          "country": {
+            "code": "FI",
+            "name": "Finland"
+          }
+        },
+        {
+          "registrationCountryCode": "FR",
+          "country": {
+            "code": "FR",
+            "name": "France"
+          }
+        },
+        {
+          "registrationCountryCode": "GB",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        },
+        {
+          "registrationCountryCode": "GR",
+          "country": {
+            "code": "GR",
+            "name": "Greece"
+          }
+        },
+        {
+          "registrationCountryCode": "HK",
+          "country": {
+            "code": "HK",
+            "name": "Hong Kong"
+          }
+        },
+        {
+          "registrationCountryCode": "HR",
+          "country": {
+            "code": "HR",
+            "name": "Croatia"
+          }
+        },
+        {
+          "registrationCountryCode": "HU",
+          "country": {
+            "code": "HU",
+            "name": "Hungary"
+          }
+        },
+        {
+          "registrationCountryCode": "IE",
+          "country": {
+            "code": "IE",
+            "name": "Ireland"
+          }
+        },
+        {
+          "registrationCountryCode": "IS",
+          "country": {
+            "code": "IS",
+            "name": "Iceland"
+          }
+        },
+        {
+          "registrationCountryCode": "IT",
+          "country": {
+            "code": "IT",
+            "name": "Italy"
+          }
+        },
+        {
+          "registrationCountryCode": "JE",
+          "country": {
+            "code": "JE",
+            "name": "Jersey"
+          }
+        },
+        {
+          "registrationCountryCode": "JP",
+          "country": {
+            "code": "JP",
+            "name": "Japan"
+          }
+        },
+        {
+          "registrationCountryCode": "KR",
+          "country": {
+            "code": "KR",
+            "name": "Korea"
+          }
+        },
+        {
+          "registrationCountryCode": "LI",
+          "country": {
+            "code": "LI",
+            "name": "Liechtenstein"
+          }
+        },
+        {
+          "registrationCountryCode": "LU",
+          "country": {
+            "code": "LU",
+            "name": "Luxembourg"
+          }
+        },
+        {
+          "registrationCountryCode": "MO",
+          "country": {
+            "code": "MO",
+            "name": "Macau"
+          }
+        },
+        {
+          "registrationCountryCode": "NL",
+          "country": {
+            "code": "NL",
+            "name": "Netherlands"
+          }
+        },
+        {
+          "registrationCountryCode": "NO",
+          "country": {
+            "code": "NO",
+            "name": "Norway"
+          }
+        },
+        {
+          "registrationCountryCode": "PL",
+          "country": {
+            "code": "PL",
+            "name": "Poland"
+          }
+        },
+        {
+          "registrationCountryCode": "PT",
+          "country": {
+            "code": "PT",
+            "name": "Portugal"
+          }
+        },
+        {
+          "registrationCountryCode": "SE",
+          "country": {
+            "code": "SE",
+            "name": "Sweden"
+          }
+        },
+        {
+          "registrationCountryCode": "SG",
+          "country": {
+            "code": "SG",
+            "name": "Singapore"
+          }
+        },
+        {
+          "registrationCountryCode": "SK",
+          "country": {
+            "code": "SK",
+            "name": "Slovakia"
+          }
+        },
+        {
+          "registrationCountryCode": "TW",
+          "country": {
+            "code": "TW",
+            "name": "Taiwan"
+          }
+        },
+        {
+          "registrationCountryCode": "XC",
+          "country": {
+            "code": "XC",
+            "name": "Chile (Public Offering)"
+          }
+        }
+      ],
+      "country": {
+        "code": "LU",
+        "name": "Luxembourg"
+      }
+    },
+    "emeaFundClassificationCode": "CLS_EQUITY",
+    "emeaFundClassificationName": "Equity Fund",
+    "fundRebalancingFrequencyName": null,
+    "replicationMethodTypeName": null,
+    "fundAwardTranslation": null,
+    "valueAtRiskBreakdown": null,
+    "isShareClassMoreThanAnYearOld": true,
+    "shareClassLaunchDate": "1981-04-30",
+    "isShareclassDateSameAsFundLaunchDate": false,
+    "weeklyMaturityBreakdown": null,
+    "valuationTimezoneName": null,
+    "cmsShare": "232",
+    "summaryPortfolioStats": null,
+    "numberFormat": null,
+    "minStartDate": "2002-12-31",
+    "compareFundLink": null,
+    "formNMFPLink": null,
+    "kiidUrl": "https://wl.fundsquare.net/serv/down-doc/request?cdClient=jpmorgan&isin=LU0070217475&docTypeCode=KIDD&docLang=EN&docCountry=HK",
+    "factsheetUrl": null,
+    "webDisplay": "WD_ALLFACTS",
+    "fundPerformanceRatings": null,
+    "companyBrokerNames": null,
+    "totalAnnualDividend": null,
+    "potentialGearingRange": null,
+    "premiumDiscountPercentage": null,
+    "currentSharePrice": null,
+    "currentSharePriceDate": null,
+    "howToBuyLink": "https://am.jpmorgan.com/gb/en/asset-management/gim/per/how-to-buy",
+    "howToInvestLink": null,
+    "boardOfDirectors": [],
+    "riskSecuritiesString": "<p>Equities</p>",
+    "isDisplayAumInUsd": true,
+    "annualDividendPerShare": null,
+    "globalEquitySectors": null,
+    "imaSectorName": null,
+    "dateOfAgreement": "1997-04-15",
+    "performanceChartHeaderDisclosure": "For the performance chart of Mutual Recognition Fund, Y axis is CHANGE% and X axis is Date.",
+    "authorisedParticipants": [],
+    "fundCarbonEmission": {
+      "weightedAverageCarbonIntensityValue": 188.49019984,
+      "coveragebyportfolioWeightPercentage": 0.989186017454558,
+      "fundCarbonEmissionEffectiveDate": "2018-12-31"
+    },
+    "howToBuyETFLink": "https://am.jpmorgan.com/us/en/asset-management/gim/per/products/etfs/education/how-to-buy",
+    "languageToTranslationTexts": null,
+    "fundMarketingTextLanguageTranslationText": [
+      {
+        "typeName": "BMK_USES_RESEMBLANCE",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "<span title=\"Benchmark uses and resemblance\"><b>Benchmark uses and resemblance</b></span><br><ul><li>Performance comparison.</li></ul><p>The Sub-Fund is actively managed. The majority of the Sub-Fund’s holdings (excluding derivatives) are likely to be components of the benchmark and it is managed within indicative risk parameters that typically limit the Investment Manager’s discretion to deviate from its securities, weightings and risk characteristics. As a result, the Sub-Fund will bear a resemblance to the composition and risk characteristics of its benchmark; however, the Investment Manager’s discretion may result in performance that differs from the benchmark.</p>",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "INVESTEMENT_RISK_SECURITIES",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "<p>Equities</p>",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "INVESTEMENT_RISK_TECHNIQUE",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "<p>Hedging</p>",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "INVESTMENT_APPROACH",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "<ul><li>Uses a fundamental, bottom-up stock selection process.</li><li>Investment process built on stock level analysis by a global research team.</li></ul>",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "INVESTMENT_OBJS",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "To achieve a return in excess of the global equity markets by investing primarily in companies, globally.",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "INVESTMENT_POLICY",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "<p><b>Main investment exposure</b></p><br><p>At least 67% of assets invested in equities of companies anywhere in the world.</p><br><p><b>Derivatives</b></p><br><p><i>Used for:</i> efficient portfolio management; hedging. <i>Types:</i> see <u><a href=\"http://www.jpmorganassetmanagement.lu\">Sub-Fund Derivative Usage</a></u> table under <u><a href=\"http://www.jpmorganassetmanagement.lu\">How the Sub-Funds Use Derivatives, Instruments and Techniques</a></u> in the Prospectus. <i>TRS including CFD:</i> none. <i>Global exposure calculation method:</i> commitment.</p><br><p><b>Currencies</b></p><br><p><i>Sub-Fund Base Currency:</i> USD. <i>Currencies of asset denomination: </i>any. <i>Hedging approach:</i> typically managed to the currency weights of the benchmark.</p><br><p><b>Redemption and Dealing</b></p><br><p>Shares of the Sub-Fund may be redeemed on demand, with dealing normally on a daily basis.</p><br><br><p><b>Distribution Policy</b></p><br><p>This Share Class does not pay dividends. Earned income is retained in the NAV.</p><br>",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "OTHER_ASSOCIATED_RISK",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "<p>Currency</p><p>Market</p>",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "RISK_PROFILE",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "Risk Descriptions</a></u> in the Prospectus for a full description of each risk.</p>",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "INVESTMENT_OBJS",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "To achieve a return in excess of the global equity markets by investing primarily in companies, globally.",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "BMK_USES_RESEMBLANCE",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "<span title=\"Benchmark uses and resemblance\"><b>Benchmark uses and resemblance</b></span><br><ul><li>Performance comparison.</li></ul><p>The Sub-Fund is actively managed. The majority of the Sub-Fund’s holdings (excluding derivatives) are likely to be components of the benchmark and it is managed within indicative risk parameters that typically limit the Investment Manager’s discretion to deviate from its securities, weightings and risk characteristics. As a result, the Sub-Fund will bear a resemblance to the composition and risk characteristics of its benchmark; however, the Investment Manager’s discretion may result in performance that differs from the benchmark.</p>",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "INVESTEMENT_RISK_SECURITIES",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "<p>Equities</p>",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "INVESTEMENT_RISK_TECHNIQUE",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "<p>Hedging</p>",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "INVESTMENT_APPROACH",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "<ul><li>Uses a fundamental, bottom-up stock selection process.</li><li>Investment process built on stock level analysis by a global research team.</li></ul>",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "INVESTMENT_OBJS",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "To achieve a return in excess of the global equity markets by investing primarily in companies, globally.",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "INVESTMENT_POLICY",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "<p><b>Main investment exposure</b></p><br><p>At least 67% of assets invested in equities of companies anywhere in the world.</p><br><p><b>Derivatives</b></p><br><p><i>Used for:</i> efficient portfolio management; hedging. <i>Types:</i> see <u><a href=\"http://www.jpmorganassetmanagement.lu\">Sub-Fund Derivative Usage</a></u> table under <u><a href=\"http://www.jpmorganassetmanagement.lu\">How the Sub-Funds Use Derivatives, Instruments and Techniques</a></u> in the Prospectus. <i>TRS including CFD:</i> none. <i>Global exposure calculation method:</i> commitment.</p><br><p><b>Currencies</b></p><br><p><i>Sub-Fund Base Currency:</i> USD. <i>Currencies of asset denomination: </i>any. <i>Hedging approach:</i> typically managed to the currency weights of the benchmark.</p><br><p><b>Redemption and Dealing</b></p><br><p>Shares of the Sub-Fund may be redeemed on demand, with dealing normally on a daily basis.</p><br><br><p><b>Distribution Policy</b></p><br><p>This Share Class does not pay dividends. Earned income is retained in the NAV.</p><br>",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "OTHER_ASSOCIATED_RISK",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "<p>Currency</p><p>Market</p>",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      },
+      {
+        "typeName": "RISK_PROFILE",
+        "fundShareclassTranslationText": null,
+        "fundMarketingNameTranslationText": null,
+        "fundShareclassMarketingNameTranslatedText": null,
+        "fundMarketingTranslationText": "Risk Descriptions</a></u> in the Prospectus for a full description of each risk.</p>",
+        "fundAwardTranslationText": null,
+        "fundTranslationText": null,
+        "benchmarkTranslatedText": null,
+        "fundShareclassMarketingTranslatedText": null
+      }
+    ],
+    "shareclassOptionList": [
+      {
+        "categoryCode": "A",
+        "country": "HK",
+        "fundShareClassCategory": null,
+        "cusip": "LU0070217475",
+        "statusTypeCode": "O-O",
+        "shareclassName": "JPM Global Select Equity A (acc) - USD",
+        "displayName": "JPM A (acc) - USD",
+        "shortName": "JPM A (acc) - USD",
+        "currencyCode": "USD",
+        "distributingCode": "ACC",
+        "isHKIntermediaryFund": false,
+        "isHKNonMarketableIntermediaryFund": false,
+        "shareclassNameTranslationMap": null,
+        "shareclassShortNameTranslationMap": null,
+        "fundShareclassRegistrations": [
+          {
+            "country": {
+              "code": "AT",
+              "name": "Austria"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "AT",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2000-02-07"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "BE",
+              "name": "Belgium"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "BE",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2018-01-15"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CH",
+              "name": "Switzerland"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CH",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1998-06-05"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CY",
+              "name": "Cyprus"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CY",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2019-10-23"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "CZ",
+              "name": "Czech Republic"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "CZ",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2017-10-27"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "DE",
+              "name": "Germany"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "DE",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1997-05-21"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "DK",
+              "name": "Denmark"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "DK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2006-10-16"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "ES",
+              "name": "Spain"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "ES",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1998-07-22"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "FI",
+              "name": "Finland"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "FI",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2000-12-08"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "FR",
+              "name": "France"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "FR",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1997-04-23"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "GB",
+              "name": "United Kingdom"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "GB",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1997-01-17"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "GR",
+              "name": "Greece"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "GR",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2006-08-11"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HK",
+              "name": "Hong Kong"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HK",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2023-04-14"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HR",
+              "name": "Croatia"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HR",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2017-11-03"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "HU",
+              "name": "Hungary"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "HU",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2017-10-27"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "IE",
+              "name": "Ireland"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "IE",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2000-02-25"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "IS",
+              "name": "Iceland"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "IS",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2024-11-05"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "IT",
+              "name": "Italy"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "IT",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1997-09-30"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "JE",
+              "name": "Jersey"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "JE",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": null
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "KR",
+              "name": "Korea"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "KR",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2023-09-28"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "LU",
+              "name": "Luxembourg"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "LU",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1996-09-16"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "NL",
+              "name": "Netherlands"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "NL",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1998-12-01"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "NO",
+              "name": "Norway"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "NO",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2000-12-14"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "PT",
+              "name": "Portugal"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "PT",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2019-03-13"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SE",
+              "name": "Sweden"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SE",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "1999-12-29"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "SG",
+              "name": "Singapore"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "SG",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "RECOGNISED_FORM_2",
+                "date": "2020-03-27"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "TW",
+              "name": "Taiwan"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "TW",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2024-02-19"
+              }
+            ]
+          },
+          {
+            "country": {
+              "code": "XC",
+              "name": "Chile (Public Offering)"
+            },
+            "fundShareclassRegistrationStatus": [
+              {
+                "registrationCountryCode": "XC",
+                "fundRegistrationStatusCode": "GREEN",
+                "registrationSchemeCd": "NA",
+                "date": "2018-11-16"
+              }
+            ]
+          }
+        ],
+        "fundShareclassIndicator": [
+          {
+            "indicatorCode": "BOTH",
+            "indicatorValue": "B",
+            "shareclassIndicatorTypeCode": "MIFID_II_EXECUTION_NON_ADVISED"
+          },
+          {
+            "indicatorCode": "BOTH",
+            "indicatorValue": "B",
+            "shareclassIndicatorTypeCode": "MIFID_II_INVESTMENT_ADVICE"
+          },
+          {
+            "indicatorCode": "BOTH",
+            "indicatorValue": "B",
+            "shareclassIndicatorTypeCode": "MIFID_II_PORTFOLIO_MANAGEMENT"
+          },
+          {
+            "indicatorCode": "BOTH",
+            "indicatorValue": "B",
+            "shareclassIndicatorTypeCode": "MIFID_II_EXECUTION_ONLY"
+          },
+          {
+            "indicatorCode": "NEUTRAL",
+            "indicatorValue": "Neutral",
+            "shareclassIndicatorTypeCode": "MIFID_II_RISK_LOW_RISK_DE"
+          },
+          {
+            "indicatorCode": "NRA_MINISITE_YES",
+            "indicatorValue": "Yes",
+            "shareclassIndicatorTypeCode": "NRA_MINISITE"
+          },
+          {
+            "indicatorCode": "Y",
+            "indicatorValue": "Y",
+            "shareclassIndicatorTypeCode": "MIFID_II_PROFESSIONAL"
+          },
+          {
+            "indicatorCode": "Y",
+            "indicatorValue": "Y",
+            "shareclassIndicatorTypeCode": "MIFID_II_ELIGIBILE_COUNTERPARTY"
+          },
+          {
+            "indicatorCode": "Y",
+            "indicatorValue": "Y",
+            "shareclassIndicatorTypeCode": "MIFID_II_INVESTOR_RETAIL"
+          }
+        ],
+        "marketingCategoryName": "Global Equity"
+      }
+    ],
+    "distributor": [],
+    "liquidationDate": null,
+    "fundFocusIndicator": false,
+    "aemDisclosures": {
+      "pdpSummaryAward_1": [
+        "Issued by Refinitiv Lipper, 2022 award reflecting performance as of 31.12.2021. Refinitiv Lipper Fund Awards, © 2022 Refinitiv. All rights reserved. Used by permission and protected by the Copyright Laws of the United States. The printing, copying, redistribution, or retransmission of this content without express written permission is prohibited."
+      ],
+      "pdpSummaryAward_2": [
+        "Issued by AsianInvestor, 2022 award,  reflecting performance as at the previous calendar year end."
+      ],
+      "portfolio_info_annualized_fund_yield": [
+        ""
+      ],
+      "pdpSummaryERD": [
+        "The Fund invests primarily in companies, globally.\nThe Fund is therefore exposed to risks related to equity, emerging markets, currency, derivative and hedging.\nInvestors may be subject to substantial losses.\nInvestors should not solely rely on this document to make any investment decision."
+      ],
+      "pdpCardCompositionFundDistribution": [
+        "1) “Net distributable income” means the net investment income (i.e. dividend income and interest income net of fees and expenses) attributable to the relevant unit/share class and include also net realized gains (if any) based on unaudited management accounts. However, “net distributable income” does not include net unrealized gains. “Net distributable income” which is not declared and paid as distributions in a period of a financial year is carried forward as “net distributable income” for the next period(s) within the same financial year. “Net distributable income” that has been accrued as at the end of a financial year and is declared and paid as dividends at the next distribution date immediately after that financial year end is treated as “net distributable income” in respect of that financial year. However, “net distributable income” accrued as at the end of a financial year and not declared and paid as distributions at the next distribution date immediately after that financial year-end is included as “capital” for the next financial year.<br/>2)  For funds offering classes with a distribution feature, such classes aim at monthly, quarterly, semi-annual or annual distribution as the case may be. Dividend rate is not guaranteed. Distributions may be paid from capital. Payment of dividends out of capital amounts to a return or withdrawal of part of an investor’s original investment or from any capital gains attributable to that original investment. Any distributions involving payment of dividends out of the funds’/share classes’ capital may result in an immediate reduction of the net asset value per unit/share. Please note that a positive distribution yield does not imply a positive return. Investors should not make any investment decision solely based on information contained in the table above. You should read the relevant offering document (including the key facts statement) of the funds for further details including the risk factors. Investment involves risk. Past performance is not indicative of future performance. This document has not been reviewed by the SFC. <br/>Source: J.P. Morgan Asset Management.  Issued by JPMorgan Funds (Asia) Limited."
+      ],
+      "pdpBottomAll": [
+        "<b><u>Sources:</u></b><br/>Unless stated otherwise, all information as at the last valuation date of the previous month. Source: J.P. Morgan Asset Management. © 2024 Morningstar, Inc. All rights reserved. The information contained herein: (1) is proprietary to Morningstar and/or its content providers; (2) may not be copied or distributed; and (3) is not warranted to be accurate, complete, or timely. Neither Morningstar nor its content providers are responsible for any damages or losses arising from any use of this information. Past performance is no guarantee of future results. <br>Source of Analyst rating: Morningstar, Inc. Risk ratings (if any) are based on J.P. Morgan Asset Management's assessment of relative risk by asset class and historical volatility of the fund where applicable. The risk ratings are reviewed annually or as appropriate and for reference only. <br/><br/><b><u>Performance:</u></b><br/>Performance calculation is <b>NAV to NAV in denominated currency with income reinvested</b>.  It should be noted that due to the difference of the fund domiciles the valuation points used by Unit Trust range and SICAV range of funds for fair valuation (where applied) may vary.  <br/><br/><b><u>Distribution:</u></b><br/>For funds offering classes with a distribution feature, such classes aim at monthly, quarterly, semi-annual or annual distribution as the case may be. Dividend rate is not guaranteed. Distributions may be paid from capital.  Positive distribution yield does not imply positive return.  <br/><br/><b><u>Warning:</u></b><br/>Investment involves risk. Past performance is not indicative of future performance.  Investors should not make any investment decision solely based on information as per above.  Please refer to the offering document(s) for details, including the risk factors.     Any overweight in any investment holding exceeding the limit set out in the Investment Restrictions was due to market movements and will be rectified shortly.  This document has not been reviewed by the SFC. Issued by JPMorgan Funds (Asia) Limited.",
+        "",
+        "<br/><br/><b><u>NAV:</u></b><br>The net asset value per unit/share (NAV) of each fund is calculated and (if applicable) rounded in accordance with the relevant fund’s offering documents, please refer to the relevant fund’s offering documents for further details. Please note that the relevant fund’s NAV figure may not display trailing zeros after the decimal point.<br/><br/>"
+      ],
+      "pdpESGApproach": [
+        "Although ESG factors are taken into consideration in the Fund’s investment process, they are only one of many factors considered in the management of the Fund. ESG assessments may not be conclusive and securities of companies may be purchased and retained by the Fund for reasons other than material ESG factors. The Fund is not authorized as an ESG fund by the Securities and Futures Commission, nor is it being marketed as an ESG fund in Hong Kong.  "
+      ],
+      "pdpCardFundDistribution": [
+        "The AUD/CAD/EUR/GBP/NZD/RMB/SGD Hedged Classes are not recommended for investors whose base currency of investment is not in the aforesaid currencies. Source: J.P. Morgan Asset Management. <b>For funds offering classes with a distribution feature, such classes aim at monthly, quarterly, semi-annual or annual distribution as the case may be. Dividend rate is not guaranteed. Distributions may be paid from capital. Investment involves risk. Past performance is not indicative of future performance. Please refer to the offering document(s) for details, including the risk factors. </b>This document has not been reviewed by the SFC. Issued by JPMorgan Funds (Asia) Limited."
+      ],
+      "pdpCardFundDistributionFrequency": [
+        ""
+      ],
+      "pdpCardPerformance": [
+        ""
+      ],
+      "pdpCardFundFacts": [
+        "The Fund is not authorized as an ESG fund by the Securities and Futures Commission, nor is it being marketed as an ESG fund in Hong Kong.  <br>\nThe approach meets the requirements of the product classification in the fund’s home jurisdiction (where applicable). For more information, please refer to the Offering Document."
+      ],
+      "pdpSummaryFundName": [
+        "This Fund is authorised under the SFC Code on Unit Trusts and Mutual Funds but not under the SFC Code on REITs. The Fund does not invest in real estate property directly. The authorisation from SFC does not imply official recommendation."
+      ],
+      "pdpCardStatisticalAnalysis": [
+        "Since launch -With the exception of the \"Average annual return\" figure, all data are calculated from the month end after inception."
+      ],
+      "pdpDataPointESGApproach": [
+        "<b>ESG Integrated:</b> ESG Integration is the systematic inclusion of financially material ESG factors, alongside other relevant factors, in investment analysis and investment decisions with the goals of managing risk and improving long-term returns. ESG integration does not by itself change this product’s investment objective, exclude specific types of companies or constrain its investable universe.  This product is not designed for investors who are looking for a product that meets specific ESG goals or wish to screen out particular types of companies or investments, other than those required by any applicable law such as companies involved in the manufacture, production or supply of cluster munitions.<br>\n<b>ESG Promote:</b> Promotes ESG characteristics.<br>\n<b>Positive Tilt:</b> An investment style in which the portfolio will be tilted towards companies / issuers with positive ESG characteristics.<br>\n<b>Best-in-Class:</b> An investment style that focuses on companies / issuers that lead their peer groups (e.g. above average) in respect of sustainability performance.<br>\n<b>Thematic:</b> An investment style with a thematic focus on a UN Sustainable Development Goal or other specific ESG theme.<br><br>\n<a class=\"font-teal\" target=\"_blank\" href=\"https://am.jpmorgan.com/hk/en/asset-management/per/insights/investment-ideas/sustainable-investing/capabilities/\">Learn more about Sustainable Investing Solutions</a>"
+      ]
+    },
+    "fundIndustryRiskRating": [
+      {
+        "fundIndustryRatingDate": "2009-11-20",
+        "fundRiskRatingSchemeCode": "RISK_RATING",
+        "fundRiskRatingCode": "RISK_VERY_HIGH",
+        "fundRiskRatingValue": "4 - Very High"
+      },
+      {
+        "fundIndustryRatingDate": "2016-05-31",
+        "fundRiskRatingSchemeCode": "CREDIT_RISK",
+        "fundRiskRatingCode": "CREDIT_RISK1",
+        "fundRiskRatingValue": "1"
+      },
+      {
+        "fundIndustryRatingDate": "2023-04-26",
+        "fundRiskRatingSchemeCode": "RISK_RATING_TW",
+        "fundRiskRatingCode": "RISK_RATING_TW_RR3",
+        "fundRiskRatingValue": "RR3"
+      },
+      {
+        "fundIndustryRatingDate": "2024-01-01",
+        "fundRiskRatingSchemeCode": "RISK_RATING_HK",
+        "fundRiskRatingCode": "RISK_RATING_HK_3",
+        "fundRiskRatingValue": "3"
+      }
+    ],
+    "riskRatingValue": null,
+    "semiTransparentIndicator": null,
+    "managementStyleIndicator": null,
+    "etfSecLending": null,
+    "cltrlSecuritiesSecLending": null,
+    "secLendingCollateralRequirement": null,
+    "securityLendingApprovedBorrowers": null,
+    "isCriticalDataMissing": false,
+    "esgData": {
+      "esgIntegrationFlag": true,
+      "esgBestInClassFlag": false,
+      "esgThemeBasedFlag": false,
+      "esgExlusionsFlag": true,
+      "esgPositiveTiltFlag": false,
+      "esgPromoteFlag": true
+    },
+    "esgApproachDisclosure": [
+      "The approach meets the requirements of the product classification in the fund’s home jurisdiction (where applicable). For more information, please refer to the Offering Document. "
+    ],
+    "sdfrClassificationValue": "Article 8",
+    "isSMA": false,
+    "totalAsset": {
+      "value": null,
+      "displayValue": null,
+      "date": null
+    },
+    "leverageRatio": {
+      "value": null,
+      "displayValue": null,
+      "date": null
+    },
+    "grossYieldToMaturity": {
+      "value": null,
+      "displayValue": null,
+      "date": null
+    },
+    "grossYieldToWorst": {
+      "value": null,
+      "displayValue": null,
+      "date": null
+    },
+    "isUSCommingledFund": false,
+    "priipsHoldingPeriod": "5",
+    "fundDurationMaturity": null,
+    "isDigitalShareFund": false,
+    "holdingsCountryCode": null,
+    "productGroupCode": null,
+    "managementCompanyName": null
+  },
+  "error": null
+}

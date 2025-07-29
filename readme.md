@@ -23,3 +23,23 @@
 - main.py: fetch
 - clean.py: 清理資料
 - research.py 清理完資料後，進行想要的研究
+---  
+事前準備:
+git clone https://github.com/你的帳號/jp-data.git
+cd jp-data
+
+# 1. 建 venv
+py -3.13 -m venv .venv
+
+# 2. 啟動 venv
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
+. . \.venv\Scripts\Activate.ps1
+
+# 3. 安裝所有套件
+pip install -r requirements.txt
+
+# 4. 執行程式
+python main.py
+
+# 5. 進research.ipynb
+可以做你想做的事ㄌ

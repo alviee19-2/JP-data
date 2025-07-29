@@ -8,6 +8,7 @@ from datetime import date
 import csv
 
 from ISIN import ISIN, FUND_NAME
+from clear import delete_rawfile
 
 
 NAV_URL = "https://am.jpmorgan.com/FundsMarketingHandler/historicalData"
@@ -37,34 +38,45 @@ def fetch_NAV_json(cusip, retries=1, backoff=1):
                 "version": version,
             }
             try:
-                print(f"[抓取]{cusip}, country = {country}, version = {version}")
+                print(f"[抓取]NAV{cusip}, country = {country}, version = {version}")
                 resp = requests.get(NAV_URL, params=params, timeout=10)
                 resp.raise_for_status()
-                return resp.json()
+                data =  resp.json()
+                return data
+                
             except(requests.RequestException, ValueError) as e:
-                print(f"[失敗]{cusip}, version = {version}, country = {country}")
+                print(f"[失敗NAV]{cusip}, version = {version}, country = {country}")
                 continue
-
+            
+            
 def fetch_FUND_INFO_json(cusip, retries=2, backoff=1):
-    params = {
-        "cusip": cusip,
-        "country": "hk",
-        "role": "per",
-        "userLoggedIn": "false",
-        "language": "en",
-        "version": "8.12_1751450551",
-    }
-    for attempt in range(retries + 1):
-        try:
-            resp = requests.get(FUND_INFO_URL, params=params, timeout=10)
-            resp.raise_for_status()
-            return resp.json()
-        except (requests.RequestException, ValueError) as e:
-            if attempt < retries:
-                time.sleep(backoff * (2 ** attempt))
-            else:
-                print(f"[Error] 抓取 {cusip} 失敗：{e}")
-                return None
+    
+    versions = ["8.12_1751450551", "8.13_1752481876"]
+    countries = ["hk", "sg", "dk", "fi", "lu"]
+
+    for country in countries:
+        for version in versions:
+            params = {
+                "cusip": cusip,
+                "country": country,
+                "role": "per",
+                "userLoggedIn": "false",
+                "language": "en",
+                "version": version,
+            }
+            try:
+                print(f"[抓取]{cusip}, country = {country}, version = {version}")
+                resp = requests.get(FUND_INFO_URL, params=params, timeout=10)
+                resp.raise_for_status()
+                data =  resp.json()
+                if data["fundData"] is None or data["fundData"]["stringValueWrapper"] is None:
+                    print(f"[跳過FUND_INFO] {cusip} 回傳 error 或 fundData 為空")
+                    continue
+                return data
+                
+            except(requests.RequestException, ValueError) as e:
+                print(f"[失敗FUND_INFO]{cusip}, version = {version}, country = {country}")
+                continue
 
 def save_raw_json(cusip, data, type: str):
     
@@ -80,6 +92,7 @@ def save_raw_json(cusip, data, type: str):
     print(f"Saved: {full_path}")
 
 def main():
+    delete_rawfile()
     NAV_counter = 0
     for isin in ISIN:
         NAV = fetch_NAV_json(isin)

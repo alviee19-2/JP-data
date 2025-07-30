@@ -53,3 +53,6 @@ Result:
 現在main.py運行很穩定了，fetching加了一個新機制確保json也沒有抓歪。
 果然還是要loose coupling會比較好，還好之前有把save這個動作拉出去。
 sector跟國家分析已經完成，現在要來做holdings，比較麻煩一點。  
+
+### 結論
+holdings都分析好了。問題是有四種json回傳的檔案，需要各自debug，已經寫在check.md裡了，預計3個小時可以debug完。

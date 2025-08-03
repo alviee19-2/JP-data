@@ -28,14 +28,19 @@
 git clone https://github.com/你的帳號/jp-data.git
 cd jp-data
 
-# 1. 建 venv
+# 1. 建 venv(第一次就好)
 py -3.13 -m venv .venv
 
 # 2. 啟動 venv
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
-. . \.venv\Scripts\Activate.ps1
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned  
+window:  
+. .\.venv\Scripts\Activate.ps1
+source .\.venv\Scripts\activate
+apple:  
+source .venv/bin/activate
 
-# 3. 安裝所有套件
+
+# 3. 安裝所有套件(第一次就好)
 pip install -r requirements.txt
 
 # 4. 執行程式

@@ -1,7 +1,0 @@
-{
-  "fundData": null,
-  "error": {
-    "errorMessage": "Fund intermediary validation failed",
-    "errorStatus": 404
-  }
-}

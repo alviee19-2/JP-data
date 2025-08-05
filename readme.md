@@ -1,7 +1,7 @@
 ## 開發介紹
   
 專案目的:
-- 抓取NAV並分析
+- 抓取NAV並分析投組
     1. volatility
     2. returns(month, year)
     3. MDD
@@ -16,7 +16,8 @@
 資料夾簡介:
 - raw_data: fetch 所有的fund 利用ISIN  
 - chart: 全部的NAV
-- research_db: 存研究用的資料  
+- research_db: 所有的圓餅圖（國家、產業、持股）、圓餅圖的原始Json檔
+- Doc: 我自己的開發紀錄會檢查的東西
 ---
 軟體架構:
 - ISIN.py: 抓取資料夾下ISIN.py的csv裡的ISIN code，存入CUSIPS(list)

@@ -14,6 +14,10 @@ Daily_NAV_path = "raw_data/Daily_NAV"
 pio.renderers.default = "browser"
 
 fund_info = {}
+country_check = []
+sector_check = []
+holdings_check = []
+
 def invert_dict(dictionary: dict):
     return {v: k for k, v in dictionary.items()}
 
@@ -47,15 +51,16 @@ def read_data():
     # print(fund_info["HK0000055597"])
 
 def meta(isin, date):
-    #基金實際大小
+    #return基金實際大小
     AUM = fund_info[isin]["fundData"]["aum"]["value"]
     #費用
     management_fee = fund_info[isin]["fundData"]["shareClass"]["fees"]["managementFee"]
     subscription_fee = fund_info[isin]["fundData"]["shareClass"]["fees"]["subscriptionFees"]
     redemption_fee = fund_info[isin]["fundData"]["shareClass"]["fees"]["redemptionFees"]
-
+    os.makedirs(f"research_db/{isin}", exist_ok=True)
     print(f"當前分析日期: {date} ||  基金實際大小: {AUM}")
     print(f"管理費: {management_fee} || 訂閱費用: {subscription_fee} || 贖回費用: {redemption_fee} ")
+    return AUM
 
 def get_date(isin):
     date = fund_info[isin]["fundData"]["aum"]["date"]
@@ -105,7 +110,7 @@ def all_country(isin, target, date):
         fig.write_image(output_file, format = 'jpg', scale=3)
         return country
     else:
-        print("100%都是那個國家")
+        country_check.append(isin)
         return "fuck my bad"
 
 def all_sector(isin, target, date):
@@ -151,6 +156,7 @@ def all_sector(isin, target, date):
         fig.write_image(output_file, format = 'jpg', scale = 3)
         return sector
     else:
+        sector_check.append(isin)
         print(f"{isin} sector failed")
     
 def all_holdings(isin, target, date):
@@ -222,8 +228,24 @@ def all_holdings(isin, target, date):
         fig.write_image(output_file, format = 'jpg', scale=3)
         return holdings
     else:
+        holdings_check.append(isin)
         print(f"{isin}: holdings failed")
 
+def write_all_to_research(isin, target, country, sector, holdings, aum):
+    output_data = {
+        "isin": isin,
+        "name": target,
+        "aum": aum,
+        "holdings": holdings,
+        "sector": sector,
+        "country": country 
+    }
+    
+    output_path = os.path.join("research_db", isin, "info.json")
+    print(output_path)
+    with open(output_path, "w", encoding= "utf-8") as file:
+        json.dump(output_data, file)
+        print(f"已儲存至research_db/{isin}下")
 
 def main():
     read_data()
@@ -236,21 +258,22 @@ def main():
         target = FUND_NAME[isin]
         print(isin, '|', target)
         date = get_date(isin)
-        meta(isin, date)
+        aum = meta(isin, date)
         counter += 1
         country = all_country(isin, target, date)
         sector = all_sector(isin, target, date)
         holding = all_holdings(isin, target, date)
+        write_all_to_research(isin, target, country, sector, holding, aum)
         print(counter, "|", isin)
+    print("country_check: ", country_check)
+    print("sector_check: ", sector_check)
+    print("holdings_check: ", holdings_check)
+    
+
 if __name__ == "__main__":
     main()
-    # code = "LU1303367103"
-    # target = FUND_NAME[code]
-    # print(code, '|', target)
-    # date = get_date(code)
-    # meta(code, date)
-    # print(holding = all_holdings(code, target, date))
     
+
 
 #portfolio characteristic analysis
 #好像只要是bond才會有這個東西

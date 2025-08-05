@@ -35,7 +35,6 @@ py -3.13 -m venv .venv
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned  
 window:  
 . .\.venv\Scripts\Activate.ps1
-source .\.venv\Scripts\activate
 apple:  
 source .venv/bin/activate
 

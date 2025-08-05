@@ -16,7 +16,6 @@ for bad in remove:
         ISIN.remove(bad)
 
 FUND_NAME = FUNDS_DataFrames.set_index("ISIN")["Fund Name"].to_dict()
-# print(FUNDS_DataFrames.head())
-# print(FUND_NAME)
-# # print(ISIN, "\n", type(ISIN))
-# # print(FUNDS_DataFrames[""])
+for bad in remove:
+    if bad in FUND_NAME:
+        FUND_NAME.pop(bad)

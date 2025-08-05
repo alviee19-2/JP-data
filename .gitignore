@@ -1,0 +1,8 @@
+# 忽略所有 .jpg、.json、.html 文件
+*.jpg
+*.json
+*.html
+
+# 忽略 Python 缓存目录
+__pycache__/
+*.py[cod]

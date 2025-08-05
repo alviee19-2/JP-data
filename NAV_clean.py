@@ -9,6 +9,7 @@ from ISIN import ISIN, FUND_NAME
 # 全域存放 NAV 原始資料
 nav_dict = {}
 
+#我在跑nav的時候都會先使用這個函式先讀進nac_dict，nac_dict才能用
 def read_nav_json(path: str = "raw_data/Daily_NAV") -> None:
     """
     讀所有 JSON，存到 nav_dict 中 raw list
@@ -91,10 +92,11 @@ def draw_overlay(df: pd.DataFrame, title: str, filename: str) -> None:
         ),
         legend_itemclick="toggleothers"
     )
-    fig.show()
-    # os.makedirs("chart", exist_ok=True)
-    # out_path = os.path.join("chart", f"{filename}.jpg")
-    # fig.write_image(out_path, format="jpg", scale=2)
+    # fig.show()
+    os.makedirs("chart", exist_ok=True)
+    out_path = os.path.join("chart", f"{filename}.jpg")
+    fig.write_image(out_path, format="jpg", scale=2)
+    fig.write_html("chart.html", auto_open=True)
 
 def main():
     # 1. 讀原始 JSON

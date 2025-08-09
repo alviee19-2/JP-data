@@ -4,10 +4,13 @@ import json
 import pandas as pd
 import plotly.express as px
 
-from ISIN import ISIN, FUND_NAME
-
+from src.ISIN import get_isin_data
+ISIN, FUND_NAME = get_isin_data()
 # 全域存放 NAV 原始資料
 nav_dict = {}
+
+# 建立基金名稱到 ISIN 的反向映射
+FUND_NAME_TO_ISIN = {name: isin for isin, name in FUND_NAME.items()}
 
 #我在跑nav的時候都會先使用這個函式先讀進nac_dict，nac_dict才能用
 def read_nav_json(path: str = "raw_data/Daily_NAV") -> None:
@@ -20,14 +23,21 @@ def read_nav_json(path: str = "raw_data/Daily_NAV") -> None:
     """
     # nav_dict.clear()
     for filepath in glob.glob(os.path.join(path, "*.json")):
-        isin = os.path.basename(filepath).split("_")[0]
-        with open(filepath, encoding="utf-8") as f:
-            data = json.load(f)
-        nav_dict[isin] = [
-            {"date": item["date"], "navPrice": item["navPrice"]}
-            for item in data.get("historicalNAVList", [])
-            if item.get("date") and item.get("navPrice") is not None
-        ]
+        fund_name_from_filename = os.path.basename(filepath).split("_2025")[0] # 假設檔案名是 "基金名稱_2025-08-09.json"
+        
+        # 嘗試從反向映射中獲取 ISIN
+        isin = FUND_NAME_TO_ISIN.get(fund_name_from_filename)
+        
+        if isin:
+            with open(filepath, encoding="utf-8") as f:
+                data = json.load(f)
+            nav_dict[isin] = [
+                {"date": item["date"], "navPrice": item["navPrice"]}
+                for item in data.get("historicalNAVList", [])
+                if item.get("date") and item.get("navPrice") is not None
+            ]
+        else:
+            print(f"警告：找不到基金名稱 '{fund_name_from_filename}' 對應的 ISIN，跳過檔案：{filepath}")
     print(f"已讀取 {len(nav_dict)} 支基金 NAV 資料")
 
 
@@ -124,7 +134,9 @@ def main():
     
 
 if __name__ == "__main__":
-    main()
+    # main()
+    print(nav_dict.keys())
+    print(len(nav_dict))
     # read_nav_json()
     # isin = ISIN[50]
     # print(FUND_NAME[isin])

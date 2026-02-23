@@ -1,35 +1,46 @@
-import glob
-import os
+﻿from __future__ import annotations
+
 import shutil
+from pathlib import Path
+from typing import Iterable
 
-def delete_raw_json():
-    """
-    刪除 raw_data/Daily_NAV 和 raw_data/FUND_info 資料夾中的所有 JSON 檔案。
-    """
-    print("[clear.py] 開始執行 delete_raw_json...")
-    for folder in ["raw_data/Daily_NAV", "raw_data/FUND_info"]:
-        pattern = os.path.join(folder, "*.json")
-        json_files = glob.glob(pattern)
-        for fp in json_files:
-            os.remove(fp)
-        print(f"[clear.py] 已刪除 {len(json_files)} 個 .json 檔：{folder}")
-    print("[clear.py] delete_raw_json 執行完畢。")
 
-def delete_research_db():
-    """
-    刪除 research_db 資料夾中的所有內容（檔案和子資料夾）。
-    """
-    print("[clear.py] 開始執行 delete_research_db...")
-    folder = "../research_db"
+def _delete_json_files(folder: Path) -> int:
+    removed = 0
+    for file_path in folder.glob("*.json"):
+        file_path.unlink(missing_ok=True)
+        removed += 1
+    return removed
 
-    # 確保資料夾存在
-    os.makedirs(folder, exist_ok=True)
 
-    # 遍歷裡面所有項目，檔案就 os.remove，資料夾用 shutil.rmtree
-    for name in os.listdir(folder):
-        path = os.path.join(folder, name)
-        if os.path.isdir(path):
-            shutil.rmtree(path)
+def delete_raw_json(
+    raw_data_root: str | Path = "raw_data",
+    subfolders: Iterable[str] = ("Daily_NAV", "FUND_info"),
+) -> dict[str, int]:
+    """Delete JSON files under raw data subfolders."""
+    root = Path(raw_data_root)
+    deleted_by_folder: dict[str, int] = {}
+    for subfolder in subfolders:
+        target = root / subfolder
+        target.mkdir(parents=True, exist_ok=True)
+        deleted_count = _delete_json_files(target)
+        deleted_by_folder[str(target)] = deleted_count
+        print(f"[clear.py] removed {deleted_count} JSON files from: {target}")
+    return deleted_by_folder
+
+
+def delete_research_db(folder: str | Path = "research_db") -> int:
+    """Delete all items under research_db while keeping the root folder."""
+    target = Path(folder)
+    target.mkdir(parents=True, exist_ok=True)
+
+    removed = 0
+    for item in target.iterdir():
+        if item.is_dir():
+            shutil.rmtree(item)
         else:
-            os.remove(path)
-    print("[clear.py] delete_research_db 執行完畢。")
+            item.unlink(missing_ok=True)
+        removed += 1
+
+    print(f"[clear.py] removed {removed} items from: {target}")
+    return removed

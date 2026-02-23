@@ -1,54 +1,153 @@
-## 開發介紹
-  
-專案目的:
-- 回測JP FUND，儲存報告
-- 全部基金的NAV chart
-- 全部基金的產業、國家、持股比例
----  
-事前準備:
-git clone https://github.com/你的帳號/jp-data.git
-cd jp-data  
-### 1. 建 venv(第一次就好)
+﻿# jp-data
+
+這個專案用來做 J.P. Morgan 基金資料流程化處理：
+- 抓取 NAV / FUND info 原始資料
+- 產生標準化 `research_db`
+- 回測組合並輸出報告與曝險圖
+- 產生相關係數熱力圖、泡泡圖、NAV overlay
+
+## 目前功能
+
+1. 資料抓取（`src/fetch.py`）
+- 從 JPM API 抓 NAV 與 FUND info
+- 可設定 countries / versions / timeout / limit
+- 產生抓取紀錄 `src/fetch_check.csv`
+
+2. 研究資料標準化（`src/research.py`）
+- 解析 country / sector / holdings / AUM
+- 輸出 `research_db/<ISIN>/info.json`
+- 可選擇是否輸出圖表
+
+3. 回測（`backtester.py`）
+- 支援固定權重、隨機權重、擾動權重、外部 JSON 權重
+- 支援 cache、多次迭代、Sharpe/Vol 門檻篩選
+- 輸出 QuantStats HTML 與曝險圖
+
+4. 視覺化分析
+- `analysis_on_all.py`: 相關係數熱力圖
+- `bubble_chart.py`: 報酬/波動泡泡圖
+- `NAV_clean.py`: NAV overlay 圖（HTML）
+
+5. 一鍵 Pipeline（`main.py`）
+- 可控制 clear/fetch/research 各步驟
+- 所有原本手動改常數的參數已改為 CLI 參數
+
+## 安裝
+
+```powershell
 py -3.13 -m venv .venv
-
-### 2. 啟動 venv
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned  
-接下來分電腦系統:  
-window:  
-. .\.venv\Scripts\Activate.ps1
-apple:  
-source .venv/bin/activate  
-
-### 3. 安裝所有套件(第一次就好)
+.\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
+```
 
-### 4. 執行程式  
-執行:  
-現在所有核心資料處理邏輯都已整合到 `src/` 資料夾中，並由 `main.py` 統一協調執行。
+## 使用方法
 
-```bash
+### 1) 完整流程（清理 -> 抓取 -> 研究）
+
+```powershell
 python main.py
 ```
 
-`main.py` 會依序執行以下步驟：
+常用參數：
 
-*   **資料清理**: 呼叫 `src/clear.py` 中的函式，刪除舊的原始資料 (`raw_data/Daily_NAV`, `raw_data/FUND_info`) 和研究分析結果 (`research_db/`)，確保每次執行都使用最新資料。
-    *   `delete_raw_json()`: 刪除原始 JSON 檔案。
-    *   `delete_research_db()`: 刪除研究資料庫內容。
-*   **基金資料抓取**: 呼叫 `src/fetch.py` 中的 `run_fetch()` 函式，自動執行以下操作：
-    *   從 `funds.csv` 獲取 ISIN 碼和基金名稱 (透過 `src/ISIN.py` 中的 `get_isin_data()` 函式)。
-    *   從 J.P. Morgan 網站抓取基金的歷史淨值 (NAV) 和基本資訊。
-    *   將抓取到的原始 JSON 資料儲存到 `raw_data/` 資料夾。
-    *   記錄抓取狀態到 `fetch_check.csv`。
-*   **基金研究分析**: 呼叫 `src/research.py` 中的 `run_research()` 函式，自動執行以下操作：
-    *   讀取 `raw_data/` 中的基金基礎資訊。
-    *   分析每支基金的資產管理規模 (AUM)、國家分佈、產業分佈和持股分佈。
-    *   為國家、產業和持股生成圓餅圖 (JPG 格式)。
-    *   將分析結果儲存到 `research_db/` 資料夾。
+```powershell
+python main.py --help
+python main.py --fetch-limit 10 --research-limit 10
+python main.py --skip-clear-raw --skip-clear-research
+python main.py --skip-fetch --skip-research-charts
+```
 
-其他獨立腳本：
-*   `NAV_clean.py`: 儲存到 `chart` 資料夾。將 NAV 一次畫在同一張圖，清楚看到每支基金。HTML 可以直接離開 IDE 點開。
-*   `backtester.py`: 回測器有兩個可調整參數，結果會儲存至 `SAA` 資料夾下面。
-    1.  `start_date`: 回測日期。
-    2.  `name`: **每一次都要改名子，這是回測結果的檔案位置！**
-    3.  `payload{}`: 裡面是我們有的基金，用小數點來決定權重。
+### 2) 只抓資料
+
+```powershell
+python src/fetch.py --help
+python src/fetch.py --limit 20 --timeout 15
+python src/fetch.py --countries hk,sg,us --versions 8.14_1753929949
+python src/fetch.py --keep-raw --overwrite-fetch-check
+```
+
+### 3) 只建研究資料庫
+
+```powershell
+python src/research.py --help
+python src/research.py --fund-info-path raw_data/FUND_info --research-db-path research_db
+python src/research.py --limit 30 --skip-charts
+```
+
+### 4) 回測
+
+```powershell
+python backtester.py --help
+python backtester.py --payload-mode fixed --start-date 2014-01-01 --end-date 2025-12-31
+python backtester.py --payload-mode random --iterations 50 --seed 42
+python backtester.py --payload-file my_payload.json --portfolio-name my_portfolio
+python backtester.py --refresh-cache
+```
+
+### 5) 全基金相關係數熱力圖
+
+```powershell
+python analysis_on_all.py --help
+python analysis_on_all.py --start-date 2018-01-01 --end-date 2025-12-31
+python analysis_on_all.py --output chart/corr_heatmap.png --vmin -0.2 --vmax 1.0
+```
+
+### 6) 泡泡圖
+
+```powershell
+python bubble_chart.py --help
+python bubble_chart.py --payload-mode fixed
+python bubble_chart.py --payload-mode random --equity-share 0.7 --fi-share 0.3
+python bubble_chart.py --payload-file my_payload.json --output chart/custom_bubble.png
+```
+
+### 7) NAV overlay 圖
+
+```powershell
+python NAV_clean.py --help
+python NAV_clean.py --start-date 2010-01-01 --threshold 50
+python NAV_clean.py --nav-dir raw_data/Daily_NAV --output-dir chart
+python NAV_clean.py --skip-group-charts
+```
+
+## 常用工作流
+
+1. 先更新原始資料
+```powershell
+python main.py --skip-research
+```
+
+2. 再生成研究資料（不重抓）
+```powershell
+python main.py --skip-fetch
+```
+
+3. 跑回測
+```powershell
+python backtester.py --payload-mode fixed
+```
+
+4. 出圖
+```powershell
+python analysis_on_all.py
+python bubble_chart.py
+python NAV_clean.py
+```
+
+## 目錄說明
+
+- `src/`: 核心模組（fetch/research/clear/ISIN/chart_utils）
+- `raw_data/`: API 原始 JSON
+- `research_db/`: 研究結果（以 ISIN 分資料夾）
+- `cache/`: 回測快取
+- `chart/`: 一般分析圖輸出
+- `SAA/`: 回測報告輸出
+- `documents/`: 開發紀錄
+
+## 重構重點（本次）
+
+- 主流程修正：`main.py` 會正確執行 research，而不是只跑 `ISIN.py`
+- 移除多數硬編碼參數，改成 `argparse`
+- 修正 NAV 檔名解析與 ETF NAV 欄位讀取
+- `research_db` 結構改為 `research_db/<ISIN>/info.json`
+- 曝險彙總改為讀 `info.json` 的 `name` 欄位，不依賴資料夾名稱
